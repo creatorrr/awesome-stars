@@ -541,7 +541,7 @@
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [IBM/zshot](https://github.com/IBM/zshot) - Zero and Few shot named entity & relationships recognition
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Engineers: framework, runtime and control plane.
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
@@ -809,7 +809,7 @@
 - [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [metaskills/experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Engineers: framework, runtime and control plane.
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
@@ -876,7 +876,7 @@
 
 ## analytics 
 
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) - Real-time analytics on Postgres tables
@@ -3414,7 +3414,7 @@
 ## database 
 
 - [Decathlon/dblinter](https://github.com/Decathlon/dblinter) - A static analysis tool for postgresql databases
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
@@ -4082,7 +4082,7 @@
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [herbie-fp/herbie](https://github.com/herbie-fp/herbie) - Optimize floating-point expressions for accuracy
 - [entropy-research/Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Engineers: framework, runtime and control plane.
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -5449,7 +5449,7 @@
 
 ## gui 
 
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [egara/buttermanager](https://github.com/egara/buttermanager) - ButterManager is a BTRFS tool for managing snapshots, balancing filesystems and upgrading the system safetly.
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
@@ -5987,6 +5987,7 @@
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [zhmushan/abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
@@ -8741,7 +8742,7 @@
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [subnut/vim-iawriter](https://github.com/subnut/vim-iawriter) - iAwriter's Focus mode for vim
 - [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - MOVED TO CODEBERG - Neovim's answer to the mouse 🦘
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
@@ -9869,6 +9870,7 @@
 
 ## others 
 
+- [wedow/ticket](https://github.com/wedow/ticket) - Fast, powerful, git-native ticket tracking in a single bash script. Dependency graphs, priority levels, zero setup.
 - [SenticNet/primenet](https://github.com/SenticNet/primenet) - PrimeNet
 - [zelikos/davincibox](https://github.com/zelikos/davincibox) - Container for DaVinci Resolve installation and runtime dependencies on Linux
 - [lyehe/porterminal](https://github.com/lyehe/porterminal) - Quick n' dirty web terminal tunneling your phone & pc
@@ -11154,7 +11156,7 @@
 - [google-deepmind/narrativeqa](https://github.com/google-deepmind/narrativeqa) - This repository contains the NarrativeQA dataset. It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
 - [JerichoWorld/JerichoWorld](https://github.com/JerichoWorld/JerichoWorld) - 
 - [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
-- [athalhammer/danker](https://github.com/athalhammer/danker) - Compute PageRank on &gt;3 billion Wikipedia links on off-the-shelf hardware.
+- [athalhammer/danker](https://github.com/athalhammer/danker) - Compute PageRank on &gt;4 billion Wikipedia links on off-the-shelf hardware.
 - [neondatabase/pg_embedding](https://github.com/neondatabase/pg_embedding) - Hierarchical Navigable Small World (HNSW) algorithm for vector similarity search in PostgreSQL
 - [ZubinGou/multi-view-prompting](https://github.com/ZubinGou/multi-view-prompting) - Repo for "MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction" [ACL'2023]
 - [sjockers/bbc-best-rapmusic](https://github.com/sjockers/bbc-best-rapmusic) - The best hip-hop songs of all time, visualized
@@ -11845,7 +11847,6 @@
 - [raosudha89/GYAFC-corpus](https://github.com/raosudha89/GYAFC-corpus) - This is the Grammarly's Yahoo Answers Formality Corpus
 - [project-miracl/miracl](https://github.com/project-miracl/miracl) - A large-scale multilingual dataset for Information Retrieval. Thorough human-annotations across 18 diverse languages.
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 - [Moradnejad/ColBERT-Using-BERT-Sentence-Embedding-for-Humor-Detection](https://github.com/Moradnejad/ColBERT-Using-BERT-Sentence-Embedding-for-Humor-Detection) - ColBERT humor dataset for the task of humor detection, containing 200,000 jokes/news
 - [OpenBMB/ModelCenter](https://github.com/OpenBMB/ModelCenter) - Efficient, Low-Resource, Distributed transformer implementation based on BMTrain
@@ -14048,7 +14049,7 @@
 
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [Florents-Tselai/spat](https://github.com/Florents-Tselai/spat) - Redis-like In-Memory DB Embedded in Postgres
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
 - [dbos-inc/durable-swarm](https://github.com/dbos-inc/durable-swarm) - Augment Swarm with durable execution to help you build reliable and scalable multi-agent systems.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -14543,7 +14544,7 @@
 - [explosion/weasel](https://github.com/explosion/weasel) - 🦦 weasel: A small and easy workflow system
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Engineers: framework, runtime and control plane.
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [python-humanize/humanize](https://github.com/python-humanize/humanize) - Python humanize functions
@@ -15790,7 +15791,7 @@
 - [amol-/dukpy](https://github.com/amol-/dukpy) - Simple JavaScript interpreter for Python
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [valmisson/tauri-app-template](https://github.com/valmisson/tauri-app-template) - A template for building desktop applications with Tauri
 - [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper for today. Less but handy features for plain Markdown lovers.
@@ -16354,6 +16355,7 @@
 - [VoltaML/voltaML-fast-stable-diffusion](https://github.com/VoltaML/voltaML-fast-stable-diffusion) - Beautiful and Easy to use Stable Diffusion WebUI
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [vmware-archive/differential-datalog](https://github.com/vmware-archive/differential-datalog) - DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. A DDlog programmer does not writ
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -16830,7 +16832,7 @@
 
 - [erezsh/sqeleton](https://github.com/erezsh/sqeleton) - A python library for efficiently interacting and querying SQL databases
 - [Florents-Tselai/spat](https://github.com/Florents-Tselai/spat) - Redis-like In-Memory DB Embedded in Postgres
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [mbiesiad/awesome-sql](https://github.com/mbiesiad/awesome-sql) - 😎 Awesome lists about SQL stuff! :computer: Tutorials, docs, formatters, online education, tools and more :fire:
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
@@ -17801,7 +17803,7 @@
 ## ui 
 
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [reflex-dev/reflex-chakra](https://github.com/reflex-dev/reflex-chakra) - Chakra Implementation in Reflex
@@ -17864,7 +17866,7 @@
 - [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - MOVED TO CODEBERG - Neovim's answer to the mouse 🦘
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
