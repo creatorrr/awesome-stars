@@ -36,7 +36,6 @@
 - [F#](#f#)
 - [Fennel](#fennel)
 - [Flix](#flix)
-- [Fluent](#fluent)
 - [Fortran](#fortran)
 - [Frege](#frege)
 - [GAP](#gap)
@@ -82,6 +81,7 @@
 - [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Odin](#odin)
@@ -931,10 +931,6 @@
 ## Flix 
 
 - [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
-
-## Fluent 
-
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## Fortran 
 
@@ -1974,6 +1970,7 @@
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [dkamm/pr-quiz](https://github.com/dkamm/pr-quiz) - A GitHub Action that uses AI to generate a quiz from your pull request
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [ken107/read-aloud](https://github.com/ken107/read-aloud) - An awesome browser extension that reads aloud webpage content with one click
 - [sylviangth/awesome-remote-mcp-servers](https://github.com/sylviangth/awesome-remote-mcp-servers) - A curated list of Hosted & Managed Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 - [valmisson/tauri-app-template](https://github.com/valmisson/tauri-app-template) - A template for building desktop applications with Tauri
@@ -2289,7 +2286,6 @@
 - [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
 - [hoop33/gqall](https://github.com/hoop33/gqall) - A CLI for running a GraphQL query and requesting all fields
 - [mateodelnorte/loop](https://github.com/mateodelnorte/loop) - loop through commands in fun and amazing ways!
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [dmonad/lib0](https://github.com/dmonad/lib0) - Monorepo of isomorphic utility functions
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -3288,6 +3284,10 @@
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [WebGHC/wasm-cross](https://github.com/WebGHC/wasm-cross) - Nix expressions for cross compiling to WebAssembly
 
+## Nunjucks 
+
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+
 ## OCaml 
 
 - [raven-ml/raven](https://github.com/raven-ml/raven) - Modern scientific computing for OCaml
@@ -3841,7 +3841,7 @@
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [suamin/awesome-kg-qaie](https://github.com/suamin/awesome-kg-qaie) - Awesome quickstart readings and resources for KGs with applications in QA and IE.
 - [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
-- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
+- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
 - [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses) - List of free online programming/CS courses [Massive Open Online Courses]
 - [mitocw/mitocw-json-lib](https://github.com/mitocw/mitocw-json-lib) - python library for parsing MIT OCW JSON files
 - [mitocw/content-mit-18-01-1x-captions](https://github.com/mitocw/content-mit-18-01-1x-captions) - Subtitles / captions for videos in MIT 18.01.1x
