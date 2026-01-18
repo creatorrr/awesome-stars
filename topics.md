@@ -794,7 +794,7 @@
 
 ## ai-agents 
 
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal command-line client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It exposes custom tools and MCP servers as code that runs in secure sandboxes for token-efficient calls.
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale
@@ -1379,7 +1379,7 @@
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit
 - [milisp/awesome-claude-dxt](https://github.com/milisp/awesome-claude-dxt) - Awesome Claude Desktop Extensions (dxt) (not only Claude) mcpb
 - [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [mbiesiad/awesome-sql](https://github.com/mbiesiad/awesome-sql) - 😎 Awesome lists about SQL stuff! :computer: Tutorials, docs, formatters, online education, tools and more :fire:
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
 - [augustogoulart/awesome-pytest](https://github.com/augustogoulart/awesome-pytest) - A curated list of awesome pytest resources
@@ -1503,7 +1503,7 @@
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [danhuss/awesome-sql](https://github.com/danhuss/awesome-sql) - List of tools and techniques for working with relational databases.
 - [suamin/awesome-kg-qaie](https://github.com/suamin/awesome-kg-qaie) - Awesome quickstart readings and resources for KGs with applications in QA and IE.
-- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
+- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
@@ -1568,7 +1568,7 @@
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 - [milisp/awesome-claude-dxt](https://github.com/milisp/awesome-claude-dxt) - Awesome Claude Desktop Extensions (dxt) (not only Claude) mcpb
 - [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [mbiesiad/awesome-sql](https://github.com/mbiesiad/awesome-sql) - 😎 Awesome lists about SQL stuff! :computer: Tutorials, docs, formatters, online education, tools and more :fire:
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
 - [sylviangth/awesome-remote-mcp-servers](https://github.com/sylviangth/awesome-remote-mcp-servers) - A curated list of Hosted & Managed Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
@@ -1711,7 +1711,7 @@
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [danhuss/awesome-sql](https://github.com/danhuss/awesome-sql) - List of tools and techniques for working with relational databases.
 - [suamin/awesome-kg-qaie](https://github.com/suamin/awesome-kg-qaie) - Awesome quickstart readings and resources for KGs with applications in QA and IE.
-- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
+- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
 - [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses) - List of free online programming/CS courses [Massive Open Online Courses]
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
@@ -1857,6 +1857,7 @@
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [anthonycorletti/astrobase](https://github.com/anthonycorletti/astrobase) - Create kubernetes clusters quickly on GCP, AWS, or Azure.
 - [feathr-ai/feathr](https://github.com/feathr-ai/feathr) - Feathr – A scalable, unified data and AI engineering platform for enterprise
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -1904,7 +1905,7 @@
 
 ## bash 
 
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal command-line client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
 - [rz1989s/claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) - Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
@@ -2430,7 +2431,7 @@
 
 ## cli 
 
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal command-line client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [iagooar/qqqa](https://github.com/iagooar/qqqa) - Fast, stateless LLM for your shell: qq answers; qa runs commands
@@ -2615,7 +2616,7 @@
 - [Tensegritics/ClojureDart](https://github.com/Tensegritics/ClojureDart) - Clojure dialect for Flutter and Dart
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [homebaseio/homebase-react](https://github.com/homebaseio/homebase-react) - The React state management library for write-heavy applications
-- [replikativ/datahike](https://github.com/replikativ/datahike) - A fast, immutable, distributed & compositional Datalog engine for everyone.
+- [replikativ/datahike](https://github.com/replikativ/datahike) - A fast, versioned, distributed Datalog engine for everyone.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [accelerated-text/numberwords](https://github.com/accelerated-text/numberwords) - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
@@ -2725,7 +2726,7 @@
 
 ## command-line 
 
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal command-line client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add f
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -3426,6 +3427,7 @@
 
 ## database 
 
+- [zx80/anodb](https://github.com/zx80/anodb) - Convenient Wrapper around aiosql and a Database Connection.
 - [Decathlon/dblinter](https://github.com/Decathlon/dblinter) - A static analysis tool for postgresql databases
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -3524,7 +3526,7 @@
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [homebaseio/homebase-react](https://github.com/homebaseio/homebase-react) - The React state management library for write-heavy applications
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
-- [replikativ/datahike](https://github.com/replikativ/datahike) - A fast, immutable, distributed & compositional Datalog engine for everyone.
+- [replikativ/datahike](https://github.com/replikativ/datahike) - A fast, versioned, distributed Datalog engine for everyone.
 - [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - A cloud-native database based on PostgreSQL developed by Alibaba Cloud.
 - [level12/pals](https://github.com/level12/pals) - Easy distributed locking using PostgreSQL Advisory Locks.
 - [danhuss/awesome-sql](https://github.com/danhuss/awesome-sql) - List of tools and techniques for working with relational databases.
@@ -4499,8 +4501,8 @@
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [sebastian-hofstaetter/teaching](https://github.com/sebastian-hofstaetter/teaching) - Open-Source Information Retrieval Courses @ TU Wien
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
-- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
+- [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
+- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
 - [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses) - List of free online programming/CS courses [Massive Open Online Courses]
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [mitmath/computational-thinking](https://github.com/mitmath/computational-thinking) - Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia
@@ -5014,7 +5016,7 @@
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [gogitdb/gitdb](https://github.com/gogitdb/gitdb) - Distributed Embeddable Database
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge
 - [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
@@ -5513,7 +5515,6 @@
 ## hacktoberfest 
 
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [gethopp/hopp](https://github.com/gethopp/hopp) - The best OSS remote pair programming app.
 - [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [mbiesiad/awesome-sql](https://github.com/mbiesiad/awesome-sql) - 😎 Awesome lists about SQL stuff! :computer: Tutorials, docs, formatters, online education, tools and more :fire:
@@ -5784,7 +5785,6 @@
 - [SciML/StochasticDiffEq.jl](https://github.com/SciML/StochasticDiffEq.jl) - Solvers for stochastic differential equations which connect with the scientific machine learning (SciML) ecosystem
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [TuringLang/DistributionsAD.jl](https://github.com/TuringLang/DistributionsAD.jl) - Automatic differentiation of  Distributions using Tracker, Zygote, ForwardDiff and ReverseDiff
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [linuxserver/docker-jackett](https://github.com/linuxserver/docker-jackett) - 
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
@@ -5811,8 +5811,6 @@
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [singularityware/singularityware.github.io](https://github.com/singularityware/singularityware.github.io) - base documentation site for Singularity software
-- [TuringLang/Bijectors.jl](https://github.com/TuringLang/Bijectors.jl) - Implementation of normalising flows and constrained random variable transformations
-- [TuringLang/Turing.jl](https://github.com/TuringLang/Turing.jl) - Bayesian inference with probabilistic programming.
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 - [tsoding/snitch](https://github.com/tsoding/snitch) - Language agnostic tool that collects TODOs in the source code and reports them as Issues
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
@@ -6120,6 +6118,7 @@
 ## ipfs 
 
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [rarepress/nebulus](https://github.com/rarepress/nebulus) - Virtual IPFS
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -6676,7 +6675,7 @@
 - [JuliaNLSolvers/Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) - Optimization functions for Julia
 - [SciML/DiffEqOperators.jl](https://github.com/SciML/DiffEqOperators.jl) - Linear operators for discretizations of differential equations and scientific machine learning (SciML)
 - [JuliaParallel/PETSc.jl](https://github.com/JuliaParallel/PETSc.jl) - Julia wrappers for the PETSc library
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
+- [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [mtsch/Ripser.jl](https://github.com/mtsch/Ripser.jl) - Simple Ripser wrapper in Julia
 - [mossr/BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia
 - [SciML/SciMLTutorials.jl](https://github.com/SciML/SciMLTutorials.jl) - Tutorials for doing scientific machine learning (SciML) and high-performance differential equation solving with open source software.
@@ -7058,7 +7057,7 @@
 - [janishar/mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 - [ContextLab/human-memory](https://github.com/ContextLab/human-memory) - Course materials for Dartmouth course: Human Memory (PSYC 51.09)
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
+- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
 - [cvalenzuela/scenescoop](https://github.com/cvalenzuela/scenescoop) - A tool to describe the content of videos and suggest similar scenes in other videos/films.
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [opencog/opencog](https://github.com/opencog/opencog) - A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI)
@@ -7218,6 +7217,7 @@
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for mobile devices.
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [BlueFalconHD/apple_generative_model_safety_decrypted](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted) - Decrypted Generative Model safety files for Apple Intelligence containing filters
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
@@ -8275,7 +8275,7 @@
 
 ## mcp 
 
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal command-line client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It exposes custom tools and MCP servers as code that runs in secure sandboxes for token-efficient calls.
 - [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - Hundreds of Claude Code plugins with embedded AI skills. Learn via interactive Jupyter tutorials.
@@ -8337,7 +8337,6 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -9677,7 +9676,7 @@
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
-- [replikativ/datahike](https://github.com/replikativ/datahike) - A fast, immutable, distributed & compositional Datalog engine for everyone.
+- [replikativ/datahike](https://github.com/replikativ/datahike) - A fast, versioned, distributed Datalog engine for everyone.
 - [viky-ai/viky-ai](https://github.com/viky-ai/viky-ai) - Natural Language Processing platform. Allows to extract information from unstructured text.
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
@@ -9892,6 +9891,7 @@
 
 ## others 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [haykgrigo3/TimeCapsuleLLM](https://github.com/haykgrigo3/TimeCapsuleLLM) - A LLM trained only on data from certain time periods to reduce modern bias
 - [samuel-vitorino/sopro](https://github.com/samuel-vitorino/sopro) - A lightweight text-to-speech model with zero-shot voice cloning
 - [wedow/ticket](https://github.com/wedow/ticket) - Fast, powerful, git-native ticket tracking in a single bash script. Dependency graphs, priority levels, zero setup.
@@ -9913,7 +9913,7 @@
 - [Orange-County-AI/MCP-DSL](https://github.com/Orange-County-AI/MCP-DSL) - 
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for SDK of upcoming Apps / UI extension
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome) - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [tyfeld/MMaDA-Parallel](https://github.com/tyfeld/MMaDA-Parallel) - Official Implementation of "MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation"
@@ -12812,6 +12812,7 @@
 - [johnbywater/quantdsl](https://github.com/johnbywater/quantdsl) - Quant DSL
 - [yemount/pose-animator](https://github.com/yemount/pose-animator) - 
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
+- [TuringLang/DistributionsAD.jl](https://github.com/TuringLang/DistributionsAD.jl) - Automatic differentiation of  Distributions using Tracker, Zygote, ForwardDiff and ReverseDiff
 - [TuringLang/AdvancedVI.jl](https://github.com/TuringLang/AdvancedVI.jl) - Implementation of variational Bayes inference algorithms
 - [ambientlight/bs-rx](https://github.com/ambientlight/bs-rx) - BuckleScript bindings for rxjs v7
 - [tizoc/refractive](https://github.com/tizoc/refractive) - Lenses and tracked selectors enhancer and hooks for reductive.
@@ -13141,6 +13142,7 @@
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [n-riesco/ijavascript](https://github.com/n-riesco/ijavascript) - IJavascript is a javascript kernel for the Jupyter notebook
 - [tolmasky/demokit](https://github.com/tolmasky/demokit) - DemoKit is a Library and Electron app for building product demos and tutorials using web technologies
+- [TuringLang/Bijectors.jl](https://github.com/TuringLang/Bijectors.jl) - Implementation of normalising flows and constrained random variable transformations
 - [rizo/ppx_macro](https://github.com/rizo/ppx_macro) - A syntax extension that helps you build syntax extensions.
 - [rizo/ppx_rule](https://github.com/rizo/ppx_rule) - Compile-time rewrite rules for OCaml
 - [darklang/tablecloth](https://github.com/darklang/tablecloth) - A standard library with the same API in F#, Rescript and OCaml
@@ -14457,6 +14459,7 @@
 
 ## python 
 
+- [zx80/anodb](https://github.com/zx80/anodb) - Convenient Wrapper around aiosql and a Database Connection.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [level09/readykit](https://github.com/level09/readykit) - Production-ready Flask SaaS template with multi-tenancy, billing, and teams
 - [SJRiz/pytogether](https://github.com/SJRiz/pytogether) - Source code for pytogether.org — A fully browser-based collaborative IDE with real-time editing, live drawing, and voice chat.
@@ -16800,7 +16803,7 @@
 
 ## shell 
 
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal command-line client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
@@ -16887,6 +16890,7 @@
 
 ## sql 
 
+- [zx80/anodb](https://github.com/zx80/anodb) - Convenient Wrapper around aiosql and a Database Connection.
 - [erezsh/sqeleton](https://github.com/erezsh/sqeleton) - A python library for efficiently interacting and querying SQL databases
 - [Florents-Tselai/spat](https://github.com/Florents-Tselai/spat) - Redis-like In-Memory DB Embedded in Postgres
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
@@ -17994,7 +17998,7 @@
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [OpenBMB/BMList](https://github.com/OpenBMB/BMList) - A List of Big Models
 - [winkjs/wink-nlp](https://github.com/winkjs/wink-nlp) - Developer friendly Natural Language Processing ✨
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
+- [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [HendrikStrobelt/LSTMVis](https://github.com/HendrikStrobelt/LSTMVis) - Visualization Toolbox for Long Short Term Memory networks (LSTMs)
 - [StoDevX/humke-4d-geometry](https://github.com/StoDevX/humke-4d-geometry) - A web-based 4D Geometry viewer
 - [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
