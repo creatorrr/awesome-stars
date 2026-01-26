@@ -4151,6 +4151,7 @@
 
 ## Python 
 
+- [axsaucedo/kaos](https://github.com/axsaucedo/kaos) - 🚀 K8s Agent Orchestration System: Managing the KAOS in your large-scale distributed multi-agent systems
 - [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound) - Local first codebase intelligence
 - [zx80/anodb](https://github.com/zx80/anodb) - Convenient Wrapper around aiosql and a Database Connection.
 - [haykgrigo3/TimeCapsuleLLM](https://github.com/haykgrigo3/TimeCapsuleLLM) - A LLM trained only on data from certain time periods to reduce modern bias
@@ -5462,7 +5463,7 @@
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [Futrell/ziplm](https://github.com/Futrell/ziplm) - 
 - [OpenLMLab/MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF) - Secrets of RLHF in Large Language Models Part I: PPO
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [hendrycks/ethics](https://github.com/hendrycks/ethics) - Aligning AI With Shared Human Values (ICLR 2021)
@@ -6546,7 +6547,7 @@
 - [mindsdb/dfsql](https://github.com/mindsdb/dfsql) - SQL interface to Pandas
 - [yhat/pandasql](https://github.com/yhat/pandasql) - sqldf for pandas
 - [AmirPupko/pandas-to-sql](https://github.com/AmirPupko/pandas-to-sql) - Convert pandas DataFrame manipulations to sql query string
-- [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API.
+- [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library that hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy-to-use API.
 - [minimaxir/gpt-2-keyword-generation](https://github.com/minimaxir/gpt-2-keyword-generation) - Method to encode text for GPT-2 to generate text based on provided keywords
 - [Lightning-Universe/lightning-transformers](https://github.com/Lightning-Universe/lightning-transformers) - Flexible components pairing 🤗 Transformers with :zap: Pytorch Lightning
 - [kenilc/transformers_controllers](https://github.com/kenilc/transformers_controllers) - Helpers to constrain the text generation output by 🤗 Transformers.
