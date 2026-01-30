@@ -752,7 +752,7 @@
 - [XuezheMax/megalodon](https://github.com/XuezheMax/megalodon) - Reference implementation of Megalodon 7B model
 - [AlibabaResearch/flash-llm](https://github.com/AlibabaResearch/flash-llm) - Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
 - [facebookresearch/FBTT-Embedding](https://github.com/facebookresearch/FBTT-Embedding) - This is a Tensor Train based compression library to compress sparse embedding tables used in large-scale machine learning models such as recommendation and natural language processing. We showed this 
 - [virtualsecureplatform/cuFHE](https://github.com/virtualsecureplatform/cuFHE) - CUDA-accelerated Fully Homomorphic Encryption Library
 
@@ -800,7 +800,7 @@
 ## Elixir 
 
 - [cbh123/stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [operable/cog](https://github.com/operable/cog) - Bringing the power of the command line to chat
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
@@ -3838,7 +3838,7 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [GoogleCloudPlatform/awesome-google-cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud) - A curated list of awesome stuff for Google Cloud.
 - [GoogleCloudPlatform/functions-framework](https://github.com/GoogleCloudPlatform/functions-framework) - The Contract for Building New Function Frameworks
-- [alexanderisora/startuptoolbox](https://github.com/alexanderisora/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
+- [ravi-ojha/startuptoolbox](https://github.com/ravi-ojha/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
 - [todxx/teamredminer](https://github.com/todxx/teamredminer) - AMD GPU Optimized Cryptocurrency Miner
 - [NebuTech/NBMiner](https://github.com/NebuTech/NBMiner) - GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -5395,7 +5395,7 @@
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [ant-research/CoDeF](https://github.com/ant-research/CoDeF) - [CVPR'24 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 - [hyperactive-project/Hyperactive](https://github.com/hyperactive-project/Hyperactive) - A unified interface for optimization algorithms and experiments
-- [duckdb/dbt-duckdb](https://github.com/duckdb/dbt-duckdb) - dbt (http://getdbt.com) adapter for DuckDB (http://duckdb.org)
+- [duckdb/dbt-duckdb](https://github.com/duckdb/dbt-duckdb) - dbt adapter for DuckDB
 - [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents
 - [robopen/roboagent](https://github.com/robopen/roboagent) - Repository to train and evaluate RoboAgent
 - [epfml/landmark-attention](https://github.com/epfml/landmark-attention) - Landmark Attention: Random-Access Infinite Context Length for Transformers
@@ -5431,6 +5431,7 @@
 - [Justus-Jonas/imaginaryNLP](https://github.com/Justus-Jonas/imaginaryNLP) - Imagination Is All You Need!
 - [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter) - Prometheus exporter for Starlette and FastAPI
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 - [bloomberg/dataless-model-merging](https://github.com/bloomberg/dataless-model-merging) - Code release for Dataless Knowledge Fusion by Merging Weights of Language Models (https://openreview.net/forum?id=FCnohuR6AnM)
 - [daveshap/REMO_Framework](https://github.com/daveshap/REMO_Framework) - Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
@@ -8639,7 +8640,6 @@
 - [axflow/axflow](https://github.com/axflow/axflow) - The TypeScript framework for AI development
 - [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interacti
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The CRDT Yjs WebSocket backend for conflict-free real-time collaboration in your app.
-- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 - [google-marketing-solutions/feedgen](https://github.com/google-marketing-solutions/feedgen) - Optimise Shopping feeds with Generative AI
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
@@ -8991,7 +8991,7 @@
 - [serendipious/nodejs-decision-tree](https://github.com/serendipious/nodejs-decision-tree) - NodeJS Implementation of Decision Tree using ID3 Algorithm
 - [plantain-00/types-as-schema](https://github.com/plantain-00/types-as-schema) - Genetate json schema, protobuf file, graphQL schema and reasonml/ocaml/rust types from typescript types.
 - [cloudevents/sdk-javascript](https://github.com/cloudevents/sdk-javascript) - JavaScript/TypeScript SDK for CloudEvents
-- [bikeshaving/crank](https://github.com/bikeshaving/crank) - The Just JavaScript Framework
+- [bikeshaving/crank](https://github.com/bikeshaving/crank) - The Just JavaScript UI Framework
 - [achung89/react-futures](https://github.com/achung89/react-futures) - Manipulate asynchronous data synchronously
 - [axelspringer/graphql-google-pubsub](https://github.com/axelspringer/graphql-google-pubsub) - A graphql-subscriptions PubSub Engine using Google PubSub
 - [fanout/fanout-graphql-tools](https://github.com/fanout/fanout-graphql-tools) - GraphQL subscriptions using Fanout/Pushpin
