@@ -929,7 +929,7 @@
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [rakam-io/rakam-api](https://github.com/rakam-io/rakam-api) - 📈 Collect customer event data from your apps. (Note that this project only includes the API collector, not the visualization platform)
-- [alexanderisora/startuptoolbox](https://github.com/alexanderisora/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
+- [ravi-ojha/startuptoolbox](https://github.com/ravi-ojha/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
 - [Datamart/Komito](https://github.com/Datamart/Komito) - 🔖 Komito Analytics is a free, open-source enhancement for the most popular web analytics software.
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
@@ -4081,7 +4081,7 @@
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [alexanderisora/startuptoolbox](https://github.com/alexanderisora/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
+- [ravi-ojha/startuptoolbox](https://github.com/ravi-ojha/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
 - [tirthajyoti/doepy](https://github.com/tirthajyoti/doepy) - Design of Experiment Generator. Read the docs at: https://doepy.readthedocs.io/en/latest/
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect measurements, attributes, and animations.
@@ -4212,6 +4212,7 @@
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [Ars-Linguistica/mlconjug3](https://github.com/Ars-Linguistica/mlconjug3) - A Python library to conjugate verbs in French, English, Spanish, Italian, Portuguese and Romanian (more soon) using Machine Learning techniques.
 - [operable/cog](https://github.com/operable/cog) - Bringing the power of the command line to chat
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 150+ open-source web apps with one Docker command
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
@@ -4556,7 +4557,7 @@
 
 ## elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -4864,7 +4865,7 @@
 - [DigitalPhonetics/adviser](https://github.com/DigitalPhonetics/adviser) - ADvISER is a flexible framework to encourage task-oriented dialog system research & development
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [oxidizing/sihl](https://github.com/oxidizing/sihl) - A modular functional web framework
-- [bikeshaving/crank](https://github.com/bikeshaving/crank) - The Just JavaScript Framework
+- [bikeshaving/crank](https://github.com/bikeshaving/crank) - The Just JavaScript UI Framework
 - [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML library ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spa
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
@@ -6426,7 +6427,7 @@
 - [yawaramin/dbc](https://github.com/yawaramin/dbc) - Design-by-contract programming for JavaScript and ReasonML
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [FluxML/FluxJS.jl](https://github.com/FluxML/FluxJS.jl) - I heard you like compile times
-- [bikeshaving/crank](https://github.com/bikeshaving/crank) - The Just JavaScript Framework
+- [bikeshaving/crank](https://github.com/bikeshaving/crank) - The Just JavaScript UI Framework
 - [textlint/textlint](https://github.com/textlint/textlint) - textlint is the pluggable linter for natural language text.
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [s0l0ist/node-seal](https://github.com/s0l0ist/node-seal) - Homomorphic Encryption for TypeScript or JavaScript - Microsoft SEAL
@@ -11253,7 +11254,7 @@
 - [plotly/dash-recipes](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created while answering questions from the greater Dash community
 - [mergeforward/dash-echarts](https://github.com/mergeforward/dash-echarts) - 
 - [brimdata/super](https://github.com/brimdata/super) - An analytics database that puts JSON and relational tables on equal footing
-- [duckdb/dbt-duckdb](https://github.com/duckdb/dbt-duckdb) - dbt (http://getdbt.com) adapter for DuckDB (http://duckdb.org)
+- [duckdb/dbt-duckdb](https://github.com/duckdb/dbt-duckdb) - dbt adapter for DuckDB
 - [robopen/roboagent](https://github.com/robopen/roboagent) - Repository to train and evaluate RoboAgent
 - [epfml/landmark-attention](https://github.com/epfml/landmark-attention) - Landmark Attention: Random-Access Infinite Context Length for Transformers
 - [eugenepentland/landmark-attention-qlora](https://github.com/eugenepentland/landmark-attention-qlora) - Landmark Attention: Random-Access Infinite Context Length for Transformers QLoRA
@@ -12305,7 +12306,7 @@
 - [flexflow/flexflow-train](https://github.com/flexflow/flexflow-train) - Automatically Discovering Fast Parallelization Strategies for Distributed Deep Neural Network Training
 - [IBM/graph_ensemble_learning](https://github.com/IBM/graph_ensemble_learning) - Graph Ensemble Learning
 - [graphdeeplearning/graphtransformer](https://github.com/graphdeeplearning/graphtransformer) - Graph Transformer Architecture. Source code for "A Generalization of Transformer Networks to Graphs", DLG-AAAI'21.
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
 - [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 - [PrithivirajDamodaran/Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - A framework for detecting, highlighting and correcting grammatical errors on natural language text. Created by Prithiviraj Damodaran. Open to pull requests and other forms of collaboration.
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
@@ -16946,7 +16947,7 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - MySQL-compatible HTAP database with Git for Data, vector search, and fulltext search. Cloud-native, AI-ready
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Making data lake work for time series
@@ -17051,7 +17052,7 @@
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
@@ -18239,7 +18240,7 @@
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [scallop-lang/scallop-lang.github.io](https://github.com/scallop-lang/scallop-lang.github.io) - Official Website of Scallop Language
-- [alexanderisora/startuptoolbox](https://github.com/alexanderisora/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
+- [ravi-ojha/startuptoolbox](https://github.com/ravi-ojha/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
 
 ## whatsapp-bot 
 
