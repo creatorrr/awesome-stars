@@ -804,7 +804,7 @@
 ## ai-agents 
 
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It exposes custom tools and MCP servers as code that runs in secure sandboxes for token-efficient calls.
 - [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 270+ Claude Code plugins with 739 agent skills. Production orchestration patterns, interactive tutorials (11 Jupyter notebooks), and CCPI package manager. 4.13.0
@@ -1919,7 +1919,7 @@
 
 ## bash 
 
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
 - [rz1989s/claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) - Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
@@ -2445,7 +2445,7 @@
 ## cli 
 
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [iagooar/qqqa](https://github.com/iagooar/qqqa) - Fast, stateless LLM for your shell: qq answers; qa runs commands
@@ -2453,7 +2453,7 @@
 - [descope/descopecli](https://github.com/descope/descopecli) - A command line utility for performing common tasks on Descope projects
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [run-llama/semtools](https://github.com/run-llama/semtools) - Semantic search and document parsing tools for the command line
-- [kbwo/ccmanager](https://github.com/kbwo/ccmanager) - Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI / OpenCode
+- [kbwo/ccmanager](https://github.com/kbwo/ccmanager) - Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI / OpenCode / Kimi CLI
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 - [julep-ai/steadytext](https://github.com/julep-ai/steadytext) - Deterministic text generation and embeddings with zero configuration
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -2740,8 +2740,8 @@
 
 ## command-line 
 
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, add custom input pattern highlighters, custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, f
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
@@ -4098,7 +4098,7 @@
 - [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 270+ Claude Code plugins with 739 agent skills. Production orchestration patterns, interactive tutorials (11 Jupyter notebooks), and CCPI package manager. 4.13.0
 - [DatabiteDev/databite](https://github.com/DatabiteDev/databite) - An open source Integration Platform
 - [rz1989s/claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) - Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, add custom input pattern highlighters, custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, f
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -4959,7 +4959,7 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [ZiYang-xie/WorldGen](https://github.com/ZiYang-xie/WorldGen) - 🌍 WorldGen - Generate Any 3D Scene in Seconds
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Local-first AI coworker, with memory
-- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [microsoft/mattergen](https://github.com/microsoft/mattergen) - Official implementation of MatterGen -- a generative model for inorganic materials design across the periodic table that can be fine-tuned to steer the generation towards a wide range of property cons
 - [declare-lab/TangoFlux](https://github.com/declare-lab/TangoFlux) - [ICLR 2026] TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching
@@ -8305,7 +8305,7 @@
 
 ## mcp 
 
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It exposes custom tools and MCP servers as code that runs in secure sandboxes for token-efficient calls.
 - [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 270+ Claude Code plugins with 739 agent skills. Production orchestration patterns, interactive tutorials (11 Jupyter notebooks), and CCPI package manager. 4.13.0
@@ -9925,6 +9925,7 @@
 
 ## others 
 
+- [Dstack-TEE/dstack](https://github.com/Dstack-TEE/dstack) - Open framework for confidential AI
 - [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [kxzk/snapbench](https://github.com/kxzk/snapbench) - 📸 gotta find 'em all; spatial reasoning benchmark for LLMs
 - [axsaucedo/kaos](https://github.com/axsaucedo/kaos) - 🚀 K8s Agent Orchestration System: Managing the KAOS in your large-scale distributed multi-agent systems
@@ -16843,7 +16844,7 @@
 
 ## shell 
 
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
@@ -17374,7 +17375,7 @@
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [rz1989s/claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) - Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, add custom input pattern highlighters, custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, f
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
