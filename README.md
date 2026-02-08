@@ -208,7 +208,6 @@
 - [postgrespro/rum](https://github.com/postgrespro/rum) - RUM access method - inverted index with additional information in posting lists
 - [asivery/xovi](https://github.com/asivery/xovi) - Universal extension framework for Linux applications
 - [asivery/rm-xovi-extensions](https://github.com/asivery/rm-xovi-extensions) - A monorepo of extensions for the rM tablets, which utilize the XOVI framework
-- [shg8/rmBifrost](https://github.com/shg8/rmBifrost) - 
 - [99x-incubator/remarkable-2-llm](https://github.com/99x-incubator/remarkable-2-llm) - Integrating LLMs into reMarkable could unlock transformative features like auto-completion, grammar/style corrections, contextual suggestions, and note summarization or paraphrasing. These tools would
 - [Dragon863/EchoCLI](https://github.com/Dragon863/EchoCLI) - A python command line tool for rooting your Amazon Echo dot 2nd generation using a bootrom exploit, as seen on HN
 - [canselcik/libremarkable](https://github.com/canselcik/libremarkable) - The only public framework for developing applications with native refresh support for Remarkable Tablet
@@ -1461,6 +1460,7 @@
 ## Go Template 
 
 - [apache/apisix-helm-chart](https://github.com/apache/apisix-helm-chart) - Apache APISIX Helm Chart
+- [TykTechnologies/tyk-charts](https://github.com/TykTechnologies/tyk-charts) - 
 - [linode/apl-core](https://github.com/linode/apl-core) - App Platform for Linode Kubernetes Engine
 - [CenterForOpenScience/helm-charts](https://github.com/CenterForOpenScience/helm-charts) - Kubernetes Helm Charts for the Center for Open Science
 
@@ -1548,6 +1548,7 @@
 - [michaelhelmick/lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans™
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [MarcSkovMadsen/awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [scrapy/scrapely](https://github.com/scrapy/scrapely) - A pure-python HTML screen-scraping library
@@ -1965,6 +1966,7 @@
 
 ## JavaScript 
 
+- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [SJRiz/pytogether](https://github.com/SJRiz/pytogether) - Source code for pytogether.org — A fully browser-based collaborative IDE with real-time editing, live drawing, and voice chat.
 - [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome) - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies
@@ -2312,7 +2314,7 @@
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
 - [chrisdickinson/cssauron](https://github.com/chrisdickinson/cssauron) - create matching selectors from css for your very own nested object hierarchy
 - [davidtheclark/list-selectors](https://github.com/davidtheclark/list-selectors) - List the selectors used in your CSS. Use as a standalone function, CLI, or PostCSS plugin.
-- [a-voinov/Ontomaker-Web](https://github.com/a-voinov/Ontomaker-Web) - Web shell for presentation and analysis of Ontologies based on Controlled Natural Language
+- [anton-v1/Ontomaker-Web](https://github.com/anton-v1/Ontomaker-Web) - Web shell for presentation and analysis of Ontologies based on Controlled Natural Language
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [wayfair/dociql](https://github.com/wayfair/dociql) - A beautiful static documentation generator for GraphQL
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -3228,7 +3230,6 @@
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [huggingface/course](https://github.com/huggingface/course) - The Hugging Face course on Transformers
 - [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contains the Hugging Face Deep Reinforcement Learning Course.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
@@ -4181,7 +4182,7 @@
 - [tyfeld/MMaDA-Parallel](https://github.com/tyfeld/MMaDA-Parallel) - Official Implementation of "MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation"
 - [Realiserad/fish-ai](https://github.com/Realiserad/fish-ai) - Supercharge your command line with LLMs and get shell scripting assistance in Fish. 💪
 - [mlfoundations/Gelato](https://github.com/mlfoundations/Gelato) - 🍨 Gelato — From Data Curation to Reinforcement Learning: Building a Strong Grounding Model for Computer-Use Agents
-- [RUC-NLPIR/ARPO](https://github.com/RUC-NLPIR/ARPO) - The official code of ARPO & AEPO
+- [RUC-NLPIR/ARPO](https://github.com/RUC-NLPIR/ARPO) - [ICLR 2026] Agentic Reinforced Policy Optimization (ARPO)
 - [RUC-NLPIR/Tool-Star](https://github.com/RUC-NLPIR/Tool-Star) - 🔧Tool-Star: Empowering LLM-brained Multi-Tool Reasoner via Reinforcement Learning
 - [meta-pytorch/OpenEnv](https://github.com/meta-pytorch/OpenEnv) - An interface library for RL post training with environments.
 - [FoundationVision/InfinityStar](https://github.com/FoundationVision/InfinityStar) - [NeurIPS 2025 Oral]Infinity⭐️: Uniﬁed Spacetime AutoRegressive Modeling for Visual Generation
@@ -7687,6 +7688,7 @@
 
 ## Rust 
 
+- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [Dstack-TEE/dstack](https://github.com/Dstack-TEE/dstack) - Open framework for confidential AI
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
@@ -8272,7 +8274,6 @@
 ## Smarty 
 
 - [nixys/nxs-universal-chart](https://github.com/nixys/nxs-universal-chart) - The Helm chart you can use to install any of your applications into Kubernetes/OpenShift
-- [TykTechnologies/tyk-charts](https://github.com/TykTechnologies/tyk-charts) - 
 - [garutilorenzo/docker-swarm-ingress](https://github.com/garutilorenzo/docker-swarm-ingress) - Nginx swarm ingress controller, a minimalistic approach to allow routing into a Docker Swarm based on the public hostnames.
 - [cradlepoint/kubernetes-helm-chart-pgbouncer](https://github.com/cradlepoint/kubernetes-helm-chart-pgbouncer) - PgBouncer Helm chart for Kubernetes
 
@@ -8338,7 +8339,6 @@
 
 ## TypeScript 
 
-- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
@@ -8413,7 +8413,7 @@
 - [Radionic/notesify](https://github.com/Radionic/notesify) - A cross-platform, AI-powered note taking app. An open source alternative to NotebookLM.
 - [veritas1/eleven-labs-obsidian-plugin](https://github.com/veritas1/eleven-labs-obsidian-plugin) - 
 - [possibilities/claude-composer](https://github.com/possibilities/claude-composer) - 
-- [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper for today. Less but handy features for plain Markdown lovers.
+- [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper. Less but handy features for plain Markdown lovers.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - Obsidian TTS Plugin
