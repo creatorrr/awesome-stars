@@ -407,6 +407,7 @@
 
 ## C++ 
 
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [openai/openai-reflect](https://github.com/openai/openai-reflect) - Physical AI Assistant that illuminates your life
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for mobile devices.
 - [google/longfellow-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
@@ -5257,7 +5258,7 @@
 - [AILab-CVC/FreeNoise](https://github.com/AILab-CVC/FreeNoise) - [ICLR 2024] Code for FreeNoise based on VideoCrafter
 - [Genesis-Embodied-AI/RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen) - A generative and self-guided robotic agent that endlessly propose and master new skills.
 - [OneInterface/realtime-bakllava](https://github.com/OneInterface/realtime-bakllava) - llama.cpp with BakLLaVA model describes what does it see
-- [fgmacedo/python-statemachine](https://github.com/fgmacedo/python-statemachine) - Python Finite State Machines made easy.
+- [fgmacedo/python-statemachine](https://github.com/fgmacedo/python-statemachine) - Python finite-state machines and statecharts made easy.
 - [veronica320/Faithful-COT](https://github.com/veronica320/Faithful-COT) - Code and data accompanying our paper on arXiv "Faithful Chain-of-Thought Reasoning".
 - [TonicAI/tonic_validate](https://github.com/TonicAI/tonic_validate) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
 - [artas728/spelltest](https://github.com/artas728/spelltest) - AI-to-AI Testing | Simulation framework for LLM-based applications
