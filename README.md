@@ -1720,7 +1720,7 @@
 - [typelead/eta](https://github.com/typelead/eta) - The Eta Programming Language, a dialect of Haskell on the JVM
 - [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
 - [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
-- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
+- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [tomjaguarpaw/haskell-opaleye](https://github.com/tomjaguarpaw/haskell-opaleye) - 
 - [system-f/fp-course](https://github.com/system-f/fp-course) - Functional Programming Course
 - [jagajaga/FP-Course-ITMO](https://github.com/jagajaga/FP-Course-ITMO) - Slides and other materials for functional programming lectures ITMO university
