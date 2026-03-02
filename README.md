@@ -169,7 +169,7 @@
 
 - [w3c/webrtc-encoded-transform](https://github.com/w3c/webrtc-encoded-transform) - WebRTC Encoded Transform
 - [w3c/webtransport](https://github.com/w3c/webtransport) - WebTransport is a web API for flexible data transport
-- [w3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) - Mirror of https://hg.css-houdini.org/drafts
+- [w3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) - 
 - [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
 
 ## C 
@@ -1205,7 +1205,7 @@
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [ariga/atlas](https://github.com/ariga/atlas) - Declarative schema migrations with schema-as-code workflows
@@ -3260,6 +3260,7 @@
 - [cpilsworth/cloudflare-worker-action](https://github.com/cpilsworth/cloudflare-worker-action) - GitHub action for deploying a worker to Cloudflare
 - [xorilog/cloudflare-dns-action](https://github.com/xorilog/cloudflare-dns-action) - A GitHub action to set a DNS record using Cloudflare on push to the master branch.
 - [artsmia/collection](https://github.com/artsmia/collection) - Mia collection metadata
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 ## Markdown 
 
@@ -4029,7 +4030,6 @@
 - [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC)
 - [syntax-tree/nlcst](https://github.com/syntax-tree/nlcst) - Natural Language Concrete Syntax Tree format
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [aleju/papers](https://github.com/aleju/papers) - Summaries of machine learning papers
 - [mark-rushakoff/awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) - A curated list of awesome projects, libraries, tools, etc. related to InfluxDB
 - [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
@@ -4166,6 +4166,7 @@
 
 ## Python 
 
+- [imbue-ai/darwinian_evolver](https://github.com/imbue-ai/darwinian_evolver) - Framework for evolving code and prompts inspired by Darwinian evolution
 - [huggingface/skills](https://github.com/huggingface/skills) - 
 - [confluence-labs/arc-agi-2](https://github.com/confluence-labs/arc-agi-2) - State-of-the-art ARC-AGI-2 solver by Confluence Labs
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
@@ -4182,7 +4183,7 @@
 - [lyehe/porterminal](https://github.com/lyehe/porterminal) - Quick n' dirty web terminal tunneling your phone & pc
 - [IQuestLab/IQuest-Coder-V1](https://github.com/IQuestLab/IQuest-Coder-V1) - 
 - [inclusionAI/dFactory](https://github.com/inclusionAI/dFactory) - Easy and Efficient dLLM Fine-Tuning
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [poetiq-ai/poetiq-arc-agi-solver](https://github.com/poetiq-ai/poetiq-arc-agi-solver) - This repository allows reproduction of Poetiq's record-breaking submission to the ARC-AGI-1 and ARC-AGI-2 benchmarks.
 - [raaidrt/tacopy](https://github.com/raaidrt/tacopy) - Tail Call Optimizations in Python
@@ -4517,7 +4518,7 @@
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [hao-ai-lab/FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation.
 - [David-Wobrock/sqlvalidator](https://github.com/David-Wobrock/sqlvalidator) - SQL queries formatting, syntactic and semantic validation
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
 - [facebookresearch/SONAR](https://github.com/facebookresearch/SONAR) - SONAR, a new multilingual and multimodal fixed-size sentence embedding space, with a full suite of speech and text encoders and decoders.
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [macbre/sql-metadata](https://github.com/macbre/sql-metadata) - Uses tokenized query returned by python-sqlparse and generates query metadata
@@ -5476,7 +5477,7 @@
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [Futrell/ziplm](https://github.com/Futrell/ziplm) - 
 - [OpenLMLab/MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF) - Secrets of RLHF in Large Language Models Part I: PPO
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [hendrycks/ethics](https://github.com/hendrycks/ethics) - Aligning AI With Shared Human Values (ICLR 2021)
@@ -8321,6 +8322,7 @@
 
 ## TypeScript 
 
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [stablyai/agent-slack](https://github.com/stablyai/agent-slack) - Slack automation CLI for AI agents
