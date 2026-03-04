@@ -11,7 +11,6 @@
 - [AutoHotkey](#autohotkey)
 - [Ballerina](#ballerina)
 - [Batchfile](#batchfile)
-- [Bicep](#bicep)
 - [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
@@ -160,10 +159,6 @@
 ## Batchfile 
 
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
-
-## Bicep 
-
-- [Azure/GPT-RAG](https://github.com/Azure/GPT-RAG) - Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azu
 
 ## Bikeshed 
 
@@ -5110,6 +5105,7 @@
 - [argolab/dyna-R](https://github.com/argolab/dyna-R) - Dyna built on R-exprs (First Prototype)
 - [Hacker0912/RecStep](https://github.com/Hacker0912/RecStep) - 
 - [RobertCsordas/moe_attention](https://github.com/RobertCsordas/moe_attention) - Official repository for the paper "SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention"
+- [Azure/GPT-RAG](https://github.com/Azure/GPT-RAG) - Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azu
 - [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.
 - [GoogleCloudPlatform/compute-gpu-installation](https://github.com/GoogleCloudPlatform/compute-gpu-installation) - 
 - [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
@@ -5354,6 +5350,7 @@
 - [katsumiok/pyaskit](https://github.com/katsumiok/pyaskit) - AskIt: Unified programming interface for programming with LLMs (GPT-3.5, GPT-4, Gemini, Claude, Cohere, Llama 2)
 - [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Synthetic Schemas and Knowledge Graphs at Your Fingertips
 - [athalhammer/danker](https://github.com/athalhammer/danker) - Compute PageRank on &gt;4 billion Wikipedia links on off-the-shelf hardware.
+- [NationalGalleryOfArt/opendata](https://github.com/NationalGalleryOfArt/opendata) - The National Gallery of Art Open Data Program
 - [ZubinGou/multi-view-prompting](https://github.com/ZubinGou/multi-view-prompting) - Repo for "MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction" [ACL'2023]
 - [wellecks/naturalproofs](https://github.com/wellecks/naturalproofs) - NaturalProofs: Mathematical Theorem Proving in Natural Language (NeurIPS 2021 Datasets & Benchmarks)
 - [SkunkworksAI/hydra-moe](https://github.com/SkunkworksAI/hydra-moe) - 
@@ -5678,7 +5675,7 @@
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [mljar/mercury](https://github.com/mljar/mercury) - Create web apps from Python notebooks
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
-- [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
+- [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - AutoPR autonomously wrote pull requests in response to issues
 - [sysid/sse-starlette](https://github.com/sysid/sse-starlette) - 
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [facebookresearch/eai-vc](https://github.com/facebookresearch/eai-vc) - The repository for the largest and most comprehensive empirical study of visual foundation models for Embodied AI (EAI).
@@ -8107,7 +8104,6 @@
 - [tajmone/awesome-interactive-fiction](https://github.com/tajmone/awesome-interactive-fiction) - A list of interactive fiction frameworks, tools, and resources
 - [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 460 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [google-deepmind/narrativeqa](https://github.com/google-deepmind/narrativeqa) - This repository contains the NarrativeQA dataset. It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
-- [NationalGalleryOfArt/opendata](https://github.com/NationalGalleryOfArt/opendata) - The National Gallery of Art Open Data Program
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
 - [google-research/composed_image_retrieval](https://github.com/google-research/composed_image_retrieval) - 
