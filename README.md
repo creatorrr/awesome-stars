@@ -1586,7 +1586,7 @@
 - [ColingPaper2018/DialogueAct-Tagger](https://github.com/ColingPaper2018/DialogueAct-Tagger) - A resource to create a multi domain Dialog Act Tagger for conversational agents using publicly available data
 - [kevinlu1248/pyate](https://github.com/kevinlu1248/pyate) - PYthon Automated Term Extraction
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [w3c/graphql-rdf](https://github.com/w3c/graphql-rdf) - Bridging GraphQL and RDF Community Group
+- [w3c-cg/graphql-rdf](https://github.com/w3c-cg/graphql-rdf) - Bridging GraphQL and RDF Community Group
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [htmlstreamofficial/awesome-dashboard-ui-kit](https://github.com/htmlstreamofficial/awesome-dashboard-ui-kit) - Awesome Dashboard UI Kit is a beautiful Open Source Bootstrap 4 Dashboard UI Kit crafted by Htmlstream.
 - [nerf-w/nerf-w.github.io](https://github.com/nerf-w/nerf-w.github.io) - 
@@ -1599,7 +1599,7 @@
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [jncraton/box-line-text](https://github.com/jncraton/box-line-text) - Simple virtual whiteboarding
 - [tjitze/ranked-programming](https://github.com/tjitze/ranked-programming) - Ranked Programming Extension for Racket
-- [DynamoDS/Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design
+- [DynamoDS/Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Computational Design and Automation
 - [salesforce/WikiSQL](https://github.com/salesforce/WikiSQL) - A large annotated semantic parsing corpus for developing natural language interfaces.
 - [gkushang/cucumber-html-reporter](https://github.com/gkushang/cucumber-html-reporter) - Generates Cucumber HTML reports in three different themes
 - [whatwg/storage](https://github.com/whatwg/storage) - Storage Standard
@@ -3114,7 +3114,7 @@
 - [facebookresearch/LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
 - [r9y9/gantts](https://github.com/r9y9/gantts) - PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC)
 - [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [denizyuret/Knet.jl](https://github.com/denizyuret/Knet.jl) - Koç University deep learning framework.
 - [unhkd-dee/colab_tpu](https://github.com/unhkd-dee/colab_tpu) - Notebooks for colab that use the TPU
 - [Spandan-Madan/Me_Bot](https://github.com/Spandan-Madan/Me_Bot) - Build a bot that speaks like you!
@@ -4034,7 +4034,7 @@
 - [niderhoff/nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)
 - [RedhawkSDR/redhawk](https://github.com/RedhawkSDR/redhawk) - A submodule repository for distributing REDHAWK artifacts and the latest REDHAWK source code.  Use 'git clone --recurse-submodules git@github.com:RedhawkSDR/redhawk.git' to also clone all submodules.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) - :pager: Links to others' solutions to Projects (https://github.com/karan/Projects/)
-- [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
+- [basecamp/handbook](https://github.com/basecamp/handbook) - 37signals Employee Handbook
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
@@ -8162,7 +8162,7 @@
 - [dapr/docs](https://github.com/dapr/docs) - Dapr user documentation, used to build docs.dapr.io
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart) - Official Apache Pulsar Helm Chart
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [zplug/zplug](https://github.com/zplug/zplug) - A next-generation plugin manager for zsh — manage plugins, commands, and themes from GitHub, Bitbucket, oh-my-zsh, prezto, and more with parallel installation and lazy loading.
 - [behindthescenes-group/oesophagus](https://github.com/behindthescenes-group/oesophagus) - Enterprise Grade Single-Step Streaming Data Infrastructure Setup. (Under Development)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
