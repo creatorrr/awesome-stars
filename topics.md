@@ -354,7 +354,7 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
-- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
+- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [open-responses/open-responses](https://github.com/open-responses/open-responses) - Self-hosted alternative to OpenAI's Responses API compatible with Agents SDK and works with all model providers (Claude/R1/Qwen/Ollama etc)
 - [inngest/agent-kit](https://github.com/inngest/agent-kit) - AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.
@@ -3153,7 +3153,7 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [colour-science/colour](https://github.com/colour-science/colour) - Colour Science for Python
 - [weld-project/weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications
-- [datasets/commons](https://github.com/datasets/commons) - DataHub commons. Wiki catalog of interesting and important datasets
+- [datasets/commons](https://github.com/datasets/commons) - DataHub commons. Interesting and important datasets
 - [jtkim-kaist/VAD](https://github.com/jtkim-kaist/VAD) - Voice activity detection (VAD) toolkit including DNN, bDNN, LSTM and ACAM based VAD. We also provide our directly recorded dataset.
 - [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming
 - [hottbox/hottbox](https://github.com/hottbox/hottbox) - HOTTBOX: Higher Order Tensors ToolBOX.
@@ -4828,6 +4828,7 @@
 - [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agentic systems
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [OpenVoiceOS/ovos-core](https://github.com/OpenVoiceOS/ovos-core) - OpenVoiceOS Core, the FOSS Artificial Intelligence platform.
 - [Martmists-GH/pymixin](https://github.com/Martmists-GH/pymixin) - Python code injection framework
 - [openintegrationhub/openintegrationhub](https://github.com/openintegrationhub/openintegrationhub) - Open Integration Hub
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
@@ -5631,7 +5632,6 @@
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-- [OpenVoiceOS/ovos-core](https://github.com/OpenVoiceOS/ovos-core) - OpenVoiceOS Core, the FOSS Artificial Intelligence platform.
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -9626,7 +9626,7 @@
 
 - [github/innovationgraph](https://github.com/github/innovationgraph) - GitHub Innovation Graph
 - [rescribet/link-redux](https://github.com/rescribet/link-redux) - Linked Data Rendering for humans with React
-- [datasets/commons](https://github.com/datasets/commons) - DataHub commons. Wiki catalog of interesting and important datasets
+- [datasets/commons](https://github.com/datasets/commons) - DataHub commons. Interesting and important datasets
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 
 ## open-source 
@@ -16186,7 +16186,7 @@
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [NVlabs/QeRL](https://github.com/NVlabs/QeRL) - [ICLR 2026]QeRL enables RL for 32B LLMs on a single H100 GPU.
 - [open-thought/reasoning-gym](https://github.com/open-thought/reasoning-gym) - [NeurIPS 2025 Spotlight] Reasoning Environments for Reinforcement Learning with Verifiable Rewards
-- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
+- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
 - [mbzuai-oryx/Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) - Awesome Reasoning LLM Tutorial/Survey/Guide
 - [JuliaReinforcementLearning/ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) - A reinforcement learning package for Julia
 - [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."
@@ -16358,7 +16358,7 @@
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are a serverless primitive for stateful workloads. Each actor has built-in state, storage, workflows, scheduling, and WebSockets — everything needed to build the next generation of softwa
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -16768,7 +16768,7 @@
 
 - [dbos-inc/durable-swarm](https://github.com/dbos-inc/durable-swarm) - Augment Swarm with durable execution to help you build reliable and scalable multi-agent systems.
 - [danthegoodman1/icedb](https://github.com/danthegoodman1/icedb) - An in-process Parquet merge engine for better data warehousing in S3 with MVCC
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are a serverless primitive for stateful workloads. Each actor has built-in state, storage, workflows, scheduling, and WebSockets — everything needed to build the next generation of softwa
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
