@@ -678,7 +678,7 @@
 - [smariussorin/EventSourcedMicroservices](https://github.com/smariussorin/EventSourcedMicroservices) - Microservices Architecture with Event Sourcing and CQRS using Node.JS
 - [aftertheflood/sparks](https://github.com/aftertheflood/sparks) - A typeface for creating sparklines in text without code.
 - [rileytomasek/tight](https://github.com/rileytomasek/tight) - A browser extension that simplifies the Slack interface, making it easier to focus.
-- [jmosawy/LDOCE-Pronunciation-Audio-Downloader](https://github.com/jmosawy/LDOCE-Pronunciation-Audio-Downloader) - A Node.js tool to download both British and American pronunciation of vocabularies from Longman Dictionary of Contemporary English (http://www.ldoceonline.com)
+- [JeffZaeri/LDOCE-Pronunciation-Audio-Downloader](https://github.com/JeffZaeri/LDOCE-Pronunciation-Audio-Downloader) - A Node.js tool to download both British and American pronunciation of vocabularies from Longman Dictionary of Contemporary English (http://www.ldoceonline.com)
 - [jaredly/a-reason-react-tutorial](https://github.com/jaredly/a-reason-react-tutorial) - included code for A ReasonReact Tutorial
 - [Sneezry/DiggIt](https://github.com/Sneezry/DiggIt) - Discover SSH enabled devices in your local network
 - [sigcnl/sigcnl.github.io](https://github.com/sigcnl/sigcnl.github.io) - Website
@@ -862,6 +862,7 @@
 - [Wilfred/helpful](https://github.com/Wilfred/helpful) - A better Emacs *help* buffer
 - [riscy/shx-for-emacs](https://github.com/riscy/shx-for-emacs) - An Emacs shell-mode (and comint-mode) extension that enables displaying small plots and graphics and lets users write shell commands in Emacs Lisp.
 - [Silex/docker.el](https://github.com/Silex/docker.el) - Manage docker from Emacs.
+- [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
 - [emacs-slack/emacs-slack](https://github.com/emacs-slack/emacs-slack) - slack client for emacs
 - [hcl-emacs/terraform-mode](https://github.com/hcl-emacs/terraform-mode) - Major mode of Terraform configuration file
 - [jwiegley/git-undo-el](https://github.com/jwiegley/git-undo-el) - A command for Emacs to regress or "undo" a region back through its Git history
@@ -920,7 +921,7 @@
 
 ## F# # 
 
-- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
+- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
 
 ## Fennel 
 
@@ -2120,7 +2121,6 @@
 - [abuseofnotation/vanilla-fp](https://github.com/abuseofnotation/vanilla-fp) - The no-framework framework for building component-based purely-functional UIs.
 - [threadvis/ThreadVis](https://github.com/threadvis/ThreadVis) - The ThreadVis Thunderbird add-on
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere.
 - [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that applies plain language instructions to the filesystem. Instructions can utilize a liquidjs based templating system. Use cases include refactoring, code generation, and exper
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - 🧘‍♂️ Open-source no-code & code web app builder
@@ -3970,7 +3970,6 @@
 - [atlassian/gajira](https://github.com/atlassian/gajira) - GitHub Actions for Jira
 - [moroshko/bs-blabla](https://github.com/moroshko/bs-blabla) - BuckleScript `[@bs.blabla]` attributes explained with examples
 - [stereobooster/type-o-rama](https://github.com/stereobooster/type-o-rama) - 👾 JS type systems interportability
-- [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
 - [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [xgrommx/idris-ecosystem](https://github.com/xgrommx/idris-ecosystem) - 
@@ -4189,7 +4188,7 @@
 - [deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB) - An early research stage expert-parallel load balancer for MoE models based on linear programming.
 - [Decathlon/dblinter](https://github.com/Decathlon/dblinter) - A static analysis tool for postgresql databases
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
-- [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 270+ Claude Code plugins with 739 agent skills. Production orchestration patterns, interactive tutorials (11 Jupyter notebooks), and CCPI package manager. 4.13.0
+- [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 340 plugins + 1367 agent skills for Claude Code. Open-source marketplace with CCPI package manager, interactive tutorials, and production orchestration patterns.
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [tyfeld/MMaDA-Parallel](https://github.com/tyfeld/MMaDA-Parallel) - Official Implementation of "MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation"
 - [Realiserad/fish-ai](https://github.com/Realiserad/fish-ai) - Supercharge your command line with LLMs and get shell scripting assistance in Fish. 💪
@@ -8114,6 +8113,7 @@
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [tailscale/codespace](https://github.com/tailscale/codespace) - Tailscale for devcontainers and codespaces
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere.
 - [KOYU-Tech/docker-volume-copy](https://github.com/KOYU-Tech/docker-volume-copy) - Bash script that allows to make a copy of exists valume to new one with a new name
 - [csantanapr/knative-kind](https://github.com/csantanapr/knative-kind) - Knative on Kind (KonK), get serverless apps on kubernetes up and running in minutes
 - [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema) - PostgreSQL extension providing JSON Schema validation
