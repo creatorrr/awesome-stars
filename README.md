@@ -494,7 +494,7 @@
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [thomwolf/Magic-Sand](https://github.com/thomwolf/Magic-Sand) - Magic-Sand is a software for operating an augmented reality sandbox
 - [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
@@ -1193,7 +1193,7 @@
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an open-source engine for autonomous agents — event-driven, proactive, and self-scheduling.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is a single-binary runtime to build and run autonomous agents — no Python, no Node.js, just define the role.
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
@@ -2221,7 +2221,7 @@
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [thuiar/TEXTOIR-DEMO](https://github.com/thuiar/TEXTOIR-DEMO) - TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition (ACL 2021)
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
@@ -4104,7 +4104,7 @@
 - [hmosousa/py_heideltime](https://github.com/hmosousa/py_heideltime) - Python wrapper for HeidelTime temporal tagger.
 - [Riccorl/transformer-srl](https://github.com/Riccorl/transformer-srl) - Reimplementation of a BERT based model (Shi et al, 2019), currently the state-of-the-art for English SRL. This model implements also predicate disambiguation.
 - [circulosmeos/gdown.pl](https://github.com/circulosmeos/gdown.pl) - Google Drive direct download of big files
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [CogComp/multirc](https://github.com/CogComp/multirc) - Reasoning over Multiple Sentences (Multi-RC)
 - [thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache) - Layered caching library for OpenResty
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
@@ -5595,7 +5595,7 @@
 - [mzbac/qlora-fine-tune](https://github.com/mzbac/qlora-fine-tune) - 
 - [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - Python API for https://vespa.ai, the open big data serving engine
 - [kaistAI/SelFee](https://github.com/kaistAI/SelFee) - Official codebase for "SelFee: Iterative Self-Revising LLM Empowered by Self-Feedback Generation"
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [permitio/fastapi_websocket_pubsub](https://github.com/permitio/fastapi_websocket_pubsub) - A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub ==  ⚡ 💪 ❤️
 - [juanmc2005/diart](https://github.com/juanmc2005/diart) - A python package to build AI-powered real-time audio applications
@@ -5611,7 +5611,7 @@
 - [arpitjain799/alt-profanity-check](https://github.com/arpitjain799/alt-profanity-check) - A fast, robust library to check for offensive language in strings,  dropdown replacement of "profanity-check".
 - [zh217/aiochan](https://github.com/zh217/aiochan) - CSP-style concurrency for Python
 - [BeastByteAI/scikit-llm](https://github.com/BeastByteAI/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
 - [0nutation/SpeechGPT](https://github.com/0nutation/SpeechGPT) - SpeechGPT Series: Speech Large Language Models
 - [jondurbin/airoboros](https://github.com/jondurbin/airoboros) - Customizable implementation of the self-instruct paper.
 - [noahbenson/pcollections](https://github.com/noahbenson/pcollections) - A library of persistent collections for Python.
@@ -9012,7 +9012,7 @@
 - [kwonoj/hunspell-asm](https://github.com/kwonoj/hunspell-asm) - WebAssembly based Javascript bindings for hunspell spellchecker
 - [sainirijul/vscode-extension-che](https://github.com/sainirijul/vscode-extension-che) - Simple VS Code Extension as a remote plugin in Eclipse Che
 - [typestyle/csx](https://github.com/typestyle/csx) - Utility functions for TypeStyle
-- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3
+- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization for AI and Streaming
 - [amazon-ion/ion-js](https://github.com/amazon-ion/ion-js) - A JavaScript implementation of Amazon Ion.
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
