@@ -3164,7 +3164,7 @@
 - [jtkim-kaist/VAD](https://github.com/jtkim-kaist/VAD) - Voice activity detection (VAD) toolkit including DNN, bDNN, LSTM and ACAM based VAD. We also provide our directly recorded dataset.
 - [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming
 - [hottbox/hottbox](https://github.com/hottbox/hottbox) - HOTTBOX: Higher Order Tensors ToolBOX.
-- [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
+- [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a Scientific Data Management Platform on AWS that helps teams and AI find, trust, and reuse data through deeply versioned, context-rich data packages.
 
 ## data-analysis 
 
@@ -3238,7 +3238,7 @@
 - [GoogleCloudPlatform/data-science-on-gcp](https://github.com/GoogleCloudPlatform/data-science-on-gcp) - Source code accompanying book: Data Science on the Google Cloud Platform, Valliappa Lakshmanan, O'Reilly 2017
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
-- [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
+- [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a Scientific Data Management Platform on AWS that helps teams and AI find, trust, and reuse data through deeply versioned, context-rich data packages.
 
 ## data-science 
 
@@ -3437,6 +3437,7 @@
 
 ## database 
 
+- [creationix/rx](https://github.com/creationix/rx) - RX encoder, decoder, and CLI data tool
 - [zx80/anodb](https://github.com/zx80/anodb) - Convenient Wrapper around aiosql and a Database Connection.
 - [Decathlon/dblinter](https://github.com/Decathlon/dblinter) - A static analysis tool for postgresql databases
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
@@ -6791,7 +6792,7 @@
 - [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) - A platform for packaging and launching blockchain infra. Think docker compose for blockchain
 - [mercari/tortoise](https://github.com/mercari/tortoise) - Tortoise: Shell-Shockingly-Good Kubernetes Autoscaling
@@ -7665,7 +7666,7 @@
 - [GenieFramework/Genie.jl](https://github.com/GenieFramework/Genie.jl) - 🧞The highly productive Julia web framework
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [cpursley/react-admin-low-code](https://github.com/cpursley/react-admin-low-code) - react-admin (via ra-data-hasura provider) + hasura = :)
@@ -9305,7 +9306,7 @@
 - [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [xatkit-bot-platform/xatkit](https://github.com/xatkit-bot-platform/xatkit) - The simplest way to build all types of smart chatbots and digital assistants
@@ -9714,7 +9715,7 @@
 - [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [replikativ/datahike](https://github.com/replikativ/datahike) - Versioned, fast, distributed Datalog engine for everyone.
@@ -9933,6 +9934,7 @@
 
 ## others 
 
+- [iliazintchenko/agent-sat](https://github.com/iliazintchenko/agent-sat) - Agent learns to become the worlds top expert on SAT
 - [Peter-Lavigne/fizzbuzz-without-human-review](https://github.com/Peter-Lavigne/fizzbuzz-without-human-review) - 
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex) into self-contained, embeddable HTML  replays
@@ -13570,7 +13572,7 @@
 - [okteto/welcome](https://github.com/okteto/welcome) - Welcome to okteto!
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [nytimes/library](https://github.com/nytimes/library) - A collaborative documentation site, powered by Google Docs.
-- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Node.js implementation of Web audio API
+- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Portable implementation of Web audio API
 - [francoisp/DuplexRsync](https://github.com/francoisp/DuplexRsync) - DropBox/GoogleDrive-style 2-way sync using rsync and fswatch
 - [iamdustan/tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer) - Learn you a React Renderer for Great Good
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
@@ -14361,7 +14363,7 @@
 ## programming 
 
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
-- [CrowdHailer/eyg-lang](https://github.com/CrowdHailer/eyg-lang) - Experiments in building "better" languages and tools; for some measure of better.
+- [CrowdHailer/eyg-lang](https://github.com/CrowdHailer/eyg-lang) - Building better languages and tools; for some measure of better.
 - [zeelsheladiya/Awesome-IDEs](https://github.com/zeelsheladiya/Awesome-IDEs) - A curated list of Integrated Development Environments (IDEs) and related tools that can enhance your coding experience and boost your productivity.
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -15339,7 +15341,7 @@
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
-- [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
+- [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a Scientific Data Management Platform on AWS that helps teams and AI find, trust, and reuse data through deeply versioned, context-rich data packages.
 - [hvac/hvac](https://github.com/hvac/hvac) - :lock: Python 3.X client for HashiCorp Vault
 - [xethorn/garcon](https://github.com/xethorn/garcon) - Library for AWS SWF.
 - [botify-labs/simpleflow](https://github.com/botify-labs/simpleflow) - Python library for dataflow programming.
