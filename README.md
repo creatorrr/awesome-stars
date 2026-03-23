@@ -731,7 +731,6 @@
 - [barry-jay-personal/tree-calculus](https://github.com/barry-jay-personal/tree-calculus) - Proofs in Coq for the book Reflective Programs in Tree Calculus
 - [accordproject/ergo](https://github.com/accordproject/ergo) - Programming Language for Smart Legal Contracts
 - [rocq-community/rocq-tricks](https://github.com/rocq-community/rocq-tricks) - Tricks you wish the Coq manual told you [maintainer=@tchajed]
-- [mattam82/Coq-Equations](https://github.com/mattam82/Coq-Equations) - A function definition package for Coq
 - [Ptival/PeaCoq](https://github.com/Ptival/PeaCoq) - PeaCoq is a pretty Coq, isn't it?
 - [sweirich/corespec](https://github.com/sweirich/corespec) - A Specification for Dependent Types in Haskell (Core)
 - [antalsz/hs-to-coq](https://github.com/antalsz/hs-to-coq) - Convert Haskell source code to Coq source code
@@ -1121,7 +1120,7 @@
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [wealdtech/ethdo](https://github.com/wealdtech/ethdo) - 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
@@ -1592,6 +1591,7 @@
 - [htmlstreamofficial/awesome-dashboard-ui-kit](https://github.com/htmlstreamofficial/awesome-dashboard-ui-kit) - Awesome Dashboard UI Kit is a beautiful Open Source Bootstrap 4 Dashboard UI Kit crafted by Htmlstream.
 - [nerf-w/nerf-w.github.io](https://github.com/nerf-w/nerf-w.github.io) - 
 - [SamPom100/UnusualVolumeDetector](https://github.com/SamPom100/UnusualVolumeDetector) - Gets the last 5 months of volume history for every ticker, and alerts you when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [tc39/proposal-set-methods](https://github.com/tc39/proposal-set-methods) - Proposal for new Set methods in JS
 - [tc39/proposal-class-fields](https://github.com/tc39/proposal-class-fields) - Orthogonally-informed combination of public and private fields proposals
 - [tc39/proposal-static-class-features](https://github.com/tc39/proposal-static-class-features) - The static parts of new class features, in a separate proposal
@@ -3084,7 +3084,6 @@
 - [Emotional-Text-to-Speech/dl-for-emo-tts](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts) - :computer: :robot: A summary on our attempts at using Deep Learning approaches for Emotional Text to Speech :speaker:
 - [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
 - [titu1994/Neural-Style-Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Keras Implementation of Neural Style Transfer from the paper "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576) in Keras 2.0+
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [FRBs/FRB](https://github.com/FRBs/FRB) - Python code related to DM calculations, estimations, and analysis
 - [sharmaroshan/Drugs-Recommendation-using-Reviews](https://github.com/sharmaroshan/Drugs-Recommendation-using-Reviews) - Analyzing the Drugs Descriptions, conditions, reviews and then recommending it using Deep Learning Models, for each Health Condition of a Patient.
 - [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🪼 a python library for doing approximate and phonetic matching of strings.
@@ -6249,7 +6248,7 @@
 - [epic-kitchens/VISOR-VIS](https://github.com/epic-kitchens/VISOR-VIS) - Visualisation of VISOR Segmentations with Annotations and Relations
 - [ufal/corefud-scorer](https://github.com/ufal/corefud-scorer) - Coreference and anaphora scorer for CorefUD data
 - [juntaoy/universal-anaphora-scorer](https://github.com/juntaoy/universal-anaphora-scorer) - The Universal Anaphora Scorer
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.
 - [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -7456,7 +7455,7 @@
 - [elastic/elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
 - [Suor/funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
 - [nryoung/algorithms](https://github.com/nryoung/algorithms) - This repository is not maintained
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
@@ -7606,6 +7605,7 @@
 ## Rocq Prover 
 
 - [PrincetonUniversity/VST](https://github.com/PrincetonUniversity/VST) - Verified Software Toolchain
+- [mattam82/Coq-Equations](https://github.com/mattam82/Coq-Equations) - A function definition package for Coq
 - [affeldt-aist/infotheo](https://github.com/affeldt-aist/infotheo) - A Rocq formalization of information theory and linear error-correcting codes
 - [affeldt-aist/monae](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning in Rocq
 - [math-comp/math-comp](https://github.com/math-comp/math-comp) - Mathematical Components
