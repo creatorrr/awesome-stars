@@ -267,7 +267,7 @@
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) - tools for logs with ANSI color
 - [zcot/list-apt-installs](https://github.com/zcot/list-apt-installs) - Program to find and list apt and apt-get install commands in apt logs that were typed in terminal.
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)
-- [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - ★ Fullfast transactional key-value memory-mapped B-Tree storage engine without WAL ★ Surpasses the legendary LMDB in terms of reliability, features and performance. ★ Used by half of Ethereum and many
+- [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - ★ Fullfast transactional key-value memory-mapped B-Tree storage engine without WAL ★ Widely used by Ethereum, cryptocurrency industry and thousands of other projects ★ Surpasses the legendary LMDB in 
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
@@ -1085,7 +1085,7 @@
 - [cloudfoundry/korifi](https://github.com/cloudfoundry/korifi) - Cloud Foundry on Kubernetes
 - [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
 - [dborchard/tiny-planner](https://github.com/dborchard/tiny-planner) - 🚫 WIP: LogicalPlan Builder, Logical Plan Rule Based Optimizer, Execution Engine
-- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - MySQL-compatible HTAP database with Git for Data, vector search, and fulltext search. Cloud-native, AI-ready
+- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.
 - [alexandrevilain/temporal-operator](https://github.com/alexandrevilain/temporal-operator) - Temporal Kubernetes Operator
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
@@ -1517,7 +1517,6 @@
 - [asyncapi-archived-repos/glee](https://github.com/asyncapi-archived-repos/glee) - Glee — The AsyncAPI framework that will make you smile again :)
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [ehmorris/ecoli-chemotaxis](https://github.com/ehmorris/ecoli-chemotaxis) - The Baffling Intelligence of a Single Cell. An article by James Somers and Edwin Morris.
 - [hrmacbeth/math2001](https://github.com/hrmacbeth/math2001) - Lecture notes for a course on writing proofs, on paper and in the Lean proof assistant
 - [czyssrs/Logic2Text](https://github.com/czyssrs/Logic2Text) - Data and code for EMNLP 2020 paper "Logic2Text: High-Fidelity Natural Language Generation from Logical Forms"
@@ -2745,7 +2744,7 @@
 - [FluxML/model-zoo](https://github.com/FluxML/model-zoo) - Please do not feed the models
 - [mitmath/computational-thinking](https://github.com/mitmath/computational-thinking) - Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia
 - [SciML/StochasticDiffEq.jl](https://github.com/SciML/StochasticDiffEq.jl) - Solvers for stochastic differential equations which connect with the scientific machine learning (SciML) ecosystem
-- [yebai/DistributionsAD.jl](https://github.com/yebai/DistributionsAD.jl) - Automatic differentiation of  Distributions using Tracker, Zygote, ForwardDiff and ReverseDiff
+- [JuliaDiff/DistributionsAD.jl](https://github.com/JuliaDiff/DistributionsAD.jl) - Automatic differentiation of  Distributions using Tracker, Zygote, ForwardDiff and ReverseDiff
 - [TuringLang/AdvancedVI.jl](https://github.com/TuringLang/AdvancedVI.jl) - Implementation of variational Bayes inference algorithms
 - [theogf/AugmentedGaussianProcesses.jl](https://github.com/theogf/AugmentedGaussianProcesses.jl) - Gaussian Process package based on data augmentation, sparsity and natural gradients
 - [JuliaDiff/SparseDiffTools.jl](https://github.com/JuliaDiff/SparseDiffTools.jl) - Fast jacobian computation through sparsity exploitation and matrix coloring
@@ -3723,6 +3722,7 @@
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs.
 - [stanfordnlp/ColBERT-QA](https://github.com/stanfordnlp/ColBERT-QA) - Code for Relevance-guided Supervision for OpenQA with ColBERT (TACL'21)
+- [lucidrains/tableformer-pytorch](https://github.com/lucidrains/tableformer-pytorch) - Implementation of TableFormer, Robust Transformer Modeling for Table-Text Encoding, in Pytorch
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [Open-Speech-EkStep/vakyansh-models](https://github.com/Open-Speech-EkStep/vakyansh-models) - Open source speech to text models for Indic Languages
 - [Calinou/humaaans](https://github.com/Calinou/humaaans) - Mix-&-match illustrations of people with a design library (mirror)
@@ -3807,7 +3807,6 @@
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [FoundationDB/awesome-foundationdb](https://github.com/FoundationDB/awesome-foundationdb) - List of FoundationDB resources
-- [prisma/studio](https://github.com/prisma/studio) - 🎙️ The easiest way to explore and manipulate your data in all of your Prisma projects.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
@@ -4224,7 +4223,7 @@
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [dbos-inc/durable-swarm](https://github.com/dbos-inc/durable-swarm) - Augment Swarm with durable execution to help you build reliable and scalable multi-agent systems.
 - [facebookresearch/ScalableVeriScore](https://github.com/facebookresearch/ScalableVeriScore) - Scalable VeriScore implementation
-- [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
+- [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - OpenAI & Ollama compatible API powered by Codex
 - [benchflow-ai/benchflow](https://github.com/benchflow-ai/benchflow) - AI benchmark runtime framework that allows you to integrate and evaluate AI tasks using Docker-based benchmarks.
 - [summersonnn/Town-Of-Salem-with-LLMs](https://github.com/summersonnn/Town-Of-Salem-with-LLMs) - In this repository, 16 models compete to outperform each other in the game Town of Salem. Each model is randomly assigned roles like Vampire, Peasant, Clown, or special variants of Peasants with uniqu
 - [BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B) - Spiking Brain-inspired Large Models, integrating hybrid efficient attention, MoE modules and spike encoding into its architecture
@@ -4691,6 +4690,7 @@
 - [LAION-AI/audio-dataset](https://github.com/LAION-AI/audio-dataset) - Audio Dataset for training CLAP and other models
 - [Beomi/InfiniTransformer](https://github.com/Beomi/InfiniTransformer) - Unofficial PyTorch/🤗Transformers(Gemma/Llama3) implementation of Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention
 - [hubertsiuzdak/snac](https://github.com/hubertsiuzdak/snac) - Multi-Scale Neural Audio Codec (SNAC) compresses audio into discrete codes at a low bitrate
+- [lucidrains/recurrent-memory-transformer-pytorch](https://github.com/lucidrains/recurrent-memory-transformer-pytorch) - Implementation of Recurrent Memory Transformer, Neurips 2022 paper, in Pytorch
 - [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
 - [xinsir6/ControlNetPlus](https://github.com/xinsir6/ControlNetPlus) - ControlNet++: All-in-one ControlNet for image generations and editing!
 - [facebookresearch/MobileLLM](https://github.com/facebookresearch/MobileLLM) - MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024.
@@ -4798,6 +4798,7 @@
 - [cohere-ai/magikarp](https://github.com/cohere-ai/magikarp) - Code for the paper "Fishing for Magikarp"
 - [fzliu/radient](https://github.com/fzliu/radient) - Radient turns many data types (not just text) into vectors for similarity search, RAG, regression analysis, and more.
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- [lucidrains/alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch) - Implementation of Alphafold 3 from Google Deepmind in Pytorch
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - [microsoft/sammo](https://github.com/microsoft/sammo) - A library for prompt engineering and optimization (SAMMO = Structure-aware Multi-Objective Metaprompt Optimization)
 - [judahpaul16/gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT at home! A better alternative to commercial smart home assistants, built on the Raspberry Pi using LiteLLM and LangGraph.
@@ -4902,6 +4903,7 @@
 - [openfoodfacts/openfoodfacts-ai](https://github.com/openfoodfacts/openfoodfacts-ai) - This is a tracking repo for all our AI projects.  🍕 🤖🍼
 - [neurallambda/neurallambda](https://github.com/neurallambda/neurallambda) - Reasoning Computers. Lambda Calculus, Fully Differentiable. Also Neural Stacks, Queues, Arrays, Lists, Trees, and Latches.
 - [StonyBrookNLP/musique](https://github.com/StonyBrookNLP/musique) - Repository for MuSiQue: Multi-hop Questions via Single-hop Question Composition, TACL 2022
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [SakanaAI/evolutionary-model-merge](https://github.com/SakanaAI/evolutionary-model-merge) - Official repository of Evolutionary Optimization of Model Merging Recipes
 - [getludic/ludic](https://github.com/getludic/ludic) - 🌳 A type-safe HTML template engine for Python. Build dynamic web pages using Python components with a React-like approach.
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
@@ -5021,6 +5023,7 @@
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects
 - [ctavolazzi/NovaSystem](https://github.com/ctavolazzi/NovaSystem) - Polymorphic self-modifying modular intelligence layer for integrating new open source software into your apps automatically.
 - [Technologicat/mcpyrate](https://github.com/Technologicat/mcpyrate) - Advanced macro expander and language lab for Python.
+- [lucidrains/quartic-transformer](https://github.com/lucidrains/quartic-transformer) - Exploring an idea where one forgets about efficiency and carries out attention across each edge of the nodes (tokens)
 - [rbiswasfc/llm-detect-ai](https://github.com/rbiswasfc/llm-detect-ai) - 1st Place Solution for LLM - Detect AI Generated Text Kaggle Competition
 - [EQ-bench/EQ-Bench](https://github.com/EQ-bench/EQ-Bench) - A benchmark for emotional intelligence in large language models
 - [EasyJailbreak/EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak) - An easy-to-use Python framework to generate adversarial jailbreak prompts.
@@ -5050,6 +5053,7 @@
 - [InternLM/InternEvo](https://github.com/InternLM/InternEvo) - InternEvo is an open-sourced lightweight training framework aims to support model pre-training without the need for extensive dependencies.
 - [InternLM/lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents
 - [InternLM/agentlego](https://github.com/InternLM/agentlego) - Enhance LLM agents with rich tool APIs
+- [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch) - Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [vemel/handsdown](https://github.com/vemel/handsdown) - Python documentation generator for lazy perfectionists
 - [MichaelisTrofficus/gpt4docstrings](https://github.com/MichaelisTrofficus/gpt4docstrings) - Generating Python docstrings with OpenAI ChatGPT!!
@@ -5151,7 +5155,7 @@
 - [0xD34D/emo-connect-python](https://github.com/0xD34D/emo-connect-python) - Python library for connecting and interacting with an EMO pet
 - [ccqq77/unnatural-error-correction](https://github.com/ccqq77/unnatural-error-correction) - 
 - [meta-pytorch/gpt-fast](https://github.com/meta-pytorch/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [paysure/orinoco](https://github.com/paysure/orinoco) - Functional composable pipelines allowing clean separation of the business logic and its implementation
 - [olirice/flupy](https://github.com/olirice/flupy) - Fluent data pipelines for python and your shell
@@ -5258,6 +5262,7 @@
 - [huangwl18/VoxPoser](https://github.com/huangwl18/VoxPoser) - VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models
 - [XinyuanLiao/ComplexNN](https://github.com/XinyuanLiao/ComplexNN) - A toolbox for using complex-valued standard network modules in PyTorch, including MLP, CNN, RNN, Attention.
 - [bigai-nlco/langsuite](https://github.com/bigai-nlco/langsuite) - Official Repo of LangSuitE
+- [lucidrains/metnet3-pytorch](https://github.com/lucidrains/metnet3-pytorch) - Implementation of MetNet-3, SOTA neural weather model out of Google Deepmind, in Pytorch
 - [AILab-CVC/FreeNoise](https://github.com/AILab-CVC/FreeNoise) - [ICLR 2024] Code for FreeNoise based on VideoCrafter
 - [Genesis-Embodied-AI/RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen) - A generative and self-guided robotic agent that endlessly propose and master new skills.
 - [OneInterface/realtime-bakllava](https://github.com/OneInterface/realtime-bakllava) - llama.cpp with BakLLaVA model describes what does it see
@@ -5597,8 +5602,10 @@
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [permitio/fastapi_websocket_pubsub](https://github.com/permitio/fastapi_websocket_pubsub) - A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub ==  ⚡ 💪 ❤️
+- [lucidrains/naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
 - [juanmc2005/diart](https://github.com/juanmc2005/diart) - A python package to build AI-powered real-time audio applications
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
+- [lucidrains/soundstorm-pytorch](https://github.com/lucidrains/soundstorm-pytorch) - Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch
 - [AutoGPTQ/AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 - [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python) - Python SDK for CloudEvents
 - [neuml/txtinstruct](https://github.com/neuml/txtinstruct) - 📚 Datasets and models for instruction-tuning
@@ -5609,6 +5616,7 @@
 - [OpenGVLab/DragGAN](https://github.com/OpenGVLab/DragGAN) - Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
 - [arpitjain799/alt-profanity-check](https://github.com/arpitjain799/alt-profanity-check) - A fast, robust library to check for offensive language in strings,  dropdown replacement of "profanity-check".
 - [zh217/aiochan](https://github.com/zh217/aiochan) - CSP-style concurrency for Python
+- [lucidrains/MEGABYTE-pytorch](https://github.com/lucidrains/MEGABYTE-pytorch) - Implementation of MEGABYTE, Predicting Million-byte Sequences with Multiscale Transformers, in Pytorch
 - [BeastByteAI/scikit-llm](https://github.com/BeastByteAI/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
 - [0nutation/SpeechGPT](https://github.com/0nutation/SpeechGPT) - SpeechGPT Series: Speech Large Language Models
@@ -5834,6 +5842,7 @@
 - [timoschick/dino](https://github.com/timoschick/dino) - This repository contains the code for "Generating Datasets with Pretrained Language Models".
 - [UKPLab/EasyNMT](https://github.com/UKPLab/EasyNMT) - Easy to use, state-of-the-art Neural Machine Translation for 100+ languages
 - [vladignatyev/markovfsm](https://github.com/vladignatyev/markovfsm) - Markov chain and Probabilistic Automaton implementation in Python with nifty visualisation using Graphviz
+- [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch) - 🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch
 - [jeykigung/P5](https://github.com/jeykigung/P5) - 
 - [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) - Community for applying LLMs to robotics and a robot simulator with ChatGPT integration
 - [HKUNLP/ProGen](https://github.com/HKUNLP/ProGen) - [EMNLP-2022 Findings] Code for paper “ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback”.
@@ -5934,6 +5943,7 @@
 - [hwchase17/langchain-gradio-template](https://github.com/hwchase17/langchain-gradio-template) - 
 - [openai/human-eval-infilling](https://github.com/openai/human-eval-infilling) - Code for the paper "Efficient Training of Language Models to Fill in the Middle"
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) - Dataset of GPT-2 outputs for research in detection, biases, and more
+- [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [facebookresearch/CutLER](https://github.com/facebookresearch/CutLER) - Code release for "Cut and Learn for Unsupervised Object Detection and Instance Segmentation" and "VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation"
 - [rasbt/mlxtend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries.
 - [dreamquark-ai/tabnet](https://github.com/dreamquark-ai/tabnet) - PyTorch implementation of TabNet paper : https://arxiv.org/pdf/1908.07442.pdf
@@ -6021,6 +6031,9 @@
 - [reasoning-machines/CoCoGen](https://github.com/reasoning-machines/CoCoGen) - Language Models of Code are Few-Shot Commonsense Learners (EMNLP 2022)
 - [asaparov/prontoqa](https://github.com/asaparov/prontoqa) - Synthetic question-answering dataset to formally analyze the chain-of-thought output of large language models on a reasoning task.
 - [joeljang/negated-prompts-for-llms](https://github.com/joeljang/negated-prompts-for-llms) - [NeurIPS 2022 Workshop] A Case Study with Negated Prompts using T0 (3B, 11B), InstructGPT (350M-175B), GPT-3 (350M - 175B) & OPT (125M - 175B) LMs
+- [lucidrains/electra-pytorch](https://github.com/lucidrains/electra-pytorch) - A simple and working implementation of Electra, the fastest way to pretrain language models from scratch, in Pytorch
+- [lucidrains/clinical-calculator-tooluse](https://github.com/lucidrains/clinical-calculator-tooluse) - Explorations into training LLMs to use clinical calculators from patient history, using open sourced models. Will start with Wells' Criteria
+- [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [uber-research/PPLM](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
 - [antoyang/FrozenBiLM](https://github.com/antoyang/FrozenBiLM) - [NeurIPS 2022] Zero-Shot Video Question Answering via Frozen Bidirectional Language Models
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
@@ -6205,6 +6218,7 @@
 - [davidalami/ConveRT](https://github.com/davidalami/ConveRT) - Dual Encoders for State-of-the-art Natural Language Processing.
 - [kovvalsky/DRS2Graph](https://github.com/kovvalsky/DRS2Graph) - 
 - [asahi417/lm-question-generation](https://github.com/asahi417/lm-question-generation) - Multilingual/multidomain question generation datasets, models, and python library for question generation.
+- [lucidrains/retrieval-augmented-ddpm](https://github.com/lucidrains/retrieval-augmented-ddpm) - Implementation of Retrieval-Augmented Denoising Diffusion Probabilistic Models in Pytorch
 - [procrastinate-org/procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
 - [malthe/pq](https://github.com/malthe/pq) - A PostgreSQL job queueing system
 - [kazhala/pfzy](https://github.com/kazhala/pfzy) - Python port of the fzy fuzzy string matching algorithm.
@@ -6242,7 +6256,18 @@
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
 - [erikbern/ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
 - [sebastian-hofstaetter/matchmaker](https://github.com/sebastian-hofstaetter/matchmaker) - Training & evaluation library for text-based neural re-ranking and dense retrieval models built with PyTorch
+- [lucidrains/routing-transformer](https://github.com/lucidrains/routing-transformer) - Fully featured implementation of Routing Transformer
+- [lucidrains/ETSformer-pytorch](https://github.com/lucidrains/ETSformer-pytorch) - Implementation of ETSformer, state of the art time-series Transformer, in Pytorch
+- [lucidrains/x-clip](https://github.com/lucidrains/x-clip) - A concise but complete implementation of CLIP with various experimental improvements from recent papers
+- [lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch) - Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch
+- [lucidrains/memorizing-transformers-pytorch](https://github.com/lucidrains/memorizing-transformers-pytorch) - Implementation of Memorizing Transformers (ICLR 2022), attention net augmented with indexing and retrieval of memories using approximate nearest neighbors, in Pytorch
+- [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch
+- [lucidrains/phenaki-pytorch](https://github.com/lucidrains/phenaki-pytorch) - Implementation of Phenaki Video, which uses Mask GIT to produce text guided videos of up to 2 minutes in length, in Pytorch
+- [lucidrains/Mega-pytorch](https://github.com/lucidrains/Mega-pytorch) - Implementation of Mega, the Single-head Attention with Multi-headed EMA architecture that currently holds SOTA on Long Range Arena
+- [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch
 - [crowsonkb/k-diffusion](https://github.com/crowsonkb/k-diffusion) - Karras et al. (2022) diffusion models for PyTorch
+- [lucidrains/alphafold2](https://github.com/lucidrains/alphafold2) - To eventually become an unofficial Pytorch implementation / replication of Alphafold2, as details of the architecture get released
+- [lucidrains/video-diffusion-pytorch](https://github.com/lucidrains/video-diffusion-pytorch) - Implementation of Video Diffusion Models, Jonathan Ho's new paper extending DDPMs to Video Generation - in Pytorch
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [google/seqio](https://github.com/google/seqio) - Task-based datasets, preprocessing, and evaluation for sequence models.
 - [epic-kitchens/VISOR-VIS](https://github.com/epic-kitchens/VISOR-VIS) - Visualisation of VISOR Segmentations with Annotations and Relations
@@ -6447,6 +6472,7 @@
 - [mpc001/Lipreading_using_Temporal_Convolutional_Networks](https://github.com/mpc001/Lipreading_using_Temporal_Convolutional_Networks) - ICASSP'22 Training Strategies for Improved Lip-Reading; ICASSP'21 Towards Practical Lipreading with Distilled and Efficient Models; ICASSP'20 Lipreading using Temporal Convolutional Networks
 - [thuiar/TEXTOIR](https://github.com/thuiar/TEXTOIR) - TEXTOIR is the first opensource toolkit for text open intent recognition. (ACL 2021)
 - [IBM/kgi-slot-filling](https://github.com/IBM/kgi-slot-filling) - This is the code for our KILT leaderboard submissions (KGI + Re2G models).
+- [lucidrains/PaLM-pytorch](https://github.com/lucidrains/PaLM-pytorch) - Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways
 - [PaddlePaddle/Knover](https://github.com/PaddlePaddle/Knover) - Large-scale open domain KNOwledge grounded conVERsation system based on PaddlePaddle
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab
 - [shenweichen/DeepMatch](https://github.com/shenweichen/DeepMatch) - A deep matching model library for recommendations & advertising. It's easy to train models and to export representation vectors which can be used for ANN search.
@@ -6474,6 +6500,7 @@
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [HLTCHKUST/MoEL](https://github.com/HLTCHKUST/MoEL) - MoEL: Mixture of Empathetic Listeners
 - [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
+- [lucidrains/mixture-of-experts](https://github.com/lucidrains/mixture-of-experts) - A Pytorch implementation of Sparsely-Gated Mixture of Experts, for massively increasing the parameter count of language models
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
@@ -6481,6 +6508,7 @@
 - [sergioburdisso/pyss3](https://github.com/sergioburdisso/pyss3) - A Python library for Interpretable Machine Learning in Text Classification using the SS3 model, with easy-to-use visualization tools for Explainable AI :octocat:
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use and powerful LLM and SLM library with awesome model zoo.
+- [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
 - [intel/neural-compressor](https://github.com/intel/neural-compressor) - SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools
 - [avinassh/py-caskdb](https://github.com/avinassh/py-caskdb) - (educational) build your own disk based KV store
@@ -6499,6 +6527,7 @@
 - [JulienPalard/Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python
 - [s3prl/s3prl](https://github.com/s3prl/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit
 - [neulab/compare-mt](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems
+- [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [GoogleCloudPlatform/security-analytics](https://github.com/GoogleCloudPlatform/security-analytics) - Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -6506,6 +6535,7 @@
 - [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [nytimes/ingredient-phrase-tagger](https://github.com/nytimes/ingredient-phrase-tagger) - Extract structured data from ingredient phrases using conditional random fields
+- [lucidrains/RETRO-pytorch](https://github.com/lucidrains/RETRO-pytorch) - Implementation of RETRO, Deepmind's Retrieval based Attention net, in Pytorch
 - [AI4Finance-Foundation/ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) - Massively Parallel Deep Reinforcement Learning. 🔥
 - [transferwise/pipelinewise](https://github.com/transferwise/pipelinewise) - Data Pipeline Framework using the singer.io spec
 - [singer-io/singer-python](https://github.com/singer-io/singer-python) - Writes the Singer format from Python
@@ -6686,6 +6716,10 @@
 - [lmcgartland/graphene-file-upload](https://github.com/lmcgartland/graphene-file-upload) - Enhances Graphene Django GraphQL Server for intuitive file uploads via GraphQL mutations.
 - [rwhiteheadanderson/pystprism](https://github.com/rwhiteheadanderson/pystprism) - PySTPrism: An ArcGIS Python Toolbox for Space-Time Prisms
 - [HerveFrezza-Buet/relativipy](https://github.com/HerveFrezza-Buet/relativipy) - 
+- [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
+- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
+- [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
+- [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [nikitakit/tetra-tagging](https://github.com/nikitakit/tetra-tagging) - Tetra-Tagging: Word-Synchronous Parsing with Linear-Time Inference
@@ -6736,6 +6770,7 @@
 - [zhijing-jin/WebNLG_Reader](https://github.com/zhijing-jin/WebNLG_Reader) - This is a preprocessor/data-cleaner for the WebNLG dataset.
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
 - [yoavg/bert-syntax](https://github.com/yoavg/bert-syntax) - Assessing syntactic abilities of BERT
+- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
 - [ldtoolkit/conceptnet-rocks](https://github.com/ldtoolkit/conceptnet-rocks) - Python library to work with ConceptNet offline
 - [ldtoolkit/graph-garden](https://github.com/ldtoolkit/graph-garden) - Python library for managing ArangoDB instance
 - [pyston/pyston](https://github.com/pyston/pyston) - (No longer maintained) A faster and highly-compatible implementation of the Python programming language.
@@ -7732,6 +7767,7 @@
 - [alantech/alan](https://github.com/alantech/alan) - Autoscalable Programming Language
 - [zaidoon1/rust-rocksdb](https://github.com/zaidoon1/rust-rocksdb) - rust wrapper for rocksdb
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [drogus/jawsm](https://github.com/drogus/jawsm) - JavaScript to WASM compiler
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
 - [foundation-model-stack/fms-guardrails-orchestrator](https://github.com/foundation-model-stack/fms-guardrails-orchestrator) - 🚀 Guardrails orchestration server for application of various detections on text generation input and output.
@@ -8478,7 +8514,6 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [stoix-dev/stoix-cloud-saver](https://github.com/stoix-dev/stoix-cloud-saver) - 
@@ -8871,6 +8906,7 @@
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 - [cdklabs/cdk-watchful](https://github.com/cdklabs/cdk-watchful) - Watching what's up with your CDK apps since 2019
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
+- [prisma/studio](https://github.com/prisma/studio) - 🎙️ The easiest way to explore and manipulate your data in all of your Prisma projects.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
