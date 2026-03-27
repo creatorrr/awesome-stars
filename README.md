@@ -628,7 +628,7 @@
 - [homenc/HElib](https://github.com/homenc/HElib) - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations
 - [tfhe/tfhe](https://github.com/tfhe/tfhe) - TFHE: Fast Fully Homomorphic Encryption Library over the Torus
 - [microsoft/SEAL](https://github.com/microsoft/SEAL) - Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
-- [node-webrtc/node-webrtc](https://github.com/node-webrtc/node-webrtc) - node-webrtc is a Node.js Native Addon that provides bindings to WebRTC M87
+- [node-webrtc/node-webrtc](https://github.com/node-webrtc/node-webrtc) - node-webrtc is a Node.js Native Addon that provides bindings to WebRTC M106
 - [ros-planning/navigation](https://github.com/ros-planning/navigation) - ROS Navigation stack.  Code for finding where the robot is and how it can get somewhere else.
 - [FirebaseExtended/protobuf-rules-gen](https://github.com/FirebaseExtended/protobuf-rules-gen) - This is an experimental protoc plugin that generates Firebase Rules for Cloud Firestore based on Google's Protocol Buffer format. This allows you to easily validate your data in a platform independent
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -4155,6 +4155,8 @@
 
 ## Python 
 
+- [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) - A general purpose scientific writer
+- [MemoryStore/datetime-bench](https://github.com/MemoryStore/datetime-bench) - LLM benchmark for datetime format generation reliability
 - [iliazintchenko/agent-sat](https://github.com/iliazintchenko/agent-sat) - Agent learns to become the worlds top expert on SAT
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [imbue-ai/darwinian_evolver](https://github.com/imbue-ai/darwinian_evolver) - Framework for evolving code and prompts inspired by Darwinian evolution
@@ -4574,7 +4576,6 @@
 - [naver/mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
 - [naver/multi-hmr](https://github.com/naver/multi-hmr) - Pytorch demo code and models for Multi-HMR
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
 - [facebookresearch/LayerSkip](https://github.com/facebookresearch/LayerSkip) - Code for "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding", ACL 2024
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs).
@@ -4638,7 +4639,6 @@
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
 - [grpc-requests/grpc_requests](https://github.com/grpc-requests/grpc_requests) - python grpc reflection client
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual Voice Understanding Model
@@ -4772,7 +4772,6 @@
 - [krishnap25/mauve](https://github.com/krishnap25/mauve) - Package to compute Mauve, a similarity score between neural text and human text. Install with `pip install mauve-text`.
 - [nytr0gen/kasiski](https://github.com/nytr0gen/kasiski) - Kasiski Examination
 - [NX-AI/xlstm](https://github.com/NX-AI/xlstm) - Official repository of the xLSTM.
-- [serengil/LightPHE](https://github.com/serengil/LightPHE) - A Lightweight Partially Homomorphic Encryption Library for Python
 - [CodeByAidan/Homomorphic-Encryption-Decryption-with-Strings](https://github.com/CodeByAidan/Homomorphic-Encryption-Decryption-with-Strings) - Homomorphic Encryption/Decryption with Strings!
 - [CodeWithPrajjwal/jugaadHacks-backend](https://github.com/CodeWithPrajjwal/jugaadHacks-backend) - https://frontend-jugaadhacks.onrender.com/
 - [ChaitanayaK/Drug-Interaction-Detector](https://github.com/ChaitanayaK/Drug-Interaction-Detector) - This is a Hackathon Project built in 2 days for "THE JUGAAD HACKS HACKATHON". Project is a streamlit webpage which offers the user to select Indian medicines and then checks their drug interaction, wh
@@ -8357,6 +8356,7 @@
 
 ## TypeScript 
 
+- [axeldelafosse/loop](https://github.com/axeldelafosse/loop) - Dead-simple Bun CLI that runs Codex and Claude Code in a loop.
 - [creationix/rx](https://github.com/creationix/rx) - RX encoder, decoder, and CLI data tool
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
@@ -8409,7 +8409,7 @@
 - [ProfSynapse/nexus](https://github.com/ProfSynapse/nexus) - 
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Unopinionated AI for the Shell. A lightweight AI CLI for scripts, pipelines, and automation, with a universal client for MCP, A2A, and other AI protocols. .
-- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source AI agent that brings the power of Grok directly into your terminal.
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source autonomous agent powered by Grok.
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in.
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
@@ -8530,6 +8530,7 @@
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [virtualstate/navigation](https://github.com/virtualstate/navigation) - Native JavaScript navigation [web api] implementation
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [pixijs-userland/lights](https://github.com/pixijs-userland/lights) - Adds dynamic lighting via deferred shading to PixiJS
 - [pixijs/filters](https://github.com/pixijs/filters) - Collection of community-authored custom display filters for PixiJS
