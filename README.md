@@ -4578,6 +4578,7 @@
 - [naver/mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
 - [naver/multi-hmr](https://github.com/naver/multi-hmr) - Pytorch demo code and models for Multi-HMR
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
 - [facebookresearch/LayerSkip](https://github.com/facebookresearch/LayerSkip) - Code for "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding", ACL 2024
 - [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs).
@@ -4775,6 +4776,7 @@
 - [krishnap25/mauve](https://github.com/krishnap25/mauve) - Package to compute Mauve, a similarity score between neural text and human text. Install with `pip install mauve-text`.
 - [nytr0gen/kasiski](https://github.com/nytr0gen/kasiski) - Kasiski Examination
 - [NX-AI/xlstm](https://github.com/NX-AI/xlstm) - Official repository of the xLSTM.
+- [serengil/LightPHE](https://github.com/serengil/LightPHE) - A Lightweight Partially Homomorphic Encryption Library for Python
 - [CodeByAidan/Homomorphic-Encryption-Decryption-with-Strings](https://github.com/CodeByAidan/Homomorphic-Encryption-Decryption-with-Strings) - Homomorphic Encryption/Decryption with Strings!
 - [CodeWithPrajjwal/jugaadHacks-backend](https://github.com/CodeWithPrajjwal/jugaadHacks-backend) - https://frontend-jugaadhacks.onrender.com/
 - [ChaitanayaK/Drug-Interaction-Detector](https://github.com/ChaitanayaK/Drug-Interaction-Detector) - This is a Hackathon Project built in 2 days for "THE JUGAAD HACKS HACKATHON". Project is a streamlit webpage which offers the user to select Indian medicines and then checks their drug interaction, wh
