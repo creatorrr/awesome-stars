@@ -267,7 +267,7 @@
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) - tools for logs with ANSI color
 - [zcot/list-apt-installs](https://github.com/zcot/list-apt-installs) - Program to find and list apt and apt-get install commands in apt logs that were typed in terminal.
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)
-- [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - ★ One of the fastest key-value storage engines with ACID ★ Surpasses the legendary LMDB in reliability, capabilities and performance ★ Used in hundreds of open source projects, including Ethereum.
+- [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - ★ Fastfull embedded transactional key-value storage engine ★ Surpasses the legendary LMDB in reliability, capabilities and performance ★ Used in hundreds of open source projects, including Ethereum.
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
@@ -903,7 +903,6 @@
 - [prettier/prettier-emacs](https://github.com/prettier/prettier-emacs) - Minor mode to format code on file save
 - [matsievskiysv/vimish-fold](https://github.com/matsievskiysv/vimish-fold) - Vim-like text folding for Emacs
 - [sabof/org-bullets](https://github.com/sabof/org-bullets) - utf-8 bullets for org-mode
-- [johnson-christopher/powerline-evil](https://github.com/johnson-christopher/powerline-evil) - Utilities for better Evil support for Powerline
 - [emacsorphanage/req-package](https://github.com/emacsorphanage/req-package) - dependency management system on top of use-package
 - [nonsequitur/smex](https://github.com/nonsequitur/smex) - A smart M-x enhancement for Emacs.
 - [larstvei/Focus](https://github.com/larstvei/Focus) - Dim the font color of text in surrounding paragraphs
@@ -2776,7 +2775,7 @@
 - [rubenwiersma/painting_tools](https://github.com/rubenwiersma/painting_tools) - Painting Tools and Dataset
 - [babycommando/neuralgraffiti](https://github.com/babycommando/neuralgraffiti) - Live-bending a foundation model’s output at neural network level.
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
-- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - 📖 NEW BOOK (/bin/zsh.99 launch): https://amzn.to/4cvxqSw — This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 - [ruggsea/LLM-ABM-Chat](https://github.com/ruggsea/LLM-ABM-Chat) - Basic framework for simulation of multi-agent LLM conversations.
 - [Data-Provenance-Initiative/Data-Provenance-Collection](https://github.com/Data-Provenance-Initiative/Data-Provenance-Collection) - 
 - [McGill-NLP/nano-aha-moment](https://github.com/McGill-NLP/nano-aha-moment) - Single File, Single GPU, From Scratch, Efficient, Full Parameter Tuning library for "RL for LLMs"
@@ -4357,7 +4356,7 @@
 - [NousResearch/atropos](https://github.com/NousResearch/atropos) - Atropos is a Language Model Reinforcement Learning Environments framework for collecting and evaluating LLM trajectories through diverse environments
 - [Anemll/Anemll](https://github.com/Anemll/Anemll) - Artificial Neural Engine Machine Learning Library
 - [facebookresearch/scenescript](https://github.com/facebookresearch/scenescript) - Public code release associated with SceneScript.
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is an agentic harness optimized for controlling customer interactions.
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
 - [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo) - MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
 - [ZiYang-xie/WorldGen](https://github.com/ZiYang-xie/WorldGen) - 🌍 WorldGen - Generate Any 3D Scene in Seconds
@@ -4431,7 +4430,7 @@
 - [jmward01/lmplay](https://github.com/jmward01/lmplay) - A playground to make it easy to try crazy things
 - [facebookresearch/RAM](https://github.com/facebookresearch/RAM) - A framework to study AI models in Reasoning, Alignment, and use of Memory (RAM).
 - [egara/buttermanager](https://github.com/egara/buttermanager) - ButterManager is a BTRFS tool for managing snapshots, balancing filesystems and upgrading the system safetly.
-- [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ & TIS & vLLM & Ray & Async  RL)
+- [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL)
 - [sail-sg/oat](https://github.com/sail-sg/oat) - 🌾 OAT: A research-friendly framework for LLM online alignment, including reinforcement learning, preference learning, etc.
 - [AI-Hypercomputer/maxdiffusion](https://github.com/AI-Hypercomputer/maxdiffusion) - 
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
@@ -5157,7 +5156,7 @@
 - [0xD34D/emo-connect-python](https://github.com/0xD34D/emo-connect-python) - Python library for connecting and interacting with an EMO pet
 - [ccqq77/unnatural-error-correction](https://github.com/ccqq77/unnatural-error-correction) - 
 - [meta-pytorch/gpt-fast](https://github.com/meta-pytorch/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [paysure/orinoco](https://github.com/paysure/orinoco) - Functional composable pipelines allowing clean separation of the business logic and its implementation
 - [olirice/flupy](https://github.com/olirice/flupy) - Fluent data pipelines for python and your shell
@@ -7286,7 +7285,7 @@
 - [Franck-Dernoncourt/NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER) - Named-entity recognition using neural networks. Easy-to-use and state-of-the-art results.
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
 - [ims-tcl/DeRE](https://github.com/ims-tcl/DeRE) - A Task and Domain-Independent Slot Filling Framework for Declarative Relation Extraction
-- [kyzhouhzau/BERT-NER](https://github.com/kyzhouhzau/BERT-NER) - Use Google's BERT for named entity recognition （CoNLL-2003 as the dataset）.
+- [kaiyinzhou/BERT-NER](https://github.com/kaiyinzhou/BERT-NER) - Use Google's BERT for named entity recognition （CoNLL-2003 as the dataset）.
 - [kamalkraj/BERT-NER](https://github.com/kamalkraj/BERT-NER) - Pytorch-Named-Entity-Recognition-with-BERT
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [sunpy/sunpy](https://github.com/sunpy/sunpy) - SunPy - Python for Solar Physics
@@ -7741,7 +7740,7 @@
 - [justbuchanan/oasis](https://github.com/justbuchanan/oasis) - 3d-printed smart terrarium
 - [ChuckHend/pg_vectorize](https://github.com/ChuckHend/pg_vectorize) - Full-text and semantic search on any Postgres
 - [rorosen/zeekstd](https://github.com/rorosen/zeekstd) - Rust implementation of the Zstandard Seekable Format
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
@@ -7795,7 +7794,7 @@
 - [chdb-io/chdb-rust](https://github.com/chdb-io/chdb-rust) - Rust FFI example binding for chDB, an embedded SQL Engine powered by ClickHouse
 - [cozodb/milli-py](https://github.com/cozodb/milli-py) - 
 - [ijt/trigram](https://github.com/ijt/trigram) - Trigram-based string similarity in Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [tensorchord/pg_bestmatch.rs](https://github.com/tensorchord/pg_bestmatch.rs) - Generate BM25 sparse vector inside PostgreSQL
@@ -7961,7 +7960,7 @@
 - [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your code is correct in an automated fashion.
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
