@@ -360,7 +360,7 @@
 - [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
@@ -487,7 +487,7 @@
 - [sylviangth/awesome-remote-mcp-servers](https://github.com/sylviangth/awesome-remote-mcp-servers) - A curated list of Hosted & Managed Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 - [miantiao-me/ssh-ai-chat](https://github.com/miantiao-me/ssh-ai-chat) - Chat with AI over SSH.
 - [Kuberwastaken/meow](https://github.com/Kuberwastaken/meow) - The most Purr-fect Image File Format for your AI workflows
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
@@ -831,7 +831,7 @@
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
-- [apify/mcpc](https://github.com/apify/mcpc) - mcpc is a universal CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
+- [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It auto-converts agent tools and MCP servers into code that runs in secure sandboxes for token-efficient workflows.
 - [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 423 plugins, 2,849 skills, 177 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.
@@ -1961,7 +1961,7 @@
 
 ## bash 
 
-- [apify/mcpc](https://github.com/apify/mcpc) - mcpc is a universal CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
+- [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 - [rz1989s/claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) - Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
@@ -2464,7 +2464,7 @@
 - [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [ken107/read-aloud](https://github.com/ken107/read-aloud) - An awesome browser extension that reads aloud webpage content with one click
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [hafaio/repub](https://github.com/hafaio/repub) - reMarkable ePub generator
 - [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
@@ -2530,7 +2530,7 @@
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support
 - [stablyai/agent-slack](https://github.com/stablyai/agent-slack) - Slack automation CLI for AI agents
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
-- [apify/mcpc](https://github.com/apify/mcpc) - mcpc is a universal CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
+- [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 - [boringSQL/regresql](https://github.com/boringSQL/regresql) - Catch broken queries and performance regressions before production. SQL regression testing, EXPLAIN plan baselines, and CI/CD integration for PostgreSQL.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [iagooar/qqqa](https://github.com/iagooar/qqqa) - Fast, stateless LLM for your shell: qq answers; qa runs commands
@@ -2827,7 +2827,7 @@
 
 ## command-line 
 
-- [apify/mcpc](https://github.com/apify/mcpc) - mcpc is a universal CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
+- [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -4858,7 +4858,7 @@
 
 ## fastapi 
 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
 - [ghandic/jsf](https://github.com/ghandic/jsf) - Creates fake JSON files from a JSON schema
 - [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A universal data composition tool that generates complex data, GraphQL, and even MCP.
@@ -6093,7 +6093,7 @@
 - [clark800/lambda-zero](https://github.com/clark800/lambda-zero) - minimalist pure lazy functional programming language (pythonic haskell)
 - [kowainik/summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
-- [composewell/streamly](https://github.com/composewell/streamly) - High performance, concurrent functional programming abstractions
+- [composewell/streamly](https://github.com/composewell/streamly) - High performance, streaming and concurrent functional programming abstractions
 - [kowainik/typerep-map](https://github.com/kowainik/typerep-map) - ⚡️Efficient implementation of Map with types as keys
 - [serokell/importify](https://github.com/serokell/importify) - :space_invader: Importi.fy — it's like Uber, but for Haskell modules.
 - [agentm/project-m36](https://github.com/agentm/project-m36) - Project: M36 Relational Algebra Engine
@@ -8493,7 +8493,7 @@
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support
-- [apify/mcpc](https://github.com/apify/mcpc) - mcpc is a universal CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
+- [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It auto-converts agent tools and MCP servers into code that runs in secure sandboxes for token-efficient workflows.
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
@@ -9075,14 +9075,14 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [AgentDock/AgentDock](https://github.com/AgentDock/AgentDock) - Build Anything with AI Agents
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [deepgram-devs/deepgram-ai-agent-demo](https://github.com/deepgram-devs/deepgram-ai-agent-demo) - 
 - [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) - Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
@@ -9854,7 +9854,7 @@
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - This action runs your docker-compose file and clean up before action finished
 - [Leeroo-AI/mergoo](https://github.com/Leeroo-AI/mergoo) - A library for easily merging multiple LLM experts, and efficiently train the merged LLM.
@@ -10128,6 +10128,7 @@
 
 ## others 
 
+- [besimple-oss/broccoli](https://github.com/besimple-oss/broccoli) - Broccoli turns Linear tickets into shipped PRs — powered by Claude and Codex, running on your own Google Cloud.
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
 - [NikolayS/pgque](https://github.com/NikolayS/pgque) - PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.
@@ -14740,7 +14741,7 @@
 - [pytest-dev/pyfakefs](https://github.com/pytest-dev/pyfakefs) - Provides a fake file system that mocks the Python file system modules.
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish
 - [upamune/notebooklm-podcast-automator](https://github.com/upamune/notebooklm-podcast-automator) - Python tool to automate Google NotebookLM podcast creation with website/YouTube sources
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 - [se2p/pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
 - [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping) - Automatically add simple type annotations to your code
@@ -16005,7 +16006,7 @@
 - [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) - Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling
 - [ChuckHend/pg_vectorize](https://github.com/ChuckHend/pg_vectorize) - Full-text and semantic search on any Postgres
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
@@ -17076,7 +17077,7 @@
 
 ## shell 
 
-- [apify/mcpc](https://github.com/apify/mcpc) - mcpc is a universal CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
+- [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
@@ -17901,7 +17902,7 @@
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [valmisson/tauri-app-template](https://github.com/valmisson/tauri-app-template) - A template for building desktop applications with Tauri
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper. Less but handy features for plain Markdown lovers.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - Obsidian TTS Plugin
@@ -17942,7 +17943,7 @@
 - [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) - LM Studio TypeScript SDK
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating typed models based on inputs such as AsyncAPI, OpenAPI, and JSON Schema documents with high customization
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
