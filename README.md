@@ -3779,7 +3779,7 @@
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers
 - [FatemehTarashi/awesome-tda](https://github.com/FatemehTarashi/awesome-tda) - A curated list of topological data analysis (TDA) resources and links.
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 - [ablwr/my-recurse-center-syllabus](https://github.com/ablwr/my-recurse-center-syllabus) - updated regularly while attending Recurse Center in Spring 2 '18
 - [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
 - [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
@@ -7961,7 +7961,7 @@
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [move-language/move](https://github.com/move-language/move) - 
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
-- [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your code is correct in an automated fashion.
+- [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your Rust code is correct.
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
@@ -8098,6 +8098,7 @@
 
 ## Shell 
 
+- [dbalabka/chrome-wsl](https://github.com/dbalabka/chrome-wsl) - Simplifies Chrome DevTools MCP setup for WSL and Docker by automating Chrome remote debugging and network proxy bridging.
 - [Peter-Lavigne/fizzbuzz-without-human-review](https://github.com/Peter-Lavigne/fizzbuzz-without-human-review) - 
 - [KakkoiDev/tmux-worktree](https://github.com/KakkoiDev/tmux-worktree) - Native tmux for parallel workflows. AI agents, code reviews, tests. Each task gets its own worktree and session.
 - [wedow/ticket](https://github.com/wedow/ticket) - Fast, powerful, git-native ticket tracking in a single bash script. Dependency graphs, priority levels, zero setup.
