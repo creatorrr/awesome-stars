@@ -1666,7 +1666,6 @@
 - [morloc-project/morloc](https://github.com/morloc-project/morloc) - A typed, polyglot, functional language
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official Haskell IDE support via the language server protocol (LSP)
 - [chameco/bramble](https://github.com/chameco/bramble) - dependently-typed lisp with flexible compiler backends
-- [vekatze/neut](https://github.com/vekatze/neut) - A functional programming language with static memory management
 - [michaelt/streaming](https://github.com/michaelt/streaming) - An optimized general monad transformer for streaming applications, with a simple prelude of functions
 - [haskell-streaming/streaming](https://github.com/haskell-streaming/streaming) - An optimized general monad transformer for streaming applications, with a simple prelude of functions
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -1846,7 +1845,7 @@
 - [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process eng
 - [apache/linkis](https://github.com/apache/linkis) - Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.
 - [apache/submarine](https://github.com/apache/submarine) - Submarine is Cloud Native Machine Learning Platform.
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [apache/eventmesh](https://github.com/apache/eventmesh) - EventMesh is a new generation serverless event middleware for building distributed event-driven applications.
 - [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
@@ -2340,6 +2339,7 @@
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [SGrondin/bottleneck](https://github.com/SGrondin/bottleneck) - Job scheduler and rate limiter, supports Clustering
 - [arialpew/reason-loadable](https://github.com/arialpew/reason-loadable) - 🔥 Suspense/Lazy for ReasonReact.
+- [vekatze/neut](https://github.com/vekatze/neut) - A functional programming language with static memory management
 - [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js
 - [covid19india/covid19india.github.io](https://github.com/covid19india/covid19india.github.io) - Tracking the impact of COVID-19 in India
 - [hasura/hasura-k8s-stack](https://github.com/hasura/hasura-k8s-stack) - A feature-complete Hasura stack on Kubernetes
@@ -5156,7 +5156,7 @@
 - [0xD34D/emo-connect-python](https://github.com/0xD34D/emo-connect-python) - Python library for connecting and interacting with an EMO pet
 - [ccqq77/unnatural-error-correction](https://github.com/ccqq77/unnatural-error-correction) - 
 - [meta-pytorch/gpt-fast](https://github.com/meta-pytorch/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [paysure/orinoco](https://github.com/paysure/orinoco) - Functional composable pipelines allowing clean separation of the business logic and its implementation
 - [olirice/flupy](https://github.com/olirice/flupy) - Fluent data pipelines for python and your shell
@@ -7705,7 +7705,7 @@
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
 - [superagent-ai/polyresearch](https://github.com/superagent-ai/polyresearch) - Distributed autoresearch with multiple machines, multiple contributors, and verified results.
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
-- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
+- [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [imbue-ai/offload](https://github.com/imbue-ai/offload) - Offload your test computation to ephemeral compute
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [ecto/loon](https://github.com/ecto/loon) - the lisp I always wanted
@@ -7920,7 +7920,7 @@
 - [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and 
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The Grafbase GraphQL Federation Gateway
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - [Acquired by The Guild] The Grafbase GraphQL Federation Gateway
 - [getmetal/motorhead](https://github.com/getmetal/motorhead) - 🧠 Motorhead is a memory and information retrieval server for LLMs.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
