@@ -642,7 +642,7 @@
 ## CMake 
 
 - [ease-crc/dul](https://github.com/ease-crc/dul) - 
-- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
+- [OpenMoonRay/openmoonray](https://github.com/OpenMoonRay/openmoonray) - MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.
 - [WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
 
 ## CSS 
@@ -3458,7 +3458,7 @@
 - [zupo/awesome-pytest-speedup](https://github.com/zupo/awesome-pytest-speedup) - A collection of tips, tricks and links to help you speed up your pytest suite.
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 - [LIANGKE23/Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) - AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [deepseek-ai/DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - 
 - [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - Curated list of datasets and tools for post-training.
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
@@ -3779,7 +3779,7 @@
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers
 - [FatemehTarashi/awesome-tda](https://github.com/FatemehTarashi/awesome-tda) - A curated list of topological data analysis (TDA) resources and links.
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [ablwr/my-recurse-center-syllabus](https://github.com/ablwr/my-recurse-center-syllabus) - updated regularly while attending Recurse Center in Spring 2 '18
 - [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
 - [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
@@ -4158,7 +4158,7 @@
 
 ## Python 
 
-- [besimple-oss/broccoli](https://github.com/besimple-oss/broccoli) - Broccoli turns Linear tickets into shipped PRs — powered by Claude and Codex, running on your own Google Cloud.
+- [besimple-oss/broccoli](https://github.com/besimple-oss/broccoli) - Broccoli turns Linear tickets into shipped PRs — powered by Claude and Codex, running on your own Google Cloud or Blaxel containers.
 - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) - A general purpose scientific writer
 - [MemoryStore/datetime-bench](https://github.com/MemoryStore/datetime-bench) - LLM benchmark for datetime format generation reliability
 - [iliazintchenko/agent-sat](https://github.com/iliazintchenko/agent-sat) - Agent learns to become the worlds top expert on SAT
@@ -4591,7 +4591,7 @@
 - [DarkStar1982/Orbidium](https://github.com/DarkStar1982/Orbidium) - 
 - [eloialonso/diamond](https://github.com/eloialonso/diamond) - DIAMOND (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained in a diffusion world model. NeurIPS 2024 Spotlight.
 - [lifeiteng/OmniSenseVoice](https://github.com/lifeiteng/OmniSenseVoice) - Omni SenseVoice: High-Speed Speech Recognition with words timestamps 🗣️🎯
-- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 2 minutes
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 90 seconds
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [jupyter/nbgrader](https://github.com/jupyter/nbgrader) - A system for assigning and grading notebooks
 - [alexanderlukanin13/coolname](https://github.com/alexanderlukanin13/coolname) - Random Name and Slug Generator
@@ -4840,7 +4840,7 @@
 - [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - [ICML 2024] LLMCompiler: An LLM Compiler for Parallel Function Calling
 - [Linear95/SPAG](https://github.com/Linear95/SPAG) - Self-playing Adversarial Language Game Enhances LLM Reasoning, NeurIPS 2024
 - [THUNLP-MT/StableToolBench](https://github.com/THUNLP-MT/StableToolBench) - A new tool learning benchmark aiming at well-balanced stability and reality, based on ToolBench.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build in any framework. Run as a service. Ship to real users.
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
 - [speakleash/speakleash-instruct-creator](https://github.com/speakleash/speakleash-instruct-creator) - Generate instructions datasets for the fine-tuning purposes.
 - [huggingface/jat](https://github.com/huggingface/jat) - General multi-task deep RL Agent
@@ -8913,7 +8913,7 @@
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [cdklabs/aws-delivlib](https://github.com/cdklabs/aws-delivlib) - setup and manage continuous delivery pipelines for code libraries in multiple languages
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
-- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
+- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Agentic BI. Analytics at the speed of code ⚡️
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is a modern open source language for describing data relationships and transformations.
 - [octet-stream/use-suspender](https://github.com/octet-stream/use-suspender) - Wraps asynchronous function allowing to use it with React.Suspense
 - [regionjs/region](https://github.com/regionjs/region) - Progressive View Model Management Library
