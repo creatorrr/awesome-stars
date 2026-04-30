@@ -796,7 +796,7 @@
 ## Elixir 
 
 - [cbh123/stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [operable/cog](https://github.com/operable/cog) - Bringing the power of the command line to chat
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
@@ -4391,7 +4391,7 @@
 - [danthegoodman1/icedb](https://github.com/danthegoodman1/icedb) - An in-process Parquet merge engine for better data warehousing in S3 with MVCC
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
 - [phildougherty/qwen2.5_omni_chat](https://github.com/phildougherty/qwen2.5_omni_chat) - Service for testing out the new Qwen2.5 omni model
-- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
+- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Database-Backed Durable Python Workflows
 - [vllm-project/production-stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) - A Model Context Protocol (MCP) server implementation for DuckDB, providing database interaction capabilities
 - [szeider/mcp-solver](https://github.com/szeider/mcp-solver) - Model Context Protocol (MCP) server for constraint optimization and solving"
