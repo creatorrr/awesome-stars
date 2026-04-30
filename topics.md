@@ -401,6 +401,7 @@
 - [zjunlp/MachineSoM](https://github.com/zjunlp/MachineSoM) - [ACL 2024]  Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View
 - [web-arena-x/webarena](https://github.com/web-arena-x/webarena) - Code repo for "WebArena: A Realistic Web Environment for Building Autonomous Agents"
 - [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page SCIS cover paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [zjunlp/TRICE](https://github.com/zjunlp/TRICE) - [NAACL 2024] Making Language Models Better Tool Learners with Execution Feedback
 - [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🤖 Everything you need to create an LLM Agent—tools, prompts, frameworks, and models—all in one place.
@@ -3236,6 +3237,7 @@
 - [cncplyr/datasets-games](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games.
 - [github/innovationgraph](https://github.com/github/innovationgraph) - GitHub Innovation Graph
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [NationalGalleryOfArt/opendata](https://github.com/NationalGalleryOfArt/opendata) - The National Gallery of Art Open Data Program
 - [eigenfoo/cryptics](https://github.com/eigenfoo/cryptics) - A dataset of cryptic crossword clues, collected from various blogs and digital archives.
 - [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Embeddable visual analytic
@@ -4719,7 +4721,7 @@
 
 ## elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -14378,7 +14380,7 @@
 - [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [TkTech/chancy](https://github.com/TkTech/chancy) - A postgres-backed task queue for Python.
-- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
+- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Database-Backed Durable Python Workflows
 - [postgrespro/rum](https://github.com/postgrespro/rum) - RUM access method - inverted index with additional information in posting lists
 - [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) - Real-time analytics on Postgres tables
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
@@ -14781,7 +14783,7 @@
 - [northpowered/temporal-boost](https://github.com/northpowered/temporal-boost) - Extemely fast development for Temporal-based microservices
 - [mwouts/itables](https://github.com/mwouts/itables) - Python DataFrames as Interactive DataTables
 - [danthegoodman1/icedb](https://github.com/danthegoodman1/icedb) - An in-process Parquet merge engine for better data warehousing in S3 with MVCC
-- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
+- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Database-Backed Durable Python Workflows
 - [Ishanoshada/SafeScript](https://github.com/Ishanoshada/SafeScript) - SafeScript is a Python module designed to bolster web application security by offering functions that combat common vulnerabilities like XSS and SQL Injection attacks. It provides methods for sanitizi
 - [dgilland/pydash](https://github.com/dgilland/pydash) - The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library.
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
@@ -17210,7 +17212,6 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Making data lake work for time series
@@ -17307,7 +17308,7 @@
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal
 - [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications.
-- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
+- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Database-Backed Durable Python Workflows
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
 - [buffdb/buffdb](https://github.com/buffdb/buffdb) - Embedded storage built for AI model management over gRPC. Smart machines don't need to read JSON, they only need protocol buffers. The world's first MODMS (Machine-Oriented Database Management System)
@@ -17315,7 +17316,6 @@
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
