@@ -3989,7 +3989,7 @@
 - [davebs/AgileLite](https://github.com/davebs/AgileLite) - Agile software development without all the burnout.
 - [jackmorgan/the-plain-contract](https://github.com/jackmorgan/the-plain-contract) - The Plain Contract is a crowsourced, open source freelance contract template, written in plain language.
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
 - [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
@@ -4471,7 +4471,7 @@
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking
 - [young-geng/tpu_pod_commander](https://github.com/young-geng/tpu_pod_commander) - TPU pod commander is a package for managing and launching jobs on Google Cloud TPU pods.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs. Available in TypeScript!
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
 - [mkurman/ReasonFlow](https://github.com/mkurman/ReasonFlow) - ReasonFlow is a novel framework designed to implement o1-like reasoning capabilities in large language models.
@@ -6073,7 +6073,7 @@
 - [salesforce/factCC](https://github.com/salesforce/factCC) - Resources for the "Evaluating the Factual Consistency of Abstractive Text Summarization" paper
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [google-research/frame-interpolation](https://github.com/google-research/frame-interpolation) - FILM: Frame Interpolation for Large Motion, In ECCV 2022.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [mpezeshki/pytorch_forward_forward](https://github.com/mpezeshki/pytorch_forward_forward) - Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation
 - [VoltaML/voltaML-fast-stable-diffusion](https://github.com/VoltaML/voltaML-fast-stable-diffusion) - Beautiful and Easy to use Stable Diffusion WebUI
 - [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent e
@@ -8362,6 +8362,7 @@
 
 ## TypeScript 
 
+- [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web) - Web playground to create Gaussian Splats using Apple's ml-sharp model.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [voquill/voquill](https://github.com/voquill/voquill) - Open source voice dictation technology
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
