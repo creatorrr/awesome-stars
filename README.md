@@ -604,7 +604,6 @@
 - [Oneplus/twpipe](https://github.com/Oneplus/twpipe) - Twpipe is a pipeline toolkit that parses raw tweets into universal dependencies.
 - [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [grf-labs/grf](https://github.com/grf-labs/grf) - Generalized Random Forests
-- [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and 
 - [fridgerator/PyNode](https://github.com/fridgerator/PyNode) - Node - Python Interop
 - [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
@@ -3888,7 +3887,7 @@
 - [owlcs/pizza-ontology](https://github.com/owlcs/pizza-ontology) - The pizza ontology
 - [lukicdarkoo/rpi-wifi](https://github.com/lukicdarkoo/rpi-wifi) - Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
 - [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [davidsbatista/Annotated-Semantic-Relationships-Datasets](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets) - A collections of public and free annotated datasets of relationships between entities/nominals (Portuguese and English)
 - [gkiril/oie-resources](https://github.com/gkiril/oie-resources) - A curated list of Open Information Extraction (OIE) resources: papers, code, data, etc.
 - [lukasz-madon/awesome-concepts](https://github.com/lukasz-madon/awesome-concepts) - Awesome list about all kinds of interesting topics: Laws, Principles, Mental Models, Cognitive Biases
@@ -7250,6 +7249,7 @@
 - [CR-Gjx/LeakGAN](https://github.com/CR-Gjx/LeakGAN) - The codes of paper "Long Text Generation via Adversarial Training with Leaked Information"  on AAAI 2018.  Text generation using GAN and Hierarchical Reinforcement Learning.
 - [LantaoYu/SeqGAN](https://github.com/LantaoYu/SeqGAN) - Implementation of Sequence Generative Adversarial Nets with Policy Gradient
 - [gwastro/pycbc](https://github.com/gwastro/pycbc) - Core package to analyze gravitational-wave data, find signals, and study their parameters. This package was used in the first direct detection of gravitational waves (GW150914), and is used in the ong
+- [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and 
 - [r9y9/nnmnkwii](https://github.com/r9y9/nnmnkwii) - Library to build speech synthesis systems designed for easy and fast prototyping.
 - [gionanide/Speech_Signal_Processing_and_Classification](https://github.com/gionanide/Speech_Signal_Processing_and_Classification) - Front-end speech processing aims at extracting proper features from short- term segments of a speech utterance, known as frames. It is a pre-requisite step toward any pattern recognition problem emplo
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
