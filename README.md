@@ -1810,7 +1810,7 @@
 - [heronarts/LXStudio-IDE](https://github.com/heronarts/LXStudio-IDE) - The LXStudio lighting application framework, for use in a Java IDE
 - [heronarts/P4LX](https://github.com/heronarts/P4LX) - Processing 4 harness for the LX library. END OF LIFECYCLE. See: https://github.com/heronarts/GLX
 - [heronarts/LX](https://github.com/heronarts/LX) - Core library for 3D LED lighting engines
-- [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
+- [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange.
 - [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
 - [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
@@ -3419,7 +3419,7 @@
 ## Others 
 
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
-- [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - 
+- [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - Report issues related to MCP integration with Claude here.
 - [strongdm/attractor](https://github.com/strongdm/attractor) - nlspec of StrongDM's Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory
 - [DGoettlich/history-llms](https://github.com/DGoettlich/history-llms) - Information hub for our project training the largest possible historical LLMs.
 - [MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) - 
@@ -8360,6 +8360,7 @@
 
 ## TypeScript 
 
+- [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Use Claude Agent SDK from any ACP client
 - [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web) - Web playground to create Gaussian Splats using Apple's SHARP model
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [voquill/voquill](https://github.com/voquill/voquill) - Open source voice dictation technology
@@ -9094,7 +9095,7 @@
 - [cancerberoSgx/ts-refactor](https://github.com/cancerberoSgx/ts-refactor) - TypeScript code refactor interactive CLI tool
 - [zaqqaz/jest-allure](https://github.com/zaqqaz/jest-allure) - Generate Allure Report for jest. Allure Report, a flexible lightweight multi-language test report tool with the possibility to add steps, attachments, parameters and so on.
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 214 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 215 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [bencompton/jest-cucumber](https://github.com/bencompton/jest-cucumber) - Execute Gherkin scenarios in Jest
 - [dataform-co/dataform](https://github.com/dataform-co/dataform) - Dataform is a framework for managing SQL based data operations in BigQuery
 - [JasonEtco/actions-toolkit](https://github.com/JasonEtco/actions-toolkit) - 🛠 A toolkit for building GitHub Actions in Node.js
