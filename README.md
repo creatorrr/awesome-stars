@@ -10,7 +10,6 @@
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Ballerina](#ballerina)
-- [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
@@ -155,10 +154,6 @@
 
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 
-## Batchfile 
-
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
-
 ## Bikeshed 
 
 - [w3c/webrtc-encoded-transform](https://github.com/w3c/webrtc-encoded-transform) - WebRTC Encoded Transform
@@ -168,6 +163,7 @@
 
 ## C 
 
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [DataDog/pg_tracing](https://github.com/DataDog/pg_tracing) - Distributed Tracing for PostgreSQL
@@ -762,6 +758,7 @@
 
 ## Dart 
 
+- [LAION-AI/bud-e](https://github.com/LAION-AI/bud-e) - A general human-ai interaction platform.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [free-explorers/veshell](https://github.com/free-explorers/veshell) - Veshell is an innovative not-desktop environment for Linux made with modern technologies like Flutter and Rust.
 - [tristengoodz/pysura](https://github.com/tristengoodz/pysura) - 
@@ -8125,6 +8122,7 @@
 - [unreMarkableLabs/reLuminate](https://github.com/unreMarkableLabs/reLuminate) - Enable enhanced screen brightness levels on the reMarkable Paper Pro
 - [hmenzagh/rmpp-entware](https://github.com/hmenzagh/rmpp-entware) - RMPP Entware allows you to install additional software packages from the Entware repositories on your reMarkable device.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [shizunge/gantry](https://github.com/shizunge/gantry) - Docker service for automatically updating Docker swarm services whenever their image is updated.
 - [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [simonmysun/ell](https://github.com/simonmysun/ell) - A command-line interface for LLMs written in Bash.
@@ -8509,7 +8507,6 @@
 - [sauravpanda/BrowserAI](https://github.com/sauravpanda/BrowserAI) - Run local LLMs like llama, deepseek-distill, kokoro and more inside your browser
 - [erikbrinkman/rmapi-js](https://github.com/erikbrinkman/rmapi-js) - JavaScript implementation of the reMarkable api
 - [hafaio/repub](https://github.com/hafaio/repub) - reMarkable ePub generator
-- [LAION-AI/bud-e](https://github.com/LAION-AI/bud-e) - A general human-ai interaction platform.
 - [ever-co/ever-teams](https://github.com/ever-co/ever-teams) - Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
@@ -8578,7 +8575,7 @@
 - [connery-io/connery-sdk](https://github.com/connery-io/connery-sdk) - The open-source SDK for creating AI plugins and actions
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [semanser/codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [labmlai/inspectus](https://github.com/labmlai/inspectus) - LLM Analytics
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
