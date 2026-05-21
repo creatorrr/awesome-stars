@@ -8332,7 +8332,6 @@
 - [FluxML/model-zoo](https://github.com/FluxML/model-zoo) - Please do not feed the models
 - [awslabs/dgl-ke](https://github.com/awslabs/dgl-ke) - High performance, easy-to-use, and scalable package for learning large-scale knowledge graph embeddings.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
-- [geektoni/concept-tagging-nn-spacy](https://github.com/geektoni/concept-tagging-nn-spacy) - Concept Tagging Sequences using Neural Networks and spaCy Named Entity Recognition Tool
 - [makcedward/nlpaug](https://github.com/makcedward/nlpaug) - Data augmentation for NLP
 - [budzianowski/multiwoz](https://github.com/budzianowski/multiwoz) - Source code for end-to-end dialogue model from the MultiWOZ paper (Budzianowski et al. 2018, EMNLP)
 - [ml4code/ml4code.github.io](https://github.com/ml4code/ml4code.github.io) - Website for "A Survey of Machine Learning for Big Code and Naturalness"
@@ -15759,7 +15758,6 @@
 - [crdoconnor/strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [Demfier/multimodal-speech-emotion-recognition](https://github.com/Demfier/multimodal-speech-emotion-recognition) - Lightweight and Interpretable ML Model for Speech Emotion Recognition and Ambiguity Resolution (trained on IEMOCAP dataset)
 - [MiteshPuthran/Speech-Emotion-Analyzer](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
-- [geektoni/concept-tagging-nn-spacy](https://github.com/geektoni/concept-tagging-nn-spacy) - Concept Tagging Sequences using Neural Networks and spaCy Named Entity Recognition Tool
 - [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [opennlp/DeepPhrase](https://github.com/opennlp/DeepPhrase) - Using Neural Representations for Generating Intent-based Query Phrases
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
