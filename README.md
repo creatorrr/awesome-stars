@@ -221,6 +221,7 @@
 - [AI-Planning/pddl-generators](https://github.com/AI-Planning/pddl-generators) - A collection of PDDL generators, some of which have been used to generate benchmarks for the International Planning Competition (IPC).
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
+- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [FasterDecoding/REST](https://github.com/FasterDecoding/REST) - REST: Retrieval-Based Speculative Decoding, NAACL 2024
 - [Water-Melon/Melang](https://github.com/Water-Melon/Melang) - A script language of time-sharing scheduling coroutine in single thread
@@ -946,6 +947,7 @@
 
 ## Go 
 
+- [spinframework/spin-operator](https://github.com/spinframework/spin-operator) - Spin Operator is a Kubernetes operator that empowers platform engineers to deploy Spin applications as custom resources to their Kubernetes clusters
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [Astro-Han/diffpane](https://github.com/Astro-Han/diffpane) - Real-time TUI diff viewer for AI coding agents
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
@@ -1647,7 +1649,6 @@
 - [luqui/Djest](https://github.com/luqui/Djest) - A programming language that deduces code from tests
 - [luqui/control-monad-omega](https://github.com/luqui/control-monad-omega) - A Haskell monad for fair enumeration of infinite sets.
 - [RedlineResearch/floorplan](https://github.com/RedlineResearch/floorplan) - Spatial layout specifications for memory management systems.
-- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [nwf/dyna](https://github.com/nwf/dyna) - Dyna2 compiler and REPL
 - [luke-clifton/shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
@@ -3699,7 +3700,7 @@
 - [chapmanjacobd/hn_mining](https://github.com/chapmanjacobd/hn_mining) - hackernews data
 - [gregology/biased-words](https://github.com/gregology/biased-words) - Genres of english words with bias for use in natural language processing
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 - [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) - Reading list for research topics in multimodal machine learning
 - [kaisugi/entity-related-papers](https://github.com/kaisugi/entity-related-papers) - Named Entity Recognition, Entity Linking, and more
 - [roomylee/awesome-relation-extraction](https://github.com/roomylee/awesome-relation-extraction) - 📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).
@@ -4147,6 +4148,7 @@
 
 ## Python 
 
+- [linchpinhq/linchpin](https://github.com/linchpinhq/linchpin) - Open-source, self-hostable runtime for managed AI agents. Apache-2.0.
 - [cactus-compute/needle](https://github.com/cactus-compute/needle) - 26m function call model that runs on incredibly small devices
 - [besimple-oss/broccoli](https://github.com/besimple-oss/broccoli) - Broccoli turns Linear tickets into shipped PRs — powered by Claude and Codex, running on your own Google Cloud or Blaxel containers.
 - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) - A general purpose scientific writer
@@ -4636,7 +4638,7 @@
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-- [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual Voice Understanding Model
+- [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.
 - [hhannine/superpaper](https://github.com/hhannine/superpaper) - A cross-platform multi monitor wallpaper manager.
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
 - [spatialpixel/technical-workshops](https://github.com/spatialpixel/technical-workshops) - 
@@ -8358,6 +8360,7 @@
 
 ## TypeScript 
 
+- [rogeriochaves/open-managed-agents](https://github.com/rogeriochaves/open-managed-agents) - Self-hostable, open-source alternative to Claude Managed Agents. Multi-LLM support (Anthropic, OpenAI, Ollama), enterprise governance (org/teams/RBAC)
 - [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Use Claude Agent SDK from any ACP client
 - [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web) - Web playground to create Gaussian Splats using Apple's SHARP model
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
