@@ -235,7 +235,6 @@
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [marella/ctransformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
-- [ifduyue/python-xxhash](https://github.com/ifduyue/python-xxhash) - Python Binding for xxHash
 - [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 - [flier/pyfasthash](https://github.com/flier/pyfasthash) - Python Non-cryptographic Hash Library
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -942,7 +941,7 @@
 
 ## Gleam 
 
-- [CrowdHailer/eyg-lang](https://github.com/CrowdHailer/eyg-lang) - Building better languages and tools; for some measure of better.
+- [CrowdHailer/eyg-lang](https://github.com/CrowdHailer/eyg-lang) - The safest scripting language for you, or your agent.
 
 ## Go 
 
@@ -5536,6 +5535,7 @@
 - [cozodb/openai-multi-client](https://github.com/cozodb/openai-multi-client) - Making your requests to the OpenAI API go fast!
 - [s0md3v/roop](https://github.com/s0md3v/roop) - roop extension for StableDiffusion web-ui
 - [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon) - A toolkit for time series  machine learning and deep learning
+- [ifduyue/python-xxhash](https://github.com/ifduyue/python-xxhash) - Python Binding for xxHash
 - [OpenMOSS/CoLLiE](https://github.com/OpenMOSS/CoLLiE) - Collaborative Training of Large Language Models in an Efficient Way
 - [OpenLMLab/LOMO](https://github.com/OpenLMLab/LOMO) - LOMO: LOw-Memory Optimization
 - [huggingface/evaluate](https://github.com/huggingface/evaluate) - 🤗 Evaluate: A library for easily evaluating machine learning models and datasets.
@@ -6870,7 +6870,7 @@
 - [Delta-ML/delta](https://github.com/Delta-ML/delta) - DELTA is a deep learning based natural language and speech processing platform. LF AI & DATA Projects: https://lfaidata.foundation/projects/delta/
 - [jaraco/inflect](https://github.com/jaraco/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
 - [facebookresearch/CrypTen](https://github.com/facebookresearch/CrypTen) - A framework for Privacy Preserving Machine Learning
-- [davebulaval/poutyne](https://github.com/davebulaval/poutyne) - A simplified framework and utilities for PyTorch
+- [freud14/poutyne](https://github.com/freud14/poutyne) - A simplified framework and utilities for PyTorch
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [squareRoot3/Target-Guided-Conversation](https://github.com/squareRoot3/Target-Guided-Conversation) - "Target-Guided Open-Domain Conversation" in ACL 2019
 - [microsoft/vert-papers](https://github.com/microsoft/vert-papers) - This repository contains code and datasets related to entity/knowledge papers from the VERT (Versatile Entity Recognition & disambiguation Toolkit) project, by the Knowledge Computing group at Microso
@@ -7804,7 +7804,7 @@
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [surrealdb/indxdb](https://github.com/surrealdb/indxdb) - A key-value database engine abstraction layer for IndexedDB in WASM
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It sticks to anything.
 - [Ekleog/indexed-db](https://github.com/Ekleog/indexed-db) - Bindings to IndexedDB that default the transactions to aborting
 - [devashishdxt/rexie](https://github.com/devashishdxt/rexie) - Rexie is an easy-to-use, futures based wrapper around IndexedDB that compiles to webassembly.
 - [Alorel/rust-indexed-db](https://github.com/Alorel/rust-indexed-db) - Future bindings for IndexedDB via web_sys
