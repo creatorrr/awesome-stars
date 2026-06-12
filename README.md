@@ -208,6 +208,7 @@
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [python-lz4/python-lz4](https://github.com/python-lz4/python-lz4) - LZ4 bindings for Python
 - [electric-sql/postgres-wasm](https://github.com/electric-sql/postgres-wasm) - 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 - [skeeto/hash-prospector](https://github.com/skeeto/hash-prospector) - Automated integer hash function discovery
 - [snowballstem/snowball](https://github.com/snowballstem/snowball) - Snowball compiler and stemming algorithms
@@ -365,7 +366,6 @@
 ## C# # 
 
 - [FloomAI/Floom](https://github.com/FloomAI/Floom) - 🌊 Floom, "The K8s for AI", orchestrates & executes Generative AI pipelines, Empowering Developers and DevOps to focus on what matters.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
@@ -772,7 +772,7 @@
 - [jedrivisser/gce-compose](https://github.com/jedrivisser/gce-compose) - 
 - [apache/apisix-docker](https://github.com/apache/apisix-docker) - the docker for Apache APISIX
 - [kemingy/vllm-env](https://github.com/kemingy/vllm-env) - setup the env for vllm users
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 150+ open-source web apps with one Docker command
 - [lambdal/lambda-stack-dockerfiles](https://github.com/lambdal/lambda-stack-dockerfiles) - 
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
@@ -3220,7 +3220,7 @@
 - [huggingface/audio-transformers-course](https://github.com/huggingface/audio-transformers-course) - The Hugging Face Course on Transformers for Audio
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - AI Infra / AI Orchestration / AI Control Plane
 - [huggingface/course](https://github.com/huggingface/course) - The Hugging Face course on Transformers
 - [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contains the Hugging Face Deep Reinforcement Learning Course.
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
@@ -5675,7 +5675,7 @@
 - [huggingface/speechbox](https://github.com/huggingface/speechbox) - 
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
-- [mljar/mercury](https://github.com/mljar/mercury) - Create web apps from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - AutoPR autonomously wrote pull requests in response to issues
 - [sysid/sse-starlette](https://github.com/sysid/sse-starlette) - 
@@ -8147,7 +8147,7 @@
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
 - [tajmone/awesome-interactive-fiction](https://github.com/tajmone/awesome-interactive-fiction) - A list of interactive fiction frameworks, tools, and resources
-- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 460 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
+- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 500+ PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [google-deepmind/narrativeqa](https://github.com/google-deepmind/narrativeqa) - This repository contains the NarrativeQA dataset. It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
