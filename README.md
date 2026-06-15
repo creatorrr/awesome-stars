@@ -220,6 +220,7 @@
 - [AI-Planning/pddl-generators](https://github.com/AI-Planning/pddl-generators) - A collection of PDDL generators, some of which have been used to generate benchmarks for the International Planning Competition (IPC).
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
+- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [FasterDecoding/REST](https://github.com/FasterDecoding/REST) - REST: Retrieval-Based Speculative Decoding, NAACL 2024
 - [Water-Melon/Melang](https://github.com/Water-Melon/Melang) - A script language of time-sharing scheduling coroutine in single thread
@@ -1650,7 +1651,6 @@
 - [luqui/Djest](https://github.com/luqui/Djest) - A programming language that deduces code from tests
 - [luqui/control-monad-omega](https://github.com/luqui/control-monad-omega) - A Haskell monad for fair enumeration of infinite sets.
 - [RedlineResearch/floorplan](https://github.com/RedlineResearch/floorplan) - Spatial layout specifications for memory management systems.
-- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [nwf/dyna](https://github.com/nwf/dyna) - Dyna2 compiler and REPL
 - [luke-clifton/shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
@@ -1906,7 +1906,7 @@
 - [ontologyportal/sigmanlp](https://github.com/ontologyportal/sigmanlp) - NLP functionality on top of the Sigma system
 - [apache/incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) - AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
 - [micedre/keycloak-mail-whitelisting](https://github.com/micedre/keycloak-mail-whitelisting) - Keycloak extension to whitelist email adresses domain when users register
-- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 300+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
+- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [Kaljurand/aceview](https://github.com/Kaljurand/aceview) - ACE View is a natural language based ontology and rule editor. ACE View uses Attempto Controlled English (ACE) in the front-end, and Web Ontology Language (OWL) and Semantic Web Rule Language (SWRL) i
 - [facebookarchive/nailgun](https://github.com/facebookarchive/nailgun) - Nailgun is a client, protocol, and server for running Java programs from the command line without incurring the JVM startup overhead.
 - [dkpro/dkpro-uby](https://github.com/dkpro/dkpro-uby) - Framework for creating and accessing UBY resources – sense-linked lexical resources in standard UBY-LMF format
@@ -2940,7 +2940,7 @@
 - [kohjingyu/fromage](https://github.com/kohjingyu/fromage) - 🧀 Code and models for the ICML 2023 paper "Grounding Language Models to Images for Multimodal Inputs and Outputs".
 - [ysymyth/ReAct](https://github.com/ysymyth/ReAct) - [ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models
 - [texttron/hyde](https://github.com/texttron/hyde) - HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels
-- [in-rolls/indicate](https://github.com/in-rolls/indicate) - transliterate hindi to english
+- [in-rolls/indicate](https://github.com/in-rolls/indicate) - transliterate hindi, punjabi to english
 - [salesforce/botsim](https://github.com/salesforce/botsim) - BotSIM - a data-efficient end-to-end Bot SIMulation toolkit for evaluation, diagnosis, and improvement of commercial chatbots
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [wenhuchen/Time-Sensitive-QA](https://github.com/wenhuchen/Time-Sensitive-QA) - Code and Data for NeurIPS2021 Paper "A Dataset for Answering Time-Sensitive Questions"
@@ -5286,7 +5286,7 @@
 - [noisemix/noisemix](https://github.com/noisemix/noisemix) - NoiseMix - data generation for natural language
 - [lxml/lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [zai-org/CogVLM](https://github.com/zai-org/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
 - [yangdongchao/UniAudio](https://github.com/yangdongchao/UniAudio) - The Open Source Code of UniAudio
