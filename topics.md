@@ -454,7 +454,7 @@
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ Build a machine learning model from a prompt
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
@@ -486,7 +486,7 @@
 - [ohdearquant/lionagi](https://github.com/ohdearquant/lionagi) - An intelligence orchestra
 - [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The Open Source Memory Layer For Autonomous Agents
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil
 - [SalesforceAIResearch/xLAM](https://github.com/SalesforceAIResearch/xLAM) - xLAM: A Family of Large Action Models to Empower AI Agent Systems
@@ -681,7 +681,7 @@
 - [IBM/zshot](https://github.com/IBM/zshot) - Zero and Few shot named entity & relationships recognition
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil
@@ -741,7 +741,7 @@
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [SciPhi-AI/synthesizer](https://github.com/SciPhi-AI/synthesizer) - A multi-purpose LLM framework for RAG and data creation.
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
@@ -973,7 +973,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [metaskills/experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -982,7 +982,7 @@
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - The first "code-first" agent framework for seamlessly planning and executing data analytics tasks.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can use tools and interpret the results
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
@@ -1637,7 +1637,7 @@
 - [roomylee/awesome-relation-extraction](https://github.com/roomylee/awesome-relation-extraction) - 📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
-- [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
+- [simonaronsson/awesome-software-architecture](https://github.com/simonaronsson/awesome-software-architecture) - A curated list of resources on software architecture
 - [sereneblue/awesome-oss](https://github.com/sereneblue/awesome-oss) - A list of open source projects with links to contribute or donate.
 - [lxsmnsyc/awesome-islands](https://github.com/lxsmnsyc/awesome-islands) - All about Islands Architecture and Partial Hydration
 - [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
@@ -1836,7 +1836,7 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
-- [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
+- [simonaronsson/awesome-software-architecture](https://github.com/simonaronsson/awesome-software-architecture) - A curated list of resources on software architecture
 - [sereneblue/awesome-oss](https://github.com/sereneblue/awesome-oss) - A list of open source projects with links to contribute or donate.
 - [neurreps/awesome-neural-geometry](https://github.com/neurreps/awesome-neural-geometry) - A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond
 - [ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) - A comprehensive reference for all topics related to Natural Language Processing
@@ -3490,7 +3490,7 @@
 - [alex-raw/imsdb_parse](https://github.com/alex-raw/imsdb_parse) - Parse movie scripts for linguistic analysis
 - [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and 
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Explore and understand your training and validation data.
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
@@ -3626,7 +3626,7 @@
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [datapane/datapane](https://github.com/datapane/datapane) - Build and share data reports in 100% Python
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
@@ -4343,7 +4343,7 @@
 - [herbie-fp/herbie](https://github.com/herbie-fp/herbie) - Optimize floating-point expressions for accuracy
 - [entropy-research/Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -4567,6 +4567,7 @@
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [klen/mixer](https://github.com/klen/mixer) - Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects.
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
+- [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 
 ## docker 
 
@@ -4580,7 +4581,7 @@
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
@@ -5545,7 +5546,7 @@
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
@@ -6006,7 +6007,7 @@
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [suborbital/sat](https://github.com/suborbital/sat) - Tiny & fast WebAssembly edge compute server
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
-- [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
+- [simonaronsson/awesome-software-architecture](https://github.com/simonaronsson/awesome-software-architecture) - A curated list of resources on software architecture
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
 - [Tracardi/tracardi](https://github.com/Tracardi/tracardi) - TRACARDI is a new HOME for your customer data. TRACARDI is an Composable API-first solution for any company that need inexpensive CDP to intergrate with.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
@@ -6528,7 +6529,7 @@
 - [apiman/apiman](https://github.com/apiman/apiman) - Extensible and flexible API Management. Add your own functionality with simple Java plugins.
 - [apache/incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) - AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
 - [micedre/keycloak-mail-whitelisting](https://github.com/micedre/keycloak-mail-whitelisting) - Keycloak extension to whitelist email adresses domain when users register
-- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [Kaljurand/aceview](https://github.com/Kaljurand/aceview) - ACE View is a natural language based ontology and rule editor. ACE View uses Attempto Controlled English (ACE) in the front-end, and Web Ontology Language (OWL) and Semantic Web Rule Language (SWRL) i
 - [simplenlg/simplenlg](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation. Originally developed by Ehud Reiter at the University of Aberdeen’s Department of Computing Science and co-founder of Arria NLG. This git repo is the official
 - [cloudstateio/cloudstate](https://github.com/cloudstateio/cloudstate) - Distributed State Management for Serverless
@@ -7042,7 +7043,7 @@
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
@@ -7233,7 +7234,7 @@
 - [serverless-components/knative-serving](https://github.com/serverless-components/knative-serving) - Instantly create and update Knative services on top of your Kubernetes cluster.
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
 - [rimusz/helm-tiller](https://github.com/rimusz/helm-tiller) - Helm v2 Tiller plugin aka Tillerless Helm
-- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [Soluto/kamus](https://github.com/Soluto/kamus) - An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications
@@ -7448,7 +7449,7 @@
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [daniruiz/flat-remix-gnome](https://github.com/daniruiz/flat-remix-gnome) - Flat Remix is a GNOME Shell theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
@@ -7676,7 +7677,7 @@
 - [bigcode-project/selfcodealign](https://github.com/bigcode-project/selfcodealign) - [NeurIPS'24] SelfCodeAlign: Self-Alignment for Code Generation
 - [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - [ICML 2024] LLMCompiler: An LLM Compiler for Parallel Function Calling
 - [THUNLP-MT/StableToolBench](https://github.com/THUNLP-MT/StableToolBench) - A new tool learning benchmark aiming at well-balanced stability and reality, based on ToolBench.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
 - [tincans-ai/gazelle](https://github.com/tincans-ai/gazelle) - Joint speech-language model - respond directly to audio!
 - [OFA-Sys/Ditto](https://github.com/OFA-Sys/Ditto) - A self-ailgnment method for role-play. Benchmark for role-play. Resources for "Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment".
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
@@ -7777,7 +7778,7 @@
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 - [zjunlp/MachineSoM](https://github.com/zjunlp/MachineSoM) - [ACL 2024]  Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [microsoft/ToRA](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools [ICLR'24].
 - [hyp1231/awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
 - [ZJLAB-AMMI/LLM4RL](https://github.com/ZJLAB-AMMI/LLM4RL) - A RL approach to enable cost-effective, intelligent interactions between a local agent and a remote LLM
@@ -8508,7 +8509,7 @@
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [quackduck/uniclip](https://github.com/quackduck/uniclip) - Cross-platform shared clipboard
@@ -8708,7 +8709,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 
 ## microservices 
 
@@ -8738,7 +8739,7 @@
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [CloudI/CloudI](https://github.com/CloudI/CloudI) - A Cloud at the lowest level!
-- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [banzaicloud/pipeline](https://github.com/banzaicloud/pipeline) - Banzai Cloud Pipeline is a solution-oriented application platform which allows enterprises to develop, deploy and securely scale container-based applications in multi- and hybrid-cloud environments.
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
@@ -9659,7 +9660,7 @@
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [andywalters47/clearmail](https://github.com/andywalters47/clearmail) - Filter gmail with AI
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
@@ -9700,7 +9701,7 @@
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [zcaceres/easy-mcp](https://github.com/zcaceres/easy-mcp) - Absurdly easy Model Context Protocol Servers in Typescript
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
@@ -9719,7 +9720,7 @@
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [asyncapi-archived-repos/glee](https://github.com/asyncapi-archived-repos/glee) - Glee — The AsyncAPI framework that will make you smile again :)
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
@@ -10288,7 +10289,6 @@
 
 ## others 
 
-- [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) - 
 - [pat-jj/harness-1](https://github.com/pat-jj/harness-1) - 🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search capability with a 20B model
 - [remysucre/prela](https://github.com/remysucre/prela) - 
 - [kablorp/blorp](https://github.com/kablorp/blorp) - A safe, readable, and fast programming language
@@ -12041,7 +12041,7 @@
 - [facebookresearch/cc_net](https://github.com/facebookresearch/cc_net) - Tools to download and cleanup Common Crawl data
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
-- [in-rolls/indicate](https://github.com/in-rolls/indicate) - transliterate hindi to english
+- [in-rolls/indicate](https://github.com/in-rolls/indicate) - transliterate hindi, punjabi to english
 - [askforalfred/alfred](https://github.com/askforalfred/alfred) - ALFRED - A Benchmark for Interpreting Grounded Instructions for Everyday Tasks
 - [google-research-datasets/QED](https://github.com/google-research-datasets/QED) - QED: A Framework and Dataset for Explanations in Question Answering
 - [cfortuner/promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
@@ -14904,7 +14904,7 @@
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish
 - [upamune/notebooklm-podcast-automator](https://github.com/upamune/notebooklm-podcast-automator) - Python tool to automate Google NotebookLM podcast creation with website/YouTube sources
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 - [se2p/pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
 - [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping) - Automatically add simple type annotations to your code
@@ -15020,7 +15020,7 @@
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [python-humanize/humanize](https://github.com/python-humanize/humanize) - Python humanize functions
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
@@ -15171,7 +15171,7 @@
 - [zeromq/pyzmq](https://github.com/zeromq/pyzmq) - PyZMQ:  Python bindings for zeromq
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [joweich/chat-miner](https://github.com/joweich/chat-miner) - Parsers and visualizations for chats
 - [eliasdabbas/advertools](https://github.com/eliasdabbas/advertools) - advertools - online marketing productivity and analysis tools
@@ -16277,7 +16277,6 @@
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ever-co/ever-teams](https://github.com/ever-co/ever-teams) - Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team
-- [LineIndent/ui](https://github.com/LineIndent/ui) - Composable, themeable components designed for Reflex. Extend, override, and ship without fighting the framework. Open source.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
@@ -16633,7 +16632,7 @@
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - 🕸️ GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more...
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API
-- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [aquametalabs/aquameta](https://github.com/aquametalabs/aquameta) - Web development platform built entirely in PostgreSQL
 - [ariesb/autokin](https://github.com/ariesb/autokin) - Easy to use gherkin-based scripting for non-developers to work or build REST API Automation testing without coding.
 - [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
@@ -16728,7 +16727,7 @@
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [rorosen/zeekstd](https://github.com/rorosen/zeekstd) - Rust implementation of the Zstandard Seekable Format
 - [valmisson/tauri-app-template](https://github.com/valmisson/tauri-app-template) - A template for building desktop applications with Tauri
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph-vector database built in Rust.
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
@@ -16983,7 +16982,7 @@
 - [cisco-ai-defense/mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) - Scan MCP servers for potential threats & security findings.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [supabase/supautils](https://github.com/supabase/supautils) - Unlock advanced Postgres features without granting SUPERUSER access
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [systemd/particleos](https://github.com/systemd/particleos) - ⸭ An image-based, secure OS, built on top of various Linux distributions
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
@@ -17071,7 +17070,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 - [autobase-tech/autobase](https://github.com/autobase-tech/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
@@ -17331,7 +17330,7 @@
 
 - [Netflix/conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
 - [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot
-- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 
 ## sql 
 
@@ -18059,6 +18058,7 @@
 
 ## typescript 
 
+- [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) - A browser-based viewer for Office Open XML documents that renders to an HTML Canvas element.
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -18080,7 +18080,7 @@
 - [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper. Less but handy features for plain Markdown lovers.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - Obsidian TTS Plugin
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [AgentDock/AgentDock](https://github.com/AgentDock/AgentDock) - Build Anything with AI Agents
 - [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host calendar availability picker - open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, an
 - [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
@@ -18696,7 +18696,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
