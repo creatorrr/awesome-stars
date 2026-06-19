@@ -219,7 +219,6 @@
 - [AI-Planning/pddl-generators](https://github.com/AI-Planning/pddl-generators) - A collection of PDDL generators, some of which have been used to generate benchmarks for the International Planning Competition (IPC).
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
-- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [FasterDecoding/REST](https://github.com/FasterDecoding/REST) - REST: Retrieval-Based Speculative Decoding, NAACL 2024
 - [Water-Melon/Melang](https://github.com/Water-Melon/Melang) - A script language of time-sharing scheduling coroutine in single thread
@@ -261,7 +260,7 @@
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) - tools for logs with ANSI color
 - [zcot/list-apt-installs](https://github.com/zcot/list-apt-installs) - Program to find and list apt and apt-get install commands in apt logs that were typed in terminal.
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)
-- [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - ★ Fastfull embedded transactional key-value storage engine ★ Surpasses the legendary LMDB in reliability, capabilities and performance ★ Used in hundreds of open source projects, including Ethereum.
+- [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - Fastfull embedded transactional key-value storage engine ★ Surpasses the legendary LMDB in reliability, capabilities and performance ★ Used in hundreds of open source projects, including Ethereum.
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
@@ -1069,6 +1068,7 @@
 - [traefik-plugins/traefik-jwt-plugin](https://github.com/traefik-plugins/traefik-jwt-plugin) - Traefik plugin which checks JWT tokens for required fields. Supports Open Policy Agent (OPA) and signature validation with  JWKS
 - [mercari/tortoise](https://github.com/mercari/tortoise) - Tortoise: Shell-Shockingly-Good Kubernetes Autoscaling
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
@@ -1650,6 +1650,7 @@
 - [luqui/Djest](https://github.com/luqui/Djest) - A programming language that deduces code from tests
 - [luqui/control-monad-omega](https://github.com/luqui/control-monad-omega) - A Haskell monad for fair enumeration of infinite sets.
 - [RedlineResearch/floorplan](https://github.com/RedlineResearch/floorplan) - Spatial layout specifications for memory management systems.
+- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [nwf/dyna](https://github.com/nwf/dyna) - Dyna2 compiler and REPL
 - [luke-clifton/shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
@@ -8611,7 +8612,6 @@
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) - Interactively explore unstructured datasets from your dataframe.
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
