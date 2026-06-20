@@ -207,6 +207,7 @@
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [python-lz4/python-lz4](https://github.com/python-lz4/python-lz4) - LZ4 bindings for Python
 - [electric-sql/postgres-wasm](https://github.com/electric-sql/postgres-wasm) - 
+- [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 - [skeeto/hash-prospector](https://github.com/skeeto/hash-prospector) - Automated integer hash function discovery
@@ -1023,6 +1024,7 @@
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [peterldowns/pgmigrate](https://github.com/peterldowns/pgmigrate) - a modern Postgres migrations CLI and library
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
 - [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
@@ -2413,7 +2415,6 @@
 - [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
 - [EpistasisLab/Aliro](https://github.com/EpistasisLab/Aliro) - Aliro: AI-Driven Data Science
 - [handshake-org/hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
-- [neeilya/upwork-jobs-feed-tracker](https://github.com/neeilya/upwork-jobs-feed-tracker) - Convenient way to track new jobs for Upwork freelancers (LEGACY VERSION)
 - [nteract/commuter](https://github.com/nteract/commuter) - 🚎 Notebook sharing hub
 - [singularityware/singularityware.github.io](https://github.com/singularityware/singularityware.github.io) - base documentation site for Singularity software
 - [iodide-project/iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
@@ -3063,7 +3064,6 @@
 - [Demfier/multimodal-speech-emotion-recognition](https://github.com/Demfier/multimodal-speech-emotion-recognition) - Lightweight and Interpretable ML Model for Speech Emotion Recognition and Ambiguity Resolution (trained on IEMOCAP dataset)
 - [david-yoon/multimodal-speech-emotion](https://github.com/david-yoon/multimodal-speech-emotion) - TensorFlow implementation of "Multimodal Speech Emotion Recognition using Audio and Text," IEEE SLT-18
 - [MiteshPuthran/Speech-Emotion-Analyzer](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
-- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [CornellNLP/ConvoKit](https://github.com/CornellNLP/ConvoKit) - ConvoKit is a toolkit for extracting conversational features and analyzing social phenomena in conversations. It includes several large conversational datasets along with scripts exemplifying the use 
 - [glicerico/SGNN](https://github.com/glicerico/SGNN) - Implementation of Self-Governing Neural Networks for speech act classification
@@ -3855,6 +3855,7 @@
 - [talhanai/speech-nlp-datasets](https://github.com/talhanai/speech-nlp-datasets) - Contains links to publicly available datasets for modeling health outcomes using speech and language.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
+- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [xatkit-bot-platform/xatkit](https://github.com/xatkit-bot-platform/xatkit) - The simplest way to build all types of smart chatbots and digital assistants
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
@@ -4594,7 +4595,7 @@
 - [osmo-tool/pyosmo](https://github.com/osmo-tool/pyosmo) - A simple model-based testing tool for python
 - [altwalker/altwalker](https://github.com/altwalker/altwalker) - AltWalker is an open source Model-Based Testing framework that supports running tests written in Python3 and .NET/C#.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [KLR-Pattern/pydantic-resolve](https://github.com/KLR-Pattern/pydantic-resolve) - pydantic-resolve is a Pythonic clean architecture implementation
+- [KLR-Pattern/pydantic-resolve](https://github.com/KLR-Pattern/pydantic-resolve) - pydantic-resolve is a progressive data assembly framework which follows the stye of clean architecture
 - [Maydmor/pydantic-computed](https://github.com/Maydmor/pydantic-computed) - A new decorator for pydantic allowing you to define dynamic fields that are computed from other properties.
 - [EricWebsmith/pydantic-2-mermaid](https://github.com/EricWebsmith/pydantic-2-mermaid) - 
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
@@ -4641,7 +4642,6 @@
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-- [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.
 - [hhannine/superpaper](https://github.com/hhannine/superpaper) - A cross-platform multi monitor wallpaper manager.
 - [enthought/traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes
 - [spatialpixel/technical-workshops](https://github.com/spatialpixel/technical-workshops) - 
@@ -7780,7 +7780,7 @@
 - [meilisearch/charabia](https://github.com/meilisearch/charabia) - Library used by Meilisearch to tokenize queries and documents
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - The Gosub browser engine
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
@@ -8528,7 +8528,6 @@
 - [ronami/typelang](https://github.com/ronami/typelang) - 🌳 A tiny language interpreter implemented purely in TypeScript's type-system
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -9071,6 +9070,7 @@
 - [kwonoj/hunspell-asm](https://github.com/kwonoj/hunspell-asm) - WebAssembly based Javascript bindings for hunspell spellchecker
 - [sainirijul/vscode-extension-che](https://github.com/sainirijul/vscode-extension-che) - Simple VS Code Extension as a remote plugin in Eclipse Che
 - [typestyle/csx](https://github.com/typestyle/csx) - Utility functions for TypeStyle
+- [neeilya/upwork-toolkit](https://github.com/neeilya/upwork-toolkit) - Chrome extension helping with project bidding on Upwork
 - [nteract/semiotic](https://github.com/nteract/semiotic) - React data visualization library for streaming, networks, and AI-assisted development
 - [amazon-ion/ion-js](https://github.com/amazon-ion/ion-js) - A JavaScript implementation of Amazon Ion.
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
