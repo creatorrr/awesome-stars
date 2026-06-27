@@ -1751,7 +1751,7 @@
 - [vmchale/permutations](https://github.com/vmchale/permutations) - Provides a type-safe way of working with permutations in Idris
 - [japesinator/Idris-Bifunctors](https://github.com/japesinator/Idris-Bifunctors) - A small bifunctor library for idris
 - [joom/hezarfen](https://github.com/joom/hezarfen) - a theorem prover for intuitionistic propositional logic in Idris, with metaprogramming features
-- [mmhelloworld/idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode back end for Idris
+- [mmhelloworld/idris-jvm](https://github.com/mmhelloworld/idris-jvm) - Idris on the JVM
 - [QuentinDuval/IdrisReducers](https://github.com/QuentinDuval/IdrisReducers) - Transducers for Idris: a library for composable algorithmic transformation.
 - [cassiebaer/ucph-msc-thesis-dpdt](https://github.com/cassiebaer/ucph-msc-thesis-dpdt) - Masters Thesis - Differential Privacy + Dependent Types
 - [trillioneyes/idris-canvas](https://github.com/trillioneyes/idris-canvas) - Idris bindings to and abstractions over the JavaScript Canvas API
@@ -3242,7 +3242,7 @@
 - [duhow/xiaoai-patch](https://github.com/duhow/xiaoai-patch) - Patching for XiaoAi Speakers (小爱音箱), add custom binaries and open source software. Tested on LX06, LX01, LX05, L09A
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [stanford-oval/schema2qa](https://github.com/stanford-oval/schema2qa) - Schema2QA Question Answering Dataset
-- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [singer-io/getting-started](https://github.com/singer-io/getting-started) - This repository is a getting started guide to Singer.
 - [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
@@ -8843,7 +8843,7 @@
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
 - [nanostores/react](https://github.com/nanostores/react) - React integration for Nano Stores, a tiny state manager with many atomic tree-shakable stores
 - [nanostores/persistent](https://github.com/nanostores/persistent) - Smart store for Nano Stores state manager to keep data in localStorage
-- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [slorber/react-async-hook](https://github.com/slorber/react-async-hook) - React hook to handle any async operation in React components, and prevent race conditions
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
