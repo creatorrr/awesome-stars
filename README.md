@@ -589,7 +589,6 @@
 - [DeepGraphLearning/graphvite](https://github.com/DeepGraphLearning/graphvite) - GraphVite: A General and High-performance Graph Embedding System
 - [kpu/kenlm](https://github.com/kpu/kenlm) - KenLM: Faster and Smaller Language Model Queries
 - [tomahawk-player/tomahawk](https://github.com/tomahawk-player/tomahawk) - Tomahawk, the multi-source music player
-- [lionelclement/Elvex](https://github.com/lionelclement/Elvex) - A Natural Language Generation System
 - [clab/dynet](https://github.com/clab/dynet) - DyNet: The Dynamic Neural Network Toolkit
 - [SeisSol/SeisSol](https://github.com/SeisSol/SeisSol) - A scientific software for the numerical simulation of seismic wave phenomena and earthquake dynamics
 - [zhihu/cuBERT](https://github.com/zhihu/cuBERT) - Fast implementation of BERT inference directly on NVIDIA (CUDA, CUBLAS) and Intel MKL
@@ -4119,6 +4118,7 @@
 ## PowerShell 
 
 - [aidanqm/Codex-Windows](https://github.com/aidanqm/Codex-Windows) - Extract and run the macOS Codex Electron app on Windows.
+- [Azure/GPT-RAG](https://github.com/Azure/GPT-RAG) - Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azu
 - [aprismatic/prismadb](https://github.com/aprismatic/prismadb) - Prisma/DB public releases and documentation.
 
 ## Processing 
@@ -5108,7 +5108,6 @@
 - [argolab/dyna-R](https://github.com/argolab/dyna-R) - Dyna built on R-exprs (First Prototype)
 - [Hacker0912/RecStep](https://github.com/Hacker0912/RecStep) - 
 - [RobertCsordas/moe_attention](https://github.com/RobertCsordas/moe_attention) - Official repository for the paper "SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention"
-- [Azure/GPT-RAG](https://github.com/Azure/GPT-RAG) - Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azu
 - [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.
 - [GoogleCloudPlatform/compute-gpu-installation](https://github.com/GoogleCloudPlatform/compute-gpu-installation) - 
 - [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
@@ -5381,7 +5380,7 @@
 - [cfwelch/compositional_demographic_embeddings](https://github.com/cfwelch/compositional_demographic_embeddings) - Repository for Compositional Demographic Word Embeddings, Welch et al. 2020 @ EMNLP and Exploring the Value of Personalized Word Embeddings, Welch et al. 2020 @ COLING
 - [salesforce/jaxformer](https://github.com/salesforce/jaxformer) - Minimal library to train LLMs on TPU in JAX with pjit().
 - [google/paxml](https://github.com/google/paxml) - Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading
-- [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant and scalable Jax LLM!
+- [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant, and scalable Jax LLM!
 - [discus-labs/discus](https://github.com/discus-labs/discus) - A data-centric AI package for ML/AI. Get the best high-quality data for the best results. Discord: https://discord.gg/t6ADqBKrdZ
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [juand-r/entity-recognition-datasets](https://github.com/juand-r/entity-recognition-datasets) - A collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types.
@@ -6316,7 +6315,7 @@
 - [davidberenstein1957/classy-classification](https://github.com/davidberenstein1957/classy-classification) - This repository contains an easy and intuitive approach to few-shot classification using sentence-transformers or spaCy models, or zero-shot classification with Huggingface.
 - [guotong1988/NL2SQL-RULE](https://github.com/guotong1988/NL2SQL-RULE) - Content Enhanced BERT-based Text-to-SQL Generation https://arxiv.org/abs/1910.07179
 - [kootenpv/contractions](https://github.com/kootenpv/contractions) - Fixes contractions such as `you're` to `you are`
-- [microsoft/presidio](https://github.com/microsoft/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
+- [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
 - [jaidevd/numerizer](https://github.com/jaidevd/numerizer) - A Python module to convert natural language numerics into ints and floats.
 - [KennethEnevoldsen/asent](https://github.com/KennethEnevoldsen/asent) - Asent is a python library for performing efficient and transparent sentiment analysis using spaCy.
 - [magenta/note-seq](https://github.com/magenta/note-seq) - A serializable note sequence representation and utilities.
@@ -7177,6 +7176,7 @@
 - [hyperquest-hq/hyperbase](https://github.com/hyperquest-hq/hyperbase) - A foundational library for Semantic Hypergraphs
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
 - [pytorch/text](https://github.com/pytorch/text) - Models, data loaders and abstractions for language processing, powered by PyTorch
+- [lionelclement/Elvex](https://github.com/lionelclement/Elvex) - A Natural Language Generation System
 - [uhh-lt/sensegram](https://github.com/uhh-lt/sensegram) - Making sense embedding out of word embeddings using graph-based word sense induction
 - [tca19/dict2vec](https://github.com/tca19/dict2vec) - Dict2vec is a framework to learn word embeddings using lexical dictionaries.
 - [fastavro/fastavro](https://github.com/fastavro/fastavro) - Fast Avro for Python
