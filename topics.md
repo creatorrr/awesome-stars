@@ -2245,7 +2245,6 @@
 - [berry-lang/berry](https://github.com/berry-lang/berry) - A ultra-lightweight embedded scripting language optimized for microcontrollers.
 - [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
@@ -7831,7 +7830,7 @@
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 - [google/paxml](https://github.com/google/paxml) - Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading
-- [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant and scalable Jax LLM!
+- [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant, and scalable Jax LLM!
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [microsoft/lida](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models
 - [mljar/plotai](https://github.com/mljar/plotai) - PlotAI - Your Ultimate Plotting Assistant! 📊🤖 Use ChatGPT-3.5 to create plots in Python and Matplotlib directly in your Python script or notebook.
@@ -9451,7 +9450,7 @@
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [davidberenstein1957/classy-classification](https://github.com/davidberenstein1957/classy-classification) - This repository contains an easy and intuitive approach to few-shot classification using sentence-transformers or spaCy models, or zero-shot classification with Huggingface.
 - [guotong1988/NL2SQL-RULE](https://github.com/guotong1988/NL2SQL-RULE) - Content Enhanced BERT-based Text-to-SQL Generation https://arxiv.org/abs/1910.07179
-- [microsoft/presidio](https://github.com/microsoft/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
+- [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
 - [jaidevd/numerizer](https://github.com/jaidevd/numerizer) - A Python module to convert natural language numerics into ints and floats.
 - [KennethEnevoldsen/asent](https://github.com/KennethEnevoldsen/asent) - Asent is a python library for performing efficient and transparent sentiment analysis using spaCy.
 - [Lucaterre/spacyfishing](https://github.com/Lucaterre/spacyfishing) - A spaCy wrapper of Entity-Fishing (component) for named entity disambiguation and linking on Wikidata
@@ -14703,7 +14702,7 @@
 - [zama-ai/concrete](https://github.com/zama-ai/concrete) - Concrete: TFHE Compiler that converts python programs into FHE equivalent
 - [ReverseControl/MuchPIR](https://github.com/ReverseControl/MuchPIR) - Homomorphic Encryption PIR Postgres C/C++ Agregate Extension.
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
-- [microsoft/presidio](https://github.com/microsoft/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
+- [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
 - [IntelLabs/hexl](https://github.com/IntelLabs/hexl) - Intel Homomorphic Encryption Acceleration Library accelerates modular arithmetic operations used in homomorphic encryption by leveraging AVX512 and IFM52 available on Intel's 3rd Generation Xeon Scala
 - [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - DEPRECATED - Client for Privacy Pass protocol providing unlinkable cryptographic tokens
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
@@ -15368,7 +15367,7 @@
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [facebookincubator/submitit](https://github.com/facebookincubator/submitit) - Python 3.8+ toolbox for submitting jobs to Slurm
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-- [microsoft/presidio](https://github.com/microsoft/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
+- [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
 - [asyml/forte](https://github.com/asyml/forte) - Forte is a flexible and powerful ML workflow builder.  This is part of the CASL project: http://casl-project.ai/
 - [kororo/excelcy](https://github.com/kororo/excelcy) - Excel Integration with spaCy. Training NER using Excel/XLSX from PDF, DOCX, PPT, PNG or JPG.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
