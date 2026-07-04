@@ -6865,7 +6865,7 @@
 - [mynlp/ccg2lambda](https://github.com/mynlp/ccg2lambda) - Provide Semantic Parsing solutions and Natural Language Inferences for multiple languages following the idea of the syntax-semantics interface.
 - [lfoppiano/candcapi](https://github.com/lfoppiano/candcapi) - HTTP API to access the C&C/Boxer pipeline
 - [vxgmichel/aioconsole](https://github.com/vxgmichel/aioconsole) - Asynchronous console and interfaces for asyncio
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [qiang2100/BERT-LS](https://github.com/qiang2100/BERT-LS) - Lexical Simplification with Pretrained Encoders
 - [chrisdonahue/ilm](https://github.com/chrisdonahue/ilm) - Easily fine tune GPT-2 to fill in missing text
 - [jaraco/jaraco.text](https://github.com/jaraco/jaraco.text) - 
@@ -8165,7 +8165,7 @@
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [tailscale/codespace](https://github.com/tailscale/codespace) - Tailscale for devcontainers and codespaces
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere, any way you like it.
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it.
 - [KOYU-Tech/docker-volume-copy](https://github.com/KOYU-Tech/docker-volume-copy) - Bash script that allows to make a copy of exists valume to new one with a new name
 - [csantanapr/knative-kind](https://github.com/csantanapr/knative-kind) - Knative on Kind (KonK), get serverless apps on kubernetes up and running in minutes
 - [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
@@ -8375,7 +8375,7 @@
 - [rogeriochaves/open-managed-agents](https://github.com/rogeriochaves/open-managed-agents) - Self-hostable, open-source alternative to Claude Managed Agents. Multi-LLM support (Anthropic, OpenAI, Ollama), enterprise governance (org/teams/RBAC)
 - [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Use Claude Agent SDK from any ACP client
 - [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web) - Web playground to create Gaussian Splats using Apple's SHARP model
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, imag
 - [voquill/voquill](https://github.com/voquill/voquill) - Open source voice dictation technology
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
@@ -9013,7 +9013,7 @@
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [Novvum/graphql-birdseye](https://github.com/Novvum/graphql-birdseye) - View any GraphQL schema as a dynamic and interactive graph. 🦅
 - [TooTallNate/blessed-css](https://github.com/TooTallNate/blessed-css) - CSS engine for `blessed`
-- [grafana/x-ray-datasource](https://github.com/grafana/x-ray-datasource) - 
+- [grafana/x-ray-datasource](https://github.com/grafana/x-ray-datasource) - Grafana data source plugin for querying AWS X-Ray / AWS Application Signals
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
