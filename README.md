@@ -947,6 +947,7 @@
 
 ## Go 
 
+- [JacobArthurs/pgplan](https://github.com/JacobArthurs/pgplan) - Compare and analyze PostgreSQL EXPLAIN plans from the CLI
 - [github/freno](https://github.com/github/freno) - freno: cooperative, highly available throttler service
 - [MaximeRivest/remagic](https://github.com/MaximeRivest/remagic) - Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.
 - [spinframework/spin-operator](https://github.com/spinframework/spin-operator) - Spin Operator is a Kubernetes operator that empowers platform engineers to deploy Spin applications as custom resources to their Kubernetes clusters
@@ -4542,7 +4543,7 @@
 - [lukasschwab/arxiv.py](https://github.com/lukasschwab/arxiv.py) - Python wrapper for the arXiv API
 - [Google-Health/path-foundation](https://github.com/Google-Health/path-foundation) - 
 - [kochelmonster/larch-pickle](https://github.com/kochelmonster/larch-pickle) - larch.pickle - A faster python pickle replacement
-- [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined. Strongly typed, composable, cross-engine SQL. Same syntax, with more of what you love about it.
+- [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined. Strongly typed, composable, cross-engine SQL. The same declarative syntax, but safer, more powerful, and easier for humans and machines.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 - [openstack/automaton](https://github.com/openstack/automaton) - Friendly state machines for python. Mirror of code maintained at opendev.org.
 - [RE-N-Y/sae](https://github.com/RE-N-Y/sae) - 
@@ -4744,7 +4745,7 @@
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [tjmlabs/AgentRun](https://github.com/tjmlabs/AgentRun) - The easiest, and fastest way to run AI-generated Python code safely
-- [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - Record a workflow once, compile it into a deterministic, self-healing automation that runs on your own machines. Open-source demonstration compiler for desktop workflows — local-first, model-optional,
+- [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - Open-source adapter between multimodal models and desktop/web GUIs. Record a workflow once, then compile it into a deterministic, self-healing replay (openadapt-flow) — or condition, train, and evalua
 - [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
@@ -6245,6 +6246,7 @@
 - [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [Mimino666/python-xextract](https://github.com/Mimino666/python-xextract) - Extract structured data from HTML and XML documents like a boss.
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [chiphuyen/lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [mgalley/DSTC7-End-to-End-Conversation-Modeling](https://github.com/mgalley/DSTC7-End-to-End-Conversation-Modeling) - Grounded conversational dataset for end-to-end conversational AI (official DSTC7 data)
 - [Nealcly/MuTual](https://github.com/Nealcly/MuTual) - A Dataset for Multi-Turn Dialogue Reasoning
@@ -8826,7 +8828,6 @@
 - [amotile/stable-diffusion-studio](https://github.com/amotile/stable-diffusion-studio) - An animation focused workflow frontend for Stable Diffusion
 - [wppconnect-team/wa-js](https://github.com/wppconnect-team/wa-js) - WPPConnect/WA-JS is an open-source project with the aim of exporting functions from WhatsApp Web
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [linvo-io/linvo-scraper](https://github.com/linvo-io/linvo-scraper) - Linkedin Automation Bot with every possible scraping! Valid for 2022 used by Linvo.io
 - [maxwellpeterson/kafka-worker](https://github.com/maxwellpeterson/kafka-worker) - Kafka 0.8.0 broker implementation on top of Cloudflare Workers
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
