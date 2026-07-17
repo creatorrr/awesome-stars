@@ -403,7 +403,7 @@
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [openai/openai-reflect](https://github.com/openai/openai-reflect) - Physical AI Assistant that illuminates your life
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Tiny AI for tiny devices
 - [google/longfellow-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
 - [sirius-db/sirius](https://github.com/sirius-db/sirius) - 
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1078,7 +1078,6 @@
 - [traefik-plugins/traefik-jwt-plugin](https://github.com/traefik-plugins/traefik-jwt-plugin) - Traefik plugin which checks JWT tokens for required fields. Supports Open Policy Agent (OPA) and signature validation with  JWKS
 - [mercari/tortoise](https://github.com/mercari/tortoise) - Tortoise: Shell-Shockingly-Good Kubernetes Autoscaling
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
-- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
@@ -4156,6 +4155,7 @@
 
 ## Python 
 
+- [cgrtml/reasongate](https://github.com/cgrtml/reasongate) - Explainable security gate for LLM apps — blocks prompt injection with an auditable reason for every decision.
 - [djrobstep/results](https://github.com/djrobstep/results) - Don't get mad, get results
 - [Danau5tin/ai-trains-ai](https://github.com/Danau5tin/ai-trains-ai) - RL-training an AI agent to RL-train AI agents.
 - [sqlsure/sqlsure](https://github.com/sqlsure/sqlsure) - Semantic inspector for SQL — catches fan-out double-counting, additivity violations, wrong join keys, and policy breaches before the query runs. Found real bugs in the BIRD/Spider text-to-SQL benchmar
@@ -4167,7 +4167,7 @@
 - [runtm-ai/runtm](https://github.com/runtm-ai/runtm) - Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and other agents code and deploy software.
 - [pat-jj/harness-1](https://github.com/pat-jj/harness-1) - 🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search capability with a 20B model + stateful harness
 - [linchpinhq/linchpin](https://github.com/linchpinhq/linchpin) - Open-source, self-hostable runtime for managed AI agents. Apache-2.0.
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) - 26m function call model that runs on incredibly small devices
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) - 26m agentic model for tiny devices
 - [besimple-oss/broccoli](https://github.com/besimple-oss/broccoli) - Broccoli turns Linear tickets into shipped PRs — powered by Claude and Codex, running on your own Google Cloud or Blaxel containers.
 - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) - A general purpose scientific writer
 - [MemoryStore/datetime-bench](https://github.com/MemoryStore/datetime-bench) - LLM benchmark for datetime format generation reliability
@@ -6608,7 +6608,7 @@
 - [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [fivetran/great_expectations](https://github.com/fivetran/great_expectations) - Always know what to expect from your data.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [NathanDuran/BT-Oasis-Corpus](https://github.com/NathanDuran/BT-Oasis-Corpus) - Utilities for Processing the BT Oasis Corpus
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [declare-lab/RECCON](https://github.com/declare-lab/RECCON) - This repository contains the dataset and the PyTorch implementations of the models from the paper Recognizing Emotion Cause in Conversations.
@@ -7686,7 +7686,7 @@
 - [ConradIrwin/showterm](https://github.com/ConradIrwin/showterm) - The rubygem to upload to http://showterm.io
 - [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 - [pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interactio
-- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [Shopify/krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 - [defunkt/repl](https://github.com/defunkt/repl) - Sometimes you need a REPL. Unmaintained, sorry.
@@ -7923,7 +7923,7 @@
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [VivekPanyam/carton](https://github.com/VivekPanyam/carton) - Run any ML model from any programming language.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
@@ -8634,6 +8634,7 @@
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) - Interactively explore unstructured datasets from your dataframe.
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
