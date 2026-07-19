@@ -1838,7 +1838,7 @@
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Sidekick is no longer in service
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructur
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [tilde-lab/pyfactxx](https://github.com/tilde-lab/pyfactxx) - Python bindings for upgraded FaCT++ description logic reasoner
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
@@ -2370,7 +2370,7 @@
 - [gritzko/monorepko](https://github.com/gritzko/monorepko) - swarm ron the js version
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [lumigo-io/lumigo-CLI](https://github.com/lumigo-io/lumigo-CLI) - Open source CLI tool to help you develop and manage serverless applications.
 - [Kloudless/kloudless-js](https://github.com/Kloudless/kloudless-js) - Kloudless JavaScript and Node.js SDK: Integrate several cloud apps with a single API
 - [4Catalyzer/graphql-validation-complexity](https://github.com/4Catalyzer/graphql-validation-complexity) - Query complexity validation for GraphQL.js
@@ -2899,7 +2899,7 @@
 - [wbbeyourself/SCM4LLMs](https://github.com/wbbeyourself/SCM4LLMs) - Self-Controlled Memory System for LLMs
 - [tatsu-lab/alpaca_eval](https://github.com/tatsu-lab/alpaca_eval) - An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
-- [daniel-furman/sft-demos](https://github.com/daniel-furman/sft-demos) - Lightweight demos for finetuning LLMs. Powered by 🤗 transformers and open-source datasets.
+- [daniel-furman/sft-demos](https://github.com/daniel-furman/sft-demos) - Language modeling sft demos
 - [mikeybellissimo/LoRA-MPT](https://github.com/mikeybellissimo/LoRA-MPT) - A repo for finetuning MPT using LoRA. It is currently configured to work with the Alpaca dataset from Stanford but can easily be adapted to use another.
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [yangheng95/PyABSA](https://github.com/yangheng95/PyABSA) - Sentiment Analysis, Text Classification, Text Augmentation,  Text Adversarial defense, etc.;
@@ -4181,6 +4181,7 @@
 - [Nayjest/Gito](https://github.com/Nayjest/Gito) - An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
 - [Knowledgator/GLinker](https://github.com/Knowledgator/GLinker) - Efficient and scalable zero-shot entity linking
+- [axsaucedo/kaos](https://github.com/axsaucedo/kaos) - 🚀 K8s Agent Orchestration System: Managing the KAOS in your large-scale distributed multi-agent systems
 - [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound) - Local first codebase intelligence
 - [zx80/anodb](https://github.com/zx80/anodb) - Convenient Wrapper around aiosql and a Database Connection.
 - [haykgrigo3/TimeCapsuleLLM](https://github.com/haykgrigo3/TimeCapsuleLLM) - A LLM trained only on data from certain time periods to reduce modern bias
@@ -4317,7 +4318,7 @@
 - [snap-research/locomo](https://github.com/snap-research/locomo) - 
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 - [upamune/notebooklm-podcast-automator](https://github.com/upamune/notebooklm-podcast-automator) - Python tool to automate Google NotebookLM podcast creation with website/YouTube sources
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors for Reddit, YouTube, Amazon, Google Maps, and Google Search, through one API or MCP server. Join our D
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data, through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
 - [breuleux/ovld](https://github.com/breuleux/ovld) - Advanced multiple dispatch for Python functions
 - [gvelesandro/constructor-theory-simulator](https://github.com/gvelesandro/constructor-theory-simulator) - 
@@ -4373,7 +4374,7 @@
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!
 - [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo) - MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
 - [ZiYang-xie/WorldGen](https://github.com/ZiYang-xie/WorldGen) - 🌍 WorldGen - Generate Any 3D Scene in Seconds
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Also checkout AgenticSeek successor 3Toks! http
 - [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) - Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation
 - [Diffusion-CoT/ReflectionFlow](https://github.com/Diffusion-CoT/ReflectionFlow) - [ICCV 2025] Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning
 - [SkyworkAI/SkyReels-A2](https://github.com/SkyworkAI/SkyReels-A2) - SkyReels-A2: Compose anything in video diffusion transformers
@@ -4867,7 +4868,7 @@
 - [tincans-ai/gazelle](https://github.com/tincans-ai/gazelle) - Joint speech-language model - respond directly to audio!
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [python-humanize/humanize](https://github.com/python-humanize/humanize) - Python humanize functions
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [huggingface/parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
 - [Leeroo-AI/mergoo](https://github.com/Leeroo-AI/mergoo) - A library for easily merging multiple LLM experts, and efficiently train the merged LLM.
 - [AI-Hypercomputer/JetStream](https://github.com/AI-Hypercomputer/JetStream) - JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
@@ -6549,6 +6550,7 @@
 - [AI4Finance-Foundation/ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) - Massively Parallel Deep Reinforcement Learning. 🔥
 - [transferwise/pipelinewise](https://github.com/transferwise/pipelinewise) - Data Pipeline Framework using the singer.io spec
 - [singer-io/singer-python](https://github.com/singer-io/singer-python) - Writes the Singer format from Python
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [tunib-ai/oslo](https://github.com/tunib-ai/oslo) - OSLO: Open Source framework for Large-scale model Optimization
 - [taupirho/read-file-with-s3-select](https://github.com/taupirho/read-file-with-s3-select) - How to read a text  file on S3 using AWS S3 SELECT
@@ -8407,7 +8409,6 @@
 - [stablyai/agent-slack](https://github.com/stablyai/agent-slack) - Slack automation CLI for AI agents
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [axsaucedo/kaos](https://github.com/axsaucedo/kaos) - 🚀 K8s Agent Orchestration System: Managing the KAOS in your large-scale distributed multi-agent systems
 - [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [ventojs/vento](https://github.com/ventojs/vento) - 🌬 A light and fast template engine for Deno, Node, Bun and browsers
@@ -8633,7 +8634,7 @@
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) - Interactively explore unstructured datasets from your dataframe.
@@ -8929,7 +8930,6 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [DonJayamanne/typescript-notebook](https://github.com/DonJayamanne/typescript-notebook) - Run JavaScript and TypeScript in node.js within VS Code notebooks with excellent support for debugging, tensorflowjs visulizations, plotly, danfojs, etc
 - [dask/dask-labextension](https://github.com/dask/dask-labextension) - JupyterLab extension for Dask
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
