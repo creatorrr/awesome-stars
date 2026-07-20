@@ -8384,6 +8384,7 @@
 
 ## TypeScript 
 
+- [cipherstash/stack](https://github.com/cipherstash/stack) - Searchable,   application-level encryption for building privacy-first apps
 - [pgplex/pgconsole](https://github.com/pgplex/pgconsole) - Minimal Postgres editor for speed, collaboration, and AI
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) - A browser-based viewer for Office Open XML documents that renders to an HTML Canvas element.
@@ -8719,7 +8720,7 @@
 - [axflow/axflow](https://github.com/axflow/axflow) - The TypeScript framework for AI development
 - [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interacti
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The Yjs CRDT WebSocket backend for conflict-free real-time collaboration in your app.
-- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.
 - [google-marketing-solutions/feedgen](https://github.com/google-marketing-solutions/feedgen) - Optimise Shopping feeds with Generative AI
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
