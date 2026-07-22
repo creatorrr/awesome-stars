@@ -1079,7 +1079,6 @@
 - [traefik-plugins/traefik-jwt-plugin](https://github.com/traefik-plugins/traefik-jwt-plugin) - Traefik plugin which checks JWT tokens for required fields. Supports Open Policy Agent (OPA) and signature validation with  JWKS
 - [mercari/tortoise](https://github.com/mercari/tortoise) - Tortoise: Shell-Shockingly-Good Kubernetes Autoscaling
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
-- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
@@ -1170,7 +1169,6 @@
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [fastly/cli](https://github.com/fastly/cli) - Build, deploy and configure Fastly services from your terminal
 - [suborbital/sat](https://github.com/suborbital/sat) - Tiny & fast WebAssembly edge compute server
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
@@ -3302,6 +3300,7 @@
 
 ## OCaml 
 
+- [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
 - [kablorp/blorp](https://github.com/kablorp/blorp) - A safe, readable, and fast programming language
 - [raven-ml/raven](https://github.com/raven-ml/raven) - Modern scientific computing for OCaml
 - [inhabitedtype/angstrom](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
@@ -6101,7 +6100,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby) - Stable diffusion for real-time music generation
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - A research project for natural language generation, containing the official implementations by MSRA NLC team.
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.
 - [iamleot/transferwee](https://github.com/iamleot/transferwee) - Download/upload files via wetransfer.com
 - [RobinKa/jaxga](https://github.com/RobinKa/jaxga) - Geometric Algebra package for JAX
 - [GXimingLu/Quark](https://github.com/GXimingLu/Quark) - 
@@ -7015,7 +7014,7 @@
 - [monologg/JointBERT](https://github.com/monologg/JointBERT) - Pytorch implementation of JointBERT: "BERT for Joint Intent Classification and Slot Filling"
 - [google-research-datasets/dstc8-schema-guided-dialogue](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) - The Schema-Guided Dialogue Dataset
 - [zliucr/coach](https://github.com/zliucr/coach) - Coach: A Coarse-to-Fine Approach for Cross-domain Slot Filling (ACL-2020)
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [johnbywater/quantdsl](https://github.com/johnbywater/quantdsl) - Quant DSL
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [microsoft/hummingbird](https://github.com/microsoft/hummingbird) - Hummingbird compiles trained ML models into tensor computation for faster inference.
@@ -8527,7 +8526,7 @@
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - 
 - [inngest/agent-kit](https://github.com/inngest/agent-kit) - AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [wobsoriano/svelte-clerk](https://github.com/wobsoriano/svelte-clerk) - Community Clerk Svelte SDK.
+- [clerk-community/svelte-clerk](https://github.com/clerk-community/svelte-clerk) - Community Clerk Svelte SDK.
 - [mohsen1/llm-debugger-vscode-extension](https://github.com/mohsen1/llm-debugger-vscode-extension) - VSCode extension that demonstrates the use of large language models (LLMs) for active debugging of programs
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [michaellatman/mcp-get](https://github.com/michaellatman/mcp-get) - Archived: mcp-get is no longer maintained.
@@ -8640,6 +8639,7 @@
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) - Interactively explore unstructured datasets from your dataframe.
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
@@ -8844,6 +8844,7 @@
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [telefunc/telefunc](https://github.com/telefunc/telefunc) - Remote Functions.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [suborbital/se2-node](https://github.com/suborbital/se2-node) - A JavaScript/TypeScript SDK for Suborbital Compute
 - [relative/synchrony](https://github.com/relative/synchrony) - javascript-obfuscator cleaner & deobfuscator
 - [devlikeapro/waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
