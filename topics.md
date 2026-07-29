@@ -891,7 +891,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [csinva/iprompt](https://github.com/csinva/iprompt) - Finding semantically meaningful and accurate prompts.
-- [alirezadir/Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
+- [alirezadir/AIMLInterviews](https://github.com/alirezadir/AIMLInterviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
 - [jacopotagliabue/foundation-models-for-dbt-entity-matching](https://github.com/jacopotagliabue/foundation-models-for-dbt-entity-matching) - Playground for using large language models into the Modern Data Stack for entity matching
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 - [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused o
@@ -1028,7 +1028,7 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
-- [alirezadir/Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
+- [alirezadir/AIMLInterviews](https://github.com/alirezadir/AIMLInterviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
@@ -4089,7 +4089,7 @@
 - [thunlp/OpenDelta](https://github.com/thunlp/OpenDelta) - A plug-and-play library for parameter-efficient-tuning (Delta Tuning)
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
 - [fcakyon/video-transformers](https://github.com/fcakyon/video-transformers) - Easiest way of fine-tuning HuggingFace video classification models
-- [alirezadir/Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
+- [alirezadir/AIMLInterviews](https://github.com/alirezadir/AIMLInterviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official CLI and Python client for the Hugging Face Hub.
 - [Minyus/pipelinex](https://github.com/Minyus/pipelinex) - PipelineX: Python package to build ML pipelines for experimentation with Kedro, MLflow, and more
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
@@ -6775,6 +6775,7 @@
 - [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful design
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
+- [froala/wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [markusmoenig/richtextjs](https://github.com/markusmoenig/richtextjs) - A standalone rich text editor based on the 2d canvas
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -8323,7 +8324,7 @@
 - [saharmor/whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
 - [google-research/prompt-tuning](https://github.com/google-research/prompt-tuning) - Original Implementation of Prompt Tuning from Lester, et al, 2021
 - [fcakyon/video-transformers](https://github.com/fcakyon/video-transformers) - Easiest way of fine-tuning HuggingFace video classification models
-- [alirezadir/Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
+- [alirezadir/AIMLInterviews](https://github.com/alirezadir/AIMLInterviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
 - [microsoft/GODEL](https://github.com/microsoft/GODEL) - Large-scale pretrained models for goal-directed dialog
 - [BlackHC/toma](https://github.com/BlackHC/toma) - Helps you write algorithms in PyTorch that adapt to the available (CUDA) memory
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official CLI and Python client for the Hugging Face Hub.
@@ -13398,7 +13399,6 @@
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
 - [blazegraph/database](https://github.com/blazegraph/database) - Blazegraph High Performance Graph Database
 - [hypergraphdb/hypergraphdb](https://github.com/hypergraphdb/hypergraphdb) - HyperGraphDB is a general purpose, extensible, portable, distributed, embeddable, open-source data storage mechanism. It is a graph database designed specifically for artificial intelligence and seman
-- [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
 - [tensorflow/tfjs-tsne](https://github.com/tensorflow/tfjs-tsne) - 
 - [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
@@ -14952,6 +14952,7 @@
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
+- [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
 - [aviaviavi/toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODOs in your codebase
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
