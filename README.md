@@ -493,6 +493,7 @@
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [thomwolf/Magic-Sand](https://github.com/thomwolf/Magic-Sand) - Magic-Sand is a software for operating an augmented reality sandbox
@@ -653,6 +654,7 @@
 - [Wombosvideo/tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) - TailwindCSS v4.0 compatible replacement for `tailwindcss-animate`
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [froala/wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
 - [julie-ng/tidy-revealjs](https://github.com/julie-ng/tidy-revealjs) - A custom theme and build system for reveal.js
 - [open-accelerators/open-banking](https://github.com/open-accelerators/open-banking) - This repository contains a developer portal, mock data and other configurations for creating micro services based platform to support  open banking
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge
@@ -1531,7 +1533,6 @@
 - [sangmichaelxie/doremi](https://github.com/sangmichaelxie/doremi) - Pytorch implementation of DoReMi, a method for optimizing the data mixture weights in language modeling datasets
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
-- [kennyfrc/cami.js](https://github.com/kennyfrc/cami.js) - Cami.js is a simple yet powerful toolkit for interactive islands in web applications. No build step required.
 - [snap-research/HyperHuman](https://github.com/snap-research/HyperHuman) - [ICLR 2024] Github Repo for "HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion"
 - [Lichang-Chen/AlpaGasus](https://github.com/Lichang-Chen/AlpaGasus) - A better Alpaca Model Trained with Less Data (only 9k instructions of the original set)
 - [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e
@@ -1821,7 +1822,6 @@
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
 - [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 - [nmatter1/smallville](https://github.com/nmatter1/smallville) - Generative Agents for video games. Based on Generative Agents: Interactive Simulacra of Human Behavior
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [HeidelTime/heideltime](https://github.com/HeidelTime/heideltime) - A multilingual, cross-domain temporal tagger developed at the Database Systems Research Group at Heidelberg University.
 - [dig-team/AMIE](https://github.com/dig-team/AMIE) - Rule mining in knowledge graphs
@@ -1989,7 +1989,6 @@
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [dkamm/pr-quiz](https://github.com/dkamm/pr-quiz) - A GitHub Action that uses AI to generate a quiz from your pull request
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [ken107/read-aloud](https://github.com/ken107/read-aloud) - An awesome browser extension that reads aloud webpage content with one click
 - [sylviangth/awesome-remote-mcp-servers](https://github.com/sylviangth/awesome-remote-mcp-servers) - A curated list of Hosted & Managed Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
@@ -2984,7 +2983,7 @@
 - [Moradnejad/ColBERT-Using-BERT-Sentence-Embedding-for-Humor-Detection](https://github.com/Moradnejad/ColBERT-Using-BERT-Sentence-Embedding-for-Humor-Detection) - ColBERT humor dataset for the task of humor detection, containing 200,000 jokes/news
 - [huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class) - Materials for the Hugging Face Diffusion Models Course
 - [mamonraab/Data-efficient-video-transformer](https://github.com/mamonraab/Data-efficient-video-transformer) - menovideo: pytorch library for video action recognition  and video understanding
-- [alirezadir/Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
+- [alirezadir/AIMLInterviews](https://github.com/alirezadir/AIMLInterviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
 - [carefree0910/carefree-creator](https://github.com/carefree0910/carefree-creator) - AI magics meet Infinite draw board.
 - [sunlab-osu/TURL](https://github.com/sunlab-osu/TURL) - Code and data for "TURL: Table Understanding through Representation Learning"
 - [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused o
@@ -8466,6 +8465,7 @@
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
 - [nyatinte/ccexp](https://github.com/nyatinte/ccexp) - interactive terminal interface for discovering, previewing, and managing Claude Code configuration files and slash commands.
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [lijunle/incus-ui-canonical](https://github.com/lijunle/incus-ui-canonical) - Incus-UI-Canonical is a  a browser frontend for Incus (patched LXD-UI)
 - [neiltron/apple-health-mcp](https://github.com/neiltron/apple-health-mcp) - MCP server for querying Apple Health data with natural language and SQL
@@ -8695,6 +8695,7 @@
 - [thefrontside/effection](https://github.com/thefrontside/effection) - Structured concurrency and effects for JavaScript
 - [mme/beakjs](https://github.com/mme/beakjs) - 🐦 Custom conversational assistants for your React app.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
+- [kennyfrc/cami.js](https://github.com/kennyfrc/cami.js) - Cami.js is a simple yet powerful toolkit for interactive islands in web applications. No build step required.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [chronark/highstorm](https://github.com/chronark/highstorm) - Open Source Event Monitoring
 - [Nashex/gpt4-playground](https://github.com/Nashex/gpt4-playground) - Clone of OpenAI's ChatGPT and Playground environments to enable experimenting with API keys.
