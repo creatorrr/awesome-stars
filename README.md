@@ -493,7 +493,6 @@
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [thomwolf/Magic-Sand](https://github.com/thomwolf/Magic-Sand) - Magic-Sand is a software for operating an augmented reality sandbox
@@ -541,7 +540,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
-- [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
+- [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt6.
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
@@ -670,7 +669,7 @@
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
 - [DesignRevision/shards-dashboard](https://github.com/DesignRevision/shards-dashboard) - 🔥A beautiful Bootstrap 4 admin dashboard templates pack.
 - [MIMBCD-UI/dataset-uta4-rates](https://github.com/MIMBCD-UI/dataset-uta4-rates) - [AVI 2020] UTA4: Rates (BIRADS) dataset.
-- [smariussorin/EventSourcedMicroservices](https://github.com/smariussorin/EventSourcedMicroservices) - Microservices Architecture with Event Sourcing and CQRS using Node.JS
+- [smariussorin/Event-Sourced-Microservices](https://github.com/smariussorin/Event-Sourced-Microservices) - Microservices Architecture with Event Sourcing and CQRS using Node.JS
 - [aftertheflood/sparks](https://github.com/aftertheflood/sparks) - A typeface for creating sparklines in text without code.
 - [rileytomasek/tight](https://github.com/rileytomasek/tight) - A browser extension that simplifies the Slack interface, making it easier to focus.
 - [jeffzaeri/LDOCE-Pronunciation-Audio-Downloader](https://github.com/jeffzaeri/LDOCE-Pronunciation-Audio-Downloader) - A Node.js tool to download both British and American pronunciation of vocabularies from Longman Dictionary of Contemporary English (http://www.ldoceonline.com)
@@ -951,6 +950,7 @@
 
 ## Go 
 
+- [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok Build) in tmux: live status, group tree, live pane preview, resource gauges.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [pgplex/pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative Postgres schema migration. Agent friendly.
 - [stripe/pg-schema-diff](https://github.com/stripe/pg-schema-diff) - Go library for diffing Postgres schemas and generating SQL migrations
@@ -1822,6 +1822,7 @@
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
 - [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 - [nmatter1/smallville](https://github.com/nmatter1/smallville) - Generative Agents for video games. Based on Generative Agents: Interactive Simulacra of Human Behavior
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [HeidelTime/heideltime](https://github.com/HeidelTime/heideltime) - A multilingual, cross-domain temporal tagger developed at the Database Systems Research Group at Heidelberg University.
 - [dig-team/AMIE](https://github.com/dig-team/AMIE) - Rule mining in knowledge graphs
@@ -2237,7 +2238,7 @@
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [imsky/pull-review](https://github.com/imsky/pull-review) - :white_check_mark: Assign pull request reviewers intelligently.
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
-- [aws-solutions/qnabot-on-aws](https://github.com/aws-solutions/qnabot-on-aws) - AWS QnABot is a multi-channel, multi-language conversational interface (chatbot) that responds to your customer's questions, answers, and feedback. The solution allows you to deploy a fully functional
+- [aws-solutions/qnabot-on-aws](https://github.com/aws-solutions/qnabot-on-aws) - Guidance for QnABot on AWS is a multi-channel, multi-language conversational interface (chatbot) that responds to your customer's questions, answers, and feedback. The solution allows you to deploy a 
 - [publiusfederalist/federalist](https://github.com/publiusfederalist/federalist) - Access files on the decentralized, unblockable torrent swarm and visit links using Handshake domains.  Decentralized internet is here.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [CacheControl/json-rules-engine](https://github.com/CacheControl/json-rules-engine) - A rules engine expressed in JSON
@@ -4154,6 +4155,8 @@
 
 ## Python 
 
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+- [VladUZH/qwen-scribe](https://github.com/VladUZH/qwen-scribe) - Private, local transcription and system-wide dictation for Apple Silicon.
 - [hgaddipati1118/slop-index](https://github.com/hgaddipati1118/slop-index) - The Slop Index: a benchmark ranking frontier LLMs by how much AI slop their writing contains, vs pre-AI human baselines.
 - [izeigerman/claude-thermos](https://github.com/izeigerman/claude-thermos) - Keeps your Claude session warm for you
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
@@ -4201,7 +4204,7 @@
 - [deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB) - An early research stage expert-parallel load balancer for MoE models based on linear programming.
 - [Decathlon/dblinter](https://github.com/Decathlon/dblinter) - A static analysis tool for postgresql databases
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
-- [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.
+- [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 471 plugins, 3,069 skills, 347 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [tyfeld/MMaDA-Parallel](https://github.com/tyfeld/MMaDA-Parallel) - Official Implementation of "MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation"
 - [Realiserad/fish-ai](https://github.com/Realiserad/fish-ai) - Supercharge your command line with LLMs and get shell scripting assistance in Fish. 💪
@@ -5169,7 +5172,7 @@
 - [0xD34D/emo-connect-python](https://github.com/0xD34D/emo-connect-python) - Python library for connecting and interacting with an EMO pet
 - [ccqq77/unnatural-error-correction](https://github.com/ccqq77/unnatural-error-correction) - 
 - [meta-pytorch/gpt-fast](https://github.com/meta-pytorch/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [paysure/orinoco](https://github.com/paysure/orinoco) - Functional composable pipelines allowing clean separation of the business logic and its implementation
 - [olirice/flupy](https://github.com/olirice/flupy) - Fluent data pipelines for python and your shell
@@ -5550,6 +5553,7 @@
 - [Ber666/ToolkenGPT](https://github.com/Ber666/ToolkenGPT) - ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings - NeurIPS 2023 (oral)
 - [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training
 - [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [cozodb/openai-multi-client](https://github.com/cozodb/openai-multi-client) - Making your requests to the OpenAI API go fast!
@@ -7715,6 +7719,8 @@
 
 ## Rust 
 
+- [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux without logging in again.
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [Marenz/notion-river](https://github.com/Marenz/notion-river) - Notion/Ion3-style static tiling window manager for the River Wayland compositor
 - [Evokoa/pgGraph](https://github.com/Evokoa/pgGraph) - Open-source graph database superpowers for your existing Postgres data.
 - [lightonai/next-plaid](https://github.com/lightonai/next-plaid) - NextPlaid, ColGREP: Multi-vector search, from database to coding agents.
@@ -8123,6 +8129,7 @@
 
 ## Shell 
 
+- [netresearch/jujutsu-workflow-skill](https://github.com/netresearch/jujutsu-workflow-skill) - Agent-safe version control with Jujutsu (jj) — jj for local change management, Git as the canonical remote/PR/CI/audit interface. Netresearch agent skill.
 - [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) - On-device models that know when they're wrong: every answer carries a confidence score for cloud handoff.
 - [dbalabka/chrome-wsl](https://github.com/dbalabka/chrome-wsl) - Simplifies Chrome DevTools MCP setup for WSL and Docker by automating Chrome remote debugging and network proxy bridging.
 - [Peter-Lavigne/fizzbuzz-without-human-review](https://github.com/Peter-Lavigne/fizzbuzz-without-human-review) - 
@@ -8389,6 +8396,12 @@
 
 ## TypeScript 
 
+- [leonpawelzik/obsidian-tandem-comments](https://github.com/leonpawelzik/obsidian-tandem-comments) - Google Docs-style comments for Obsidian. Quote-anchored threads in a fenced block at the end of the file — prose stays untouched, AI assistants can read and write them too.
+- [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md) - The best notepad for you and your agents
+- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+- [ReviewStage/stage-cli](https://github.com/ReviewStage/stage-cli) - A viewer for reviewing local code changes in small individual chapters. Works with any AI agent.
+- [rocket-connect/gqlpt](https://github.com/rocket-connect/gqlpt) - Leverage AI to generate GraphQL queries from plain text.
+- [IBM/graphql-query-generator](https://github.com/IBM/graphql-query-generator) - Randomly generates GraphQL queries from a GraphQL schema
 - [microsoft/Sico](https://github.com/microsoft/Sico) - An open-source Digital Worker platform for reliable execution and continuous co-evolution.
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [philschmid/mcp-cli](https://github.com/philschmid/mcp-cli) - Lighweight CLI to interact with MCP servers
@@ -8739,7 +8752,6 @@
 - [ricky0123/vad](https://github.com/ricky0123/vad) - Voice activity detector (VAD) for the browser with a simple API
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 - [eumemic/ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
