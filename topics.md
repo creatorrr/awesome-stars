@@ -2693,7 +2693,7 @@
 ## claude-code 
 
 - [openma-ai/open-managed-agents](https://github.com/openma-ai/open-managed-agents) - Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible; runs on Cloudflare Workers/Durable Objects or Node.js. Apache 2.0.
-- [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux without logging in again.
+- [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux and macOS without logging in again.
 - [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok, Gemini CLI) in tmux: live status, group tree, quick prompts, diff review. macOS, Linux, Windows via WSL2.
 - [netresearch/jujutsu-workflow-skill](https://github.com/netresearch/jujutsu-workflow-skill) - Agent-safe version control with Jujutsu (jj) — jj for local change management, Git as the canonical remote/PR/CI/audit interface. Netresearch agent skill.
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
@@ -2742,7 +2742,7 @@
 ## cli 
 
 - [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm) - Compose Farm - run docker compose commands across multiple hosts
-- [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux without logging in again.
+- [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux and macOS without logging in again.
 - [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok, Gemini CLI) in tmux: live status, group tree, quick prompts, diff review. macOS, Linux, Windows via WSL2.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
@@ -3177,6 +3177,7 @@
 
 ## computer-science 
 
+- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -4430,7 +4431,7 @@
 
 ## developer-tools 
 
-- [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux without logging in again.
+- [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux and macOS without logging in again.
 - [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok, Gemini CLI) in tmux: live status, group tree, quick prompts, diff review. macOS, Linux, Windows via WSL2.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [JacobArthurs/pgplan](https://github.com/JacobArthurs/pgplan) - Compare and analyze PostgreSQL EXPLAIN plans from the CLI
@@ -7579,7 +7580,7 @@
 
 ## linux 
 
-- [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux without logging in again.
+- [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux and macOS without logging in again.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
@@ -8642,6 +8643,7 @@
 
 ## macos 
 
+- [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux and macOS without logging in again.
 - [VladUZH/qwen-scribe](https://github.com/VladUZH/qwen-scribe) - Private, local transcription and system-wide dictation for Apple Silicon.
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -10453,6 +10455,7 @@
 
 ## others 
 
+- [ryanzhou/deepseek-v4-flash-mi300x](https://github.com/ryanzhou/deepseek-v4-flash-mi300x) - 
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [ReviewStage/stage-cli](https://github.com/ReviewStage/stage-cli) - A viewer for reviewing local code changes in small individual chapters. Works with any AI agent.
@@ -10579,7 +10582,7 @@
 - [apple/ml-simplefold](https://github.com/apple/ml-simplefold) - 
 - [facebookresearch/ScalableVeriScore](https://github.com/facebookresearch/ScalableVeriScore) - Scalable VeriScore implementation
 - [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.
-- [benchflow-ai/benchflow](https://github.com/benchflow-ai/benchflow) - Research infra for creating RL environments, post-training, and evals
+- [benchflow-ai/benchflow](https://github.com/benchflow-ai/benchflow) - Research infra for creating RL environments, post-training, and evals.
 - [summersonnn/Town-Of-Salem-with-LLMs](https://github.com/summersonnn/Town-Of-Salem-with-LLMs) - In this repository, 16 models compete to outperform each other in the game Town of Salem. Each model is randomly assigned roles like Vampire, Peasant, Clown, or special variants of Peasants with uniqu
 - [BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B) - Spiking Brain-inspired Large Models, integrating hybrid efficient attention, MoE modules and spike encoding into its architecture
 - [samihalawa/awesome-claude-dxt](https://github.com/samihalawa/awesome-claude-dxt) - 🚀 The Ultimate Collection of Claude Desktop Extensions (.dxt) - 500+ extensions, comprehensive categories, featured showcases, and everything you need to supercharge your Claude Desktop experience!
@@ -12638,7 +12641,6 @@
 - [microsoft/fastseq](https://github.com/microsoft/fastseq) - An efficient implementation of the popular sequence models for text generation, summarization, and translation tasks. https://arxiv.org/pdf/2106.04718.pdf
 - [bytedance/lightseq](https://github.com/bytedance/lightseq) - LightSeq: A High Performance Library for Sequence Processing and Generation
 - [doc-analysis/DocBank](https://github.com/doc-analysis/DocBank) - DocBank: A Benchmark Dataset for Document Layout Analysis
-- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [nyu-mll/SQuALITY](https://github.com/nyu-mll/SQuALITY) - Query-focused summarization data
 - [r-three/t-few](https://github.com/r-three/t-few) - Code for T-Few from "Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning"
 - [MaksTarnavskyi/gector-large](https://github.com/MaksTarnavskyi/gector-large) - Improved version of GECToR
@@ -14102,7 +14104,7 @@
 - [okteto/welcome](https://github.com/okteto/welcome) - Welcome to okteto!
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [nytimes/library](https://github.com/nytimes/library) - A collaborative documentation site, powered by Google Docs.
-- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Portable implementation of Web audio API
+- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Cross-platform Web Audio API
 - [francoisp/DuplexRsync](https://github.com/francoisp/DuplexRsync) - DropBox/GoogleDrive-style 2-way sync using rsync and fswatch
 - [iamdustan/tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer) - Learn you a React Renderer for Great Good
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
@@ -14645,6 +14647,7 @@
 
 ## postgresql 
 
+- [nearform/temporal_tables](https://github.com/nearform/temporal_tables) - Postgresql temporal_tables extension in PL/pgSQL, without the need for external c extension.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [cipherstash/stack](https://github.com/cipherstash/stack) - Searchable,   application-level encryption for building privacy-first apps
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
@@ -16903,7 +16906,7 @@
 ## rust 
 
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
-- [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux without logging in again.
+- [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux and macOS without logging in again.
 - [Evokoa/pgGraph](https://github.com/Evokoa/pgGraph) - Open-source graph database superpowers for your existing Postgres data.
 - [Egoist-Machines/LodeDB](https://github.com/Egoist-Machines/LodeDB) - World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerated
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
