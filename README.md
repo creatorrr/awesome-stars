@@ -5892,7 +5892,7 @@
 - [danijar/dreamerv3](https://github.com/danijar/dreamerv3) - Mastering Diverse Domains through World Models
 - [ermanh/trieregex](https://github.com/ermanh/trieregex) - Build efficient trie-based regular expressions from large word lists
 - [facebookresearch/cc_net](https://github.com/facebookresearch/cc_net) - Tools to download and cleanup Common Crawl data
-- [Paradigmllc/gspread-pandas](https://github.com/Paradigmllc/gspread-pandas) - A package to easily open an instance of a Google spreadsheet and interact with worksheets through Pandas DataFrames.
+- [Paradigmllc/gspread-pandas](https://github.com/Paradigmllc/gspread-pandas) - Read and write Google Sheets as pandas DataFrames — column-matched appends, real dtypes, and layout detection for sheets that don't start at A1.
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [run-house/kubetorch](https://github.com/run-house/kubetorch) - Distribute and run AI workloads on Kubernetes magically in Python, like PyTorch for ML infra.
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
