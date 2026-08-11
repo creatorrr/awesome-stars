@@ -1456,7 +1456,7 @@
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [velero-io/velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [monirz/conget](https://github.com/monirz/conget) - A CLI app for downloading file concurrently.
-- [postgrest-oauth/api](https://github.com/postgrest-oauth/api) - oAuth2 server for begriffs/postgrest
+- [postgrest-oauth/api](https://github.com/postgrest-oauth/api) - OAuth2 server for PostgREST, written in Go
 - [KarlAmort/redis-fs](https://github.com/KarlAmort/redis-fs) - Mount a Redis database as a filesystem using fuse.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [cirocosta/cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
@@ -3525,7 +3525,6 @@
 - [gesstalt/BRIDGE](https://github.com/gesstalt/BRIDGE) - Annotated floor plan image datasete
 - [uhub/awesome-go](https://github.com/uhub/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 - [nlpxucan/evol-instruct](https://github.com/nlpxucan/evol-instruct) - 
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [discord/discord-api-spec](https://github.com/discord/discord-api-spec) - OpenAPI specification for Discord APIs
 - [BossChow/ultimate-submit-list](https://github.com/BossChow/ultimate-submit-list) - This repository is dedicated to collecting a directory of resources for submitting startup projects, including websites, communities, newsletters, and more. It aims to help solo makers save time and e
 - [google-research-datasets/rico_semantics](https://github.com/google-research-datasets/rico_semantics) - Consists of ~500k human annotations on the RICO dataset identifying various icons based on their shapes and semantics, and associations between selected general UI elements and their text labels. Anno
@@ -4071,7 +4070,6 @@
 - [kouber/pg_auditor](https://github.com/kouber/pg_auditor) - PostgreSQL extension to log each DML statement and flashback transactions
 - [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL
 - [xocolatl/periods](https://github.com/xocolatl/periods) - PERIODs and SYSTEM VERSIONING for PostgreSQL
-- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [cybertec-postgresql/pgfaceting](https://github.com/cybertec-postgresql/pgfaceting) - Faceted query acceleration for PostgreSQL using roaring bitmaps
 - [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite
 - [pgpointcloud/pointcloud](https://github.com/pgpointcloud/pointcloud) - A PostgreSQL extension for storing point cloud (LIDAR) data.
@@ -4174,7 +4172,7 @@
 - [runtm-ai/runtm](https://github.com/runtm-ai/runtm) - Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and other agents code and deploy software.
 - [pat-jj/harness-1](https://github.com/pat-jj/harness-1) - 🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search capability with a 20B model + stateful harness
 - [linchpinhq/linchpin](https://github.com/linchpinhq/linchpin) - Open-source, self-hostable runtime for managed AI agents. Apache-2.0.
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) - Foundation model for tiny devices; 14mb, 26m params, 1-6k toks/sec on mobiles, wearables smart home and robots.
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 - [besimple-oss/broccoli](https://github.com/besimple-oss/broccoli) - Broccoli turns Linear tickets into shipped PRs — powered by Claude and Codex, running on your own Google Cloud or Blaxel containers.
 - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) - A general purpose scientific writer
 - [MemoryStore/datetime-bench](https://github.com/MemoryStore/datetime-bench) - LLM benchmark for datetime format generation reliability
@@ -4869,7 +4867,7 @@
 - [openai/simple-evals](https://github.com/openai/simple-evals) - 
 - [theblackcat102/evol-dataset](https://github.com/theblackcat102/evol-dataset) - evol augment any dataset online
 - [FreedomIntelligence/MultilingualSIFT](https://github.com/FreedomIntelligence/MultilingualSIFT) - MultilingualSIFT: Multilingual Supervised Instruction Fine-tuning
-- [Link-AGI/AutoAgents](https://github.com/Link-AGI/AutoAgents) - [IJCAI 2024] Generate different roles for GPTs to form a collaborative entity for complex tasks.
+- [OWD-AI/AutoAgents](https://github.com/OWD-AI/AutoAgents) - [IJCAI 2024] Generate different roles for GPTs to form a collaborative entity for complex tasks.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [Minami-su/character_AI_open](https://github.com/Minami-su/character_AI_open) - Generate multi-round conversation roleplay data based on self-instruct and evol-instruct.
 - [tincans-ai/gazelle](https://github.com/tincans-ai/gazelle) - Joint speech-language model - respond directly to audio!
@@ -4883,6 +4881,7 @@
 - [swj0419/detect-pretrain-code](https://github.com/swj0419/detect-pretrain-code) - This repository provides an original implementation of Detecting Pretraining Data from Large Language Models by *Weijia Shi, *Anirudh Ajith, Mengzhou Xia, Yangsibo Huang, Daogao Liu , Terra Blevins , 
 - [google-deepmind/recurrentgemma](https://github.com/google-deepmind/recurrentgemma) - Open weights language model from Google DeepMind, based on Griffin.
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [angrypenguinpng/DeforumDailyPapers](https://github.com/angrypenguinpng/DeforumDailyPapers) - A discord bot to stay up to date with Hugging Face Daily Papers.
 - [meta-math/MetaMath](https://github.com/meta-math/MetaMath) - MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
@@ -7276,7 +7275,7 @@
 - [CR-Gjx/LeakGAN](https://github.com/CR-Gjx/LeakGAN) - The codes of paper "Long Text Generation via Adversarial Training with Leaked Information"  on AAAI 2018.  Text generation using GAN and Hierarchical Reinforcement Learning.
 - [LantaoYu/SeqGAN](https://github.com/LantaoYu/SeqGAN) - Implementation of Sequence Generative Adversarial Nets with Policy Gradient
 - [gwastro/pycbc](https://github.com/gwastro/pycbc) - Core package to analyze gravitational-wave data, find signals, and study their parameters. This package was used in the first direct detection of gravitational waves (GW150914), and is used in the ong
-- [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
+- [NVIDIA/cuml](https://github.com/NVIDIA/cuml) - NVIDIA cuML: GPU-Accelerated Machine Learning
 - [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and 
 - [r9y9/nnmnkwii](https://github.com/r9y9/nnmnkwii) - Library to build speech synthesis systems designed for easy and fast prototyping.
 - [gionanide/Speech_Signal_Processing_and_Classification](https://github.com/gionanide/Speech_Signal_Processing_and_Classification) - Front-end speech processing aims at extracting proper features from short- term segments of a speech utterance, known as frames. It is a pre-requisite step toward any pattern recognition problem emplo
@@ -7771,6 +7770,7 @@
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [justbuchanan/oasis](https://github.com/justbuchanan/oasis) - 3d-printed smart terrarium
 - [ChuckHend/pg_vectorize](https://github.com/ChuckHend/pg_vectorize) - Full-text and semantic search on any Postgres
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [rorosen/zeekstd](https://github.com/rorosen/zeekstd) - Rust implementation of the Zstandard Seekable Format
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -8400,6 +8400,7 @@
 
 ## TypeScript 
 
+- [duyet/oma](https://github.com/duyet/oma) - Open Managed Agents and self-hosted Claude Tag-style agent runtime. Drop-in compatible; runs on Cloudflare Workers/Durable Objects or Node.js
 - [andrelandgraf/neon-auth-mcp-oauth](https://github.com/andrelandgraf/neon-auth-mcp-oauth) - PoC of an MCP server in a Next.js app with Neon Auth and custom OAuth flow for MCP.
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work
 - [openma-ai/open-managed-agents](https://github.com/openma-ai/open-managed-agents) - Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible; runs on Cloudflare Workers/Durable Objects or Node.js. Apache 2.0.
@@ -8426,7 +8427,7 @@
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [axeldelafosse/loop](https://github.com/axeldelafosse/loop) - Dead-simple Bun CLI that runs Codex and Claude Code in a loop.
@@ -8440,7 +8441,7 @@
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [ventojs/vento](https://github.com/ventojs/vento) - 🌬 A light and fast template engine for Deno, Node, Bun and browsers
 - [Orange-County-AI/MCP-DSL](https://github.com/Orange-County-AI/MCP-DSL) - 
 - [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
