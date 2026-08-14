@@ -96,6 +96,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -359,6 +360,7 @@
 - [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [voquill/voquill](https://github.com/voquill/voquill) - Open source voice dictation technology
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
 - [stablyai/agent-slack](https://github.com/stablyai/agent-slack) - Slack automation CLI for AI agents
 - [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound) - Local first codebase intelligence
@@ -544,7 +546,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - AI Infra / AI Orchestration / AI Control Plane
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
@@ -558,7 +560,7 @@
 
 ## ai 
 
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. https://qm.ycombinator.com
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
 - [rocket-connect/gqlpt](https://github.com/rocket-connect/gqlpt) - Leverage AI to generate GraphQL queries from plain text.
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
@@ -886,7 +888,7 @@
 - [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby) - Stable diffusion for real-time music generation
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [praeclarum/transformers-js](https://github.com/praeclarum/transformers-js) - Browser-compatible JS library for running language models
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -972,7 +974,7 @@
 - [linchpinhq/linchpin](https://github.com/linchpinhq/linchpin) - Open-source, self-hostable runtime for managed AI agents. Apache-2.0.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [besimple-oss/broccoli](https://github.com/besimple-oss/broccoli) - Broccoli turns Linear tickets into shipped PRs — powered by Claude and Codex, running on your own Google Cloud or Blaxel containers.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) - A general purpose scientific writer
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
@@ -2691,7 +2693,7 @@
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 
 ## claude-code 
 
@@ -2706,7 +2708,7 @@
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [besimple-oss/broccoli](https://github.com/besimple-oss/broccoli) - Broccoli turns Linear tickets into shipped PRs — powered by Claude and Codex, running on your own Google Cloud or Blaxel containers.
 - [Astro-Han/diffpane](https://github.com/Astro-Han/diffpane) - Real-time TUI diff viewer for AI coding agents
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
 - [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [axeldelafosse/loop](https://github.com/axeldelafosse/loop) - Dead-simple Bun CLI that runs Codex and Claude Code in a loop.
 - [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode, Kimi Code) into self-contained, embeddable HTML  replays
@@ -2763,7 +2765,7 @@
 - [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [Astro-Han/diffpane](https://github.com/Astro-Han/diffpane) - Real-time TUI diff viewer for AI coding agents
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
@@ -4449,7 +4451,7 @@
 - [JacobArthurs/pgplan](https://github.com/JacobArthurs/pgplan) - Compare and analyze PostgreSQL EXPLAIN plans from the CLI
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [Astro-Han/diffpane](https://github.com/Astro-Han/diffpane) - Real-time TUI diff viewer for AI coding agents
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
 - [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [Nayjest/Gito](https://github.com/Nayjest/Gito) - An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.
@@ -4920,6 +4922,10 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [microsoft/GraphEngine](https://github.com/microsoft/GraphEngine) - Microsoft Graph Engine
 - [apache/avro](https://github.com/apache/avro) - Apache Avro is a data serialization system.
+
+## dsh-plugin 
+
+- [openma-ai/open-managed-agents](https://github.com/openma-ai/open-managed-agents) - Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible; runs on Cloudflare Workers/Durable Objects or Node.js. Apache 2.0.
 
 ## education 
 
@@ -7740,7 +7746,7 @@
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 - [LeanModels/DFloat11](https://github.com/LeanModels/DFloat11) - DFloat11 [NeurIPS '25]: Lossless Compression of LLMs and DiTs for Efficient GPU Inference
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime Voice AI Toys with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Companions, and Devices
 - [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - Curated list of datasets and tools for post-training.
@@ -8654,6 +8660,7 @@
 - [hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account) - Switch between isolated Claude Code accounts on Linux and macOS without logging in again.
 - [VladUZH/qwen-scribe](https://github.com/VladUZH/qwen-scribe) - Private, local transcription and system-wide dictation for Apple Silicon.
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
@@ -8789,7 +8796,6 @@
 
 ## mcp 
 
-- [openma-ai/open-managed-agents](https://github.com/openma-ai/open-managed-agents) - Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible; runs on Cloudflare Workers/Durable Objects or Node.js. Apache 2.0.
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [dbalabka/chrome-wsl](https://github.com/dbalabka/chrome-wsl) - Simplifies Chrome DevTools MCP setup for WSL and Docker by automating Chrome remote debugging and network proxy bridging.
@@ -8865,7 +8871,7 @@
 - [grafbase/grafbase](https://github.com/grafbase/grafbase) - [Acquired by The Guild] The Grafbase GraphQL Federation Gateway
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [morloc-project/morloc](https://github.com/morloc-project/morloc) - A strongly-typed, polyglot compiler
@@ -9787,7 +9793,6 @@
 
 ## no-code 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [valentin-vogel/awesome-nocode-lowcode](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A curated list of awesome nocode and lowcode ressources for building software without code.
 - [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) - Awesome Low Code platforms, vendors, tools and resources
@@ -10463,6 +10468,7 @@
 
 ## others 
 
+- [cordiverse/paper](https://github.com/cordiverse/paper) - A Programming Paradigm for Spatiotemporal Composability
 - [duyet/oma](https://github.com/duyet/oma) - Open Managed Agents and self-hosted Claude Tag-style agent runtime. Drop-in compatible; runs on Cloudflare Workers/Durable Objects or Node.js
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [ippontech/terraform-provider-anthropic](https://github.com/ippontech/terraform-provider-anthropic) - The Anthropic Provider enables Terraform to manage Anthropic resources.
@@ -16382,7 +16388,7 @@
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 - [ictnlp/FlexRAG](https://github.com/ictnlp/FlexRAG) - FlexRAG: A RAG Framework for Information Retrieval and Generation.
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) - An MCP server implementation that provides tools for retrieving and processing documentation through vector search, enabling AI assistants to augment their responses with relevant documentation contex
 - [lightonai/pylate](https://github.com/lightonai/pylate) - Late Interaction Models Training & Retrieval
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -17288,7 +17294,6 @@
 
 ## self-hosted 
 
-- [openma-ai/open-managed-agents](https://github.com/openma-ai/open-managed-agents) - Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible; runs on Cloudflare Workers/Durable Objects or Node.js. Apache 2.0.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm) - Compose Farm - run docker compose commands across multiple hosts
 - [linchpinhq/linchpin](https://github.com/linchpinhq/linchpin) - Open-source, self-hostable runtime for managed AI agents. Apache-2.0.
@@ -18014,7 +18019,7 @@
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [Astro-Han/diffpane](https://github.com/Astro-Han/diffpane) - Real-time TUI diff viewer for AI coding agents
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [iagooar/qqqa](https://github.com/iagooar/qqqa) - Fast, stateless LLM for your shell: qq answers; qa runs commands
@@ -18251,7 +18256,6 @@
 - [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok, Gemini CLI) in tmux: live status, group tree, quick prompts, diff review. macOS, Linux, Windows via WSL2.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [Astro-Han/diffpane](https://github.com/Astro-Han/diffpane) - Real-time TUI diff viewer for AI coding agents
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) - A terminal OpenTelemetry viewer inspired by otel-desktop-viewer
