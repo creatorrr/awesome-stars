@@ -165,6 +165,7 @@
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [mat-mgm/kb-prolog](https://github.com/mat-mgm/kb-prolog) - A hyper-relational knowledge base with content-addressable storage, built on Prolog, SQLite, and C.
+- [kablorp/blorp](https://github.com/kablorp/blorp) - A safe, readable, and fast programming language
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [DataDog/pg_tracing](https://github.com/DataDog/pg_tracing) - Distributed Tracing for PostgreSQL
@@ -312,6 +313,7 @@
 - [gittup/tup](https://github.com/gittup/tup) - Tup is a file-based build system.
 - [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd) - A socket daemon to multiplex connections from and to iOS devices
 - [thetrime/proscript2](https://github.com/thetrime/proscript2) - If at first you don't succeed
+- [masashi-y/depccg](https://github.com/masashi-y/depccg) - A* CCG Parser with a Supertag and Dependency Factored Model
 - [tmate-io/tmate-ssh-server](https://github.com/tmate-io/tmate-ssh-server) - tmate SSH server
 - [troglobit/redir](https://github.com/troglobit/redir) - A TCP port redirector for UNIX
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
@@ -950,6 +952,7 @@
 
 ## Go 
 
+- [lajosdeme/mole](https://github.com/lajosdeme/mole) - A deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.
 - [ippontech/terraform-provider-anthropic](https://github.com/ippontech/terraform-provider-anthropic) - The Anthropic Provider enables Terraform to manage Anthropic resources.
 - [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok, Gemini CLI) in tmux: live status, group tree, quick prompts, diff review. macOS, Linux, Windows via WSL2.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
@@ -1202,7 +1205,7 @@
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
@@ -2702,7 +2705,6 @@
 ## Jsonnet 
 
 - [monitoringartist/grafana-aws-cloudwatch-dashboards](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards) - :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
-- [masashi-y/depccg](https://github.com/masashi-y/depccg) - A* CCG Parser with a Supertag and Dependency Factored Model
 
 ## Julia 
 
@@ -2947,7 +2949,6 @@
 - [kohjingyu/fromage](https://github.com/kohjingyu/fromage) - 🧀 Code and models for the ICML 2023 paper "Grounding Language Models to Images for Multimodal Inputs and Outputs".
 - [ysymyth/ReAct](https://github.com/ysymyth/ReAct) - [ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models
 - [texttron/hyde](https://github.com/texttron/hyde) - HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels
-- [in-rolls/indicate](https://github.com/in-rolls/indicate) - transliterate hindi, punjabi to english
 - [salesforce/botsim](https://github.com/salesforce/botsim) - BotSIM - a data-efficient end-to-end Bot SIMulation toolkit for evaluation, diagnosis, and improvement of commercial chatbots
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [wenhuchen/Time-Sensitive-QA](https://github.com/wenhuchen/Time-Sensitive-QA) - Code and Data for NeurIPS2021 Paper "A Dataset for Answering Time-Sensitive Questions"
@@ -3301,7 +3302,6 @@
 ## OCaml 
 
 - [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
-- [kablorp/blorp](https://github.com/kablorp/blorp) - A safe, readable, and fast programming language
 - [raven-ml/raven](https://github.com/raven-ml/raven) - Modern scientific computing for OCaml
 - [inhabitedtype/angstrom](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
 - [hirrolot/mazeppa](https://github.com/hirrolot/mazeppa) - A modern supercompiler for call-by-value functional languages
@@ -3856,6 +3856,7 @@
 - [mitocw/content-mit-18-01-1x-captions](https://github.com/mitocw/content-mit-18-01-1x-captions) - Subtitles / captions for videos in MIT 18.01.1x
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
+- [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)
 - [pyannote/DEPRECATED-pyannote-audio-hub](https://github.com/pyannote/DEPRECATED-pyannote-audio-hub) - [deprecated] Pretrained models for pyannote-audio 1.x
 - [streamnative/awesome-pulsar](https://github.com/streamnative/awesome-pulsar) - A curated list of Pulsar tools, integrations and resources.
 - [talhanai/speech-nlp-datasets](https://github.com/talhanai/speech-nlp-datasets) - Contains links to publicly available datasets for modeling health outcomes using speech and language.
@@ -5896,6 +5897,7 @@
 - [run-house/kubetorch](https://github.com/run-house/kubetorch) - Distribute and run AI workloads on Kubernetes magically in Python, like PyTorch for ML infra.
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
 - [pemistahl/lingua-py](https://github.com/pemistahl/lingua-py) - The most accurate natural language detection library for Python, suitable for short text and mixed-language text
+- [in-rolls/indicate](https://github.com/in-rolls/indicate) - transliterate hindi, punjabi to english
 - [darrenburns/ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
 - [google-research-datasets/QED](https://github.com/google-research-datasets/QED) - QED: A Framework and Dataset for Explanations in Question Answering
 - [dailyedit/spatgen](https://github.com/dailyedit/spatgen) - Pattern generating DSL for spaCy's Matcher
@@ -6836,7 +6838,6 @@
 - [samrat-halder/personality-detection-with-BERT-RoBERT](https://github.com/samrat-halder/personality-detection-with-BERT-RoBERT) - Detection of MBTI-type personality with NLP and Deep Learning
 - [hjian42/automatic-personality-prediction](https://github.com/hjian42/automatic-personality-prediction) - [AAAI SAP 2020] Modeling Personality with Attentive Networks and Contextual Embeddings
 - [georgian-io/Multimodal-Toolkit](https://github.com/georgian-io/Multimodal-Toolkit) - Multimodal model for text and tabular data with HuggingFace transformers as building block for text data
-- [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)
 - [allenai/unifiedqa](https://github.com/allenai/unifiedqa) - UnifiedQA: Crossing Format Boundaries With a Single QA System
 - [cooelf/AwesomeMRC](https://github.com/cooelf/AwesomeMRC) - IJCAI 2021 Tutorial & code for Retrospective Reader for Machine Reading Comprehension (AAAI 2021)
 - [INK-USC/CommonGen](https://github.com/INK-USC/CommonGen) - A Constrained Text Generation Challenge Towards Generative Commonsense Reasoning
@@ -8428,7 +8429,7 @@
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [axeldelafosse/loop](https://github.com/axeldelafosse/loop) - Dead-simple Bun CLI that runs Codex and Claude Code in a loop.
