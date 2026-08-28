@@ -407,7 +407,7 @@
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [anchen1011/FireAct](https://github.com/anchen1011/FireAct) - FireAct: Toward Language Agent Fine-tuning
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
@@ -754,7 +754,7 @@
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
@@ -2468,7 +2468,7 @@
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [microsoftarchive/promptbench](https://github.com/microsoftarchive/promptbench) - A unified evaluation framework for large language models
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [liyucheng09/Selective_Context](https://github.com/liyucheng09/Selective_Context) - Compress your input to ChatGPT or other LLMs, to let them process 2x more content and save 40% memory and GPU time.
 - [beyimjan/shell-whiz](https://github.com/beyimjan/shell-whiz) - ‍✨ AI assistant for the command line
@@ -4990,6 +4990,7 @@
 
 ## emacs 
 
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) - Emacs Plus formulae for the Homebrew package manager
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; Terminal OS
@@ -7352,7 +7353,7 @@
 - [timescale/helm-charts](https://github.com/timescale/helm-charts) - Configuration and Documentation to run TimescaleDB in your Kubernetes cluster
 - [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 - [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with Helm charts.
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
+- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs an
 - [mlrun/mlrun](https://github.com/mlrun/mlrun) - MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates t
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
@@ -7900,7 +7901,7 @@
 - [SeanLee97/AnglE](https://github.com/SeanLee97/AnglE) - Train and Infer Powerful Sentence Embeddings with AnglE | 🔥 SOTA on STS and MTEB Leaderboard
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 - [horseee/LLM-Pruner](https://github.com/horseee/LLM-Pruner) - [NeurIPS 2023] LLM-Pruner: On the Structural Pruning of Large Language Models. Support Llama-3/3.1, Llama-2, LLaMA,  BLOOM, Vicuna, Baichuan, TinyLlama, etc.
 - [SqueezeAILab/SqueezeLLM](https://github.com/SqueezeAILab/SqueezeLLM) - [ICML 2024] SqueezeLLM: Dense-and-Sparse Quantization
@@ -10334,7 +10335,7 @@
 - [Azure/GPT-RAG](https://github.com/Azure/GPT-RAG) - Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azu
 - [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [dcrebbin/meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "Hey Meta send a message to ChatGPT" Mai: A Hacky Messenger browser extension & pseudo API for the Meta Glasses :eyeglasses:
@@ -10473,6 +10474,7 @@
 
 ## others 
 
+- [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
 - [acuminous/yadda](https://github.com/acuminous/yadda) - A BDD javascript library
 - [lajosdeme/mole](https://github.com/lajosdeme/mole) - A deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.
 - [cordiverse/paper](https://github.com/cordiverse/paper) - A Programming Paradigm for Spatiotemporal Composability
@@ -14895,6 +14897,7 @@
 
 ## productivity 
 
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [iagooar/qqqa](https://github.com/iagooar/qqqa) - Fast, stateless LLM for your shell: qq answers; qa runs commands
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
@@ -15284,7 +15287,7 @@
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
 - [art-from-the-machine/Mantella](https://github.com/art-from-the-machine/Mantella) - Mantella is a Skyrim and Fallout 4 mod which allows you to naturally speak to NPCs using a Speech-to-Text → LLMs → Text-to-Speech pipeline
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [olirice/flupy](https://github.com/olirice/flupy) - Fluent data pipelines for python and your shell
 - [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
 - [ingolemo/python-lenses](https://github.com/ingolemo/python-lenses) - A python lens library for manipulating deeply nested immutable structures
@@ -16799,7 +16802,7 @@
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [microsoft/jericho](https://github.com/microsoft/jericho) - A learning environment for man-made Interactive Fiction games.
 - [ZJLAB-AMMI/LLM4RL](https://github.com/ZJLAB-AMMI/LLM4RL) - A RL approach to enable cost-effective, intelligent interactions between a local agent and a remote LLM
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
@@ -17335,7 +17338,7 @@
 - [transitive-bullshit/OpenOpenAI](https://github.com/transitive-bullshit/OpenOpenAI) - Self-hosted version of OpenAI’s new stateful Assistants API
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -17751,7 +17754,7 @@
 - [philipturner/metal-flash-attention](https://github.com/philipturner/metal-flash-attention) - FlashAttention (Metal Port)
 - [pkuliyi2015/sd-webui-stablesr](https://github.com/pkuliyi2015/sd-webui-stablesr) - StableSR for Stable Diffusion WebUI - Ultra High-quality Image Upscaler
 - [IceClear/StableSR](https://github.com/IceClear/StableSR) - [IJCV2024] Exploiting Diffusion Prior for Real-World Image Super-Resolution
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [radames/Real-Time-Latent-Consistency-Model](https://github.com/radames/Real-Time-Latent-Consistency-Model) - App showcasing multiple real-time diffusion models pipelines with Diffusers
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 - [varunshenoy/opendream](https://github.com/varunshenoy/opendream) - An extensible, easy-to-use, and portable diffusion web UI 👨‍🎨
@@ -18217,7 +18220,7 @@
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [johnGettings/LIHQ](https://github.com/johnGettings/LIHQ) - Long-Inference, High Quality Synthetic Speaker (AI avatar/ AI presenter)
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [gitmylo/bark-voice-cloning-HuBERT-quantizer](https://github.com/gitmylo/bark-voice-cloning-HuBERT-quantizer) - The code for the bark-voicecloning model. Training and inference.
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
@@ -18602,7 +18605,7 @@
 - [localvoid/ivi](https://github.com/localvoid/ivi) - Lighweight Embeddable Web UI Library
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) - [COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [tarasglek/chatcraft.org](https://github.com/tarasglek/chatcraft.org) - Developer-oriented ChatGPT clone
@@ -18659,7 +18662,7 @@
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) - Interactively explore unstructured datasets from your dataframe.
 - [johnGettings/LIHQ](https://github.com/johnGettings/LIHQ) - Long-Inference, High Quality Synthetic Speaker (AI avatar/ AI presenter)
-- [ant-research/CoDeF](https://github.com/ant-research/CoDeF) - [CVPR'24 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
+- [robbyant-research/CoDeF](https://github.com/robbyant-research/CoDeF) - [CVPR'24 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program & library.
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
@@ -18680,6 +18683,7 @@
 
 ## vim 
 
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
