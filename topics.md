@@ -10472,6 +10472,8 @@
 
 ## others 
 
+- [alexpetros/triptych](https://github.com/alexpetros/triptych) - HTTP Buttons, PUT/DELETE Forms, and Partial Page Replacement - three proposals for the HTML standard
+- [markmead/alpinejs-component](https://github.com/markmead/alpinejs-component) - Directive-based Alpine.js components with slots and cached template rendering
 - [paveluv/e](https://github.com/paveluv/e) - A fully customizable self-aware Emacs-like editor written in Chez Scheme.
 - [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
 - [acuminous/yadda](https://github.com/acuminous/yadda) - A BDD javascript library
@@ -10571,7 +10573,6 @@
 - [mlfoundations/Gelato](https://github.com/mlfoundations/Gelato) - 🍨 Gelato — From Data Curation to Reinforcement Learning: Building a Strong Grounding Model for Computer-Use Agents
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
-- [RUC-NLPIR/ARPO](https://github.com/RUC-NLPIR/ARPO) - [ICLR 2026] Agentic Reinforced Policy Optimization (ARPO)
 - [RUC-NLPIR/Tool-Star](https://github.com/RUC-NLPIR/Tool-Star) - 🔧Tool-Star: Empowering LLM-brained Multi-Tool Reasoner via Reinforcement Learning
 - [huggingface/OpenEnv](https://github.com/huggingface/OpenEnv) - An interface library for RL post training with environments.
 - [openpcc/openpcc](https://github.com/openpcc/openpcc) - An open-source framework for verifiably private AI inference
@@ -12684,7 +12685,6 @@
 - [dok/awesome-text-editing](https://github.com/dok/awesome-text-editing) - Collection of text editing resources and libraries for the web
 - [dimkanovikov/KITScenarist](https://github.com/dimkanovikov/KITScenarist) - Screenwriting software.
 - [bozdoz/typewritesomething](https://github.com/bozdoz/typewritesomething) - 
-- [1stOriginal/Awesome-Creative-Writing](https://github.com/1stOriginal/Awesome-Creative-Writing) - Awesome Creative Writing
 - [emanchado/narrows](https://github.com/emanchado/narrows) - Online storytelling system
 - [yowainwright/awesome-writing-tools](https://github.com/yowainwright/awesome-writing-tools) - A curated list of awesome tools for improving written communication
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
@@ -16782,6 +16782,7 @@
 
 ## reinforcement-learning 
 
+- [RUC-NLPIR/ARPO](https://github.com/RUC-NLPIR/ARPO) - [ICLR 2026] Agentic Reinforced Policy Optimization (ARPO)
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [NVlabs/QeRL](https://github.com/NVlabs/QeRL) - [ICLR 2026]QeRL enables RL for 32B LLMs on a single H100 GPU.
 - [open-thought/reasoning-gym](https://github.com/open-thought/reasoning-gym) - [NeurIPS 2025 Spotlight] Reasoning Environments for Reinforcement Learning with Verifiable Rewards
