@@ -495,7 +495,6 @@
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [thomwolf/Magic-Sand](https://github.com/thomwolf/Magic-Sand) - Magic-Sand is a software for operating an augmented reality sandbox
@@ -1036,6 +1035,7 @@
 - [dylibso/mcp.run-servlets](https://github.com/dylibso/mcp.run-servlets) - Official servlets for mcp.run published by @dylibso
 - [quackduck/uniclip](https://github.com/quackduck/uniclip) - Cross-platform shared clipboard
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
@@ -1834,6 +1834,7 @@
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
 - [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 - [nmatter1/smallville](https://github.com/nmatter1/smallville) - Generative Agents for video games. Based on Generative Agents: Interactive Simulacra of Human Behavior
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [HeidelTime/heideltime](https://github.com/HeidelTime/heideltime) - A multilingual, cross-domain temporal tagger developed at the Database Systems Research Group at Heidelberg University.
 - [dig-team/AMIE](https://github.com/dig-team/AMIE) - Rule mining in knowledge graphs
@@ -2287,7 +2288,6 @@
 - [aws-actions/aws-codebuild-run-build](https://github.com/aws-actions/aws-codebuild-run-build) - Run an AWS CodeBuild project as a step in a GitHub Actions workflow job.
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [millermedeiros/rocambole](https://github.com/millermedeiros/rocambole) - Recursively walk and transform EcmaScript AST
 - [estools/escodegen](https://github.com/estools/escodegen) - ECMAScript code generator
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
@@ -3490,7 +3490,6 @@
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [soGeneri/awesome-launch](https://github.com/soGeneri/awesome-launch) - A curated directory of free and friendly communities to showcase your side projects!
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [JailbreakBench/artifacts](https://github.com/JailbreakBench/artifacts) - Jailbreak artifacts for JailbreakBench
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS]
@@ -4585,7 +4584,7 @@
 - [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [mbird1258/Audio-Decomposition](https://github.com/mbird1258/Audio-Decomposition) - 
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [remghoost/meta-spirit-frontend](https://github.com/remghoost/meta-spirit-frontend) - 
 - [facebookresearch/spiritlm](https://github.com/facebookresearch/spiritlm) - Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
@@ -5032,7 +5031,6 @@
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - Large World Model -- Modeling Text and Video with Millions Context
 - [itsme2417/PolyMind](https://github.com/itsme2417/PolyMind) - A multimodal, function calling powered LLM webui.
 - [matthewrenze/jhu-llm-temperature](https://github.com/matthewrenze/jhu-llm-temperature) - The Effect of Sampling Temperature on Problem Solving in Large Language Models
-- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [Lichang-Chen/claude2-alpaca](https://github.com/Lichang-Chen/claude2-alpaca) - First instruction-tuning dataset distilled from Claude2 (52k Alpaca prompts)!
 - [valine/NeuralFlow](https://github.com/valine/NeuralFlow) - Visualize the intermediate output of Mistral 7B
 - [rentruewang/bocoel](https://github.com/rentruewang/bocoel) - Bayesian Optimization as a Coverage Tool for Evaluating LLMs. Accurate evaluation (benchmarking) that's 10 times faster with just a few lines of modular code.
@@ -6838,6 +6836,7 @@
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [nebula-orchestrator/manager](https://github.com/nebula-orchestrator/manager) - The API endpoint that manages nebula orchestrator clusters
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Edresson/VoiceSplit](https://github.com/Edresson/VoiceSplit) - VoiceSplit: Targeted Voice Separation by Speaker-Conditioned Spectrogram
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [shikharvaish28/mit-ocw-downloader](https://github.com/shikharvaish28/mit-ocw-downloader) - Got hands on a free WiFi and want to make the max use of it? Just run this script with the link of the MIT-OCW page link and it'll do all the hard work for you!
@@ -7914,6 +7913,7 @@
 - [pubgrub-rs/pubgrub](https://github.com/pubgrub-rs/pubgrub) - PubGrub version solving algorithm implemented in Rust
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [ruuda/rcl](https://github.com/ruuda/rcl) - A reasonable configuration language
@@ -8153,6 +8153,7 @@
 - [zelikos/davincibox](https://github.com/zelikos/davincibox) - Container for DaVinci Resolve installation and runtime dependencies on Linux. Mirrored to https://codeberg.org/zelikos/davincibox
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [julep-ai/memory-store-plugin](https://github.com/julep-ai/memory-store-plugin) - Intelligent development tracking and context management plugin for Claude Code using memory store
+- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [rz1989s/claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) - Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.
 - [acornprover/acornlib](https://github.com/acornprover/acornlib) - Acorn's standard library of mathematical facts.
 - [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
@@ -8412,6 +8413,7 @@
 
 ## TypeScript 
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [duyet/oma](https://github.com/duyet/oma) - Open Managed Agents and self-hosted Claude Tag-style agent runtime. Drop-in compatible; runs on Cloudflare Workers/Durable Objects or Node.js
 - [andrelandgraf/neon-auth-mcp-oauth](https://github.com/andrelandgraf/neon-auth-mcp-oauth) - PoC of an MCP server in a Next.js app with Neon Auth and custom OAuth flow for MCP.
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
@@ -8473,7 +8475,6 @@
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
 - [MCPJam/inspector](https://github.com/MCPJam/inspector) - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀 A fast Rsbuild-based static site generator.
-- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [antonkomarev/github-trending-archive](https://github.com/antonkomarev/github-trending-archive) - Daily archive historical GitHub trending repositories & developers by most popular programming and markup languages.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [devcontainers/ci](https://github.com/devcontainers/ci) - A GitHub Action and Azure DevOps Task designed to simplify using Dev Containers (https://containers.dev) in CI/CD systems.
@@ -8493,7 +8494,6 @@
 - [ProfSynapse/nexus](https://github.com/ProfSynapse/nexus) - 
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Unopinionated AI for the Shell. A lightweight AI CLI for scripts, pipelines, and automation, with a universal client for MCP, A2A, and other AI protocols. .
-- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source coding agent for the Grok API
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in.
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
