@@ -31,7 +31,6 @@
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
-- [Euphoria](#euphoria)
 - [F#](#f#)
 - [Flix](#flix)
 - [Fortran](#fortran)
@@ -916,10 +915,6 @@
 - [fogfish/datalog](https://github.com/fogfish/datalog) - simplified query engine based on logic programming paradigm
 - [CloudI/CloudI](https://github.com/CloudI/CloudI) - A Cloud at the lowest level!
 - [alpaca-lang/alpaca](https://github.com/alpaca-lang/alpaca) - Functional programming inspired by ML for the Erlang VM
-
-## Euphoria 
-
-- [paveluv/e](https://github.com/paveluv/e) - A fully customizable self-aware Emacs-like editor written in Chez Scheme.
 
 ## F# # 
 
@@ -8137,6 +8132,7 @@
 
 ## Scheme 
 
+- [paveluv/e](https://github.com/paveluv/e) - A fully customizable self-aware Emacs-like editor written in Chez Scheme.
 - [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
 - [miniKanren/miniKanren](https://github.com/miniKanren/miniKanren) - Canonical miniKanren implementation
 - [google/schism](https://github.com/google/schism) - A self-hosting Scheme to WebAssembly compiler
@@ -8737,7 +8733,6 @@
 - [imoneoi/openchat-ui](https://github.com/imoneoi/openchat-ui) - An open source UI for OpenChat models
 - [run-llama/chat-llamaindex](https://github.com/run-llama/chat-llamaindex) - 
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
-- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
