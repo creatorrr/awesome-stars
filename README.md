@@ -182,7 +182,6 @@
 - [aws/pgactive](https://github.com/aws/pgactive) - 
 - [supabase/supautils](https://github.com/supabase/supautils) - Unlock advanced Postgres features without granting SUPERUSER access
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
-- [RekGRpth/pg_task](https://github.com/RekGRpth/pg_task) - pg_task - job scheduler for PostgreSQL, Greenplum and Greengage: asynchronous background execution of SQL commands at user-defined time
 - [pgbigm/pg_bigm](https://github.com/pgbigm/pg_bigm) - The pg_bigm module provides full text search capability in PostgreSQL. This module allows a user to create 2-gram (bigram) index for faster full text search.
 - [Florents-Tselai/pgpdf](https://github.com/Florents-Tselai/pgpdf) - pdf type for Postgres
 - [tvondra/md5hash](https://github.com/tvondra/md5hash) - A custom data type for storing MD5 hashes (instead of the native TEXT varlena type).
@@ -2016,7 +2015,7 @@
 - [blotcms/blot](https://github.com/blotcms/blot) - Turns a folder into a website
 - [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
 - [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [robertheadley/chrome-debug-mcp](https://github.com/robertheadley/chrome-debug-mcp) - An MCP server to allow you to debug webpages using LLMs
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
@@ -2030,7 +2029,6 @@
 - [thesephist/litterate](https://github.com/thesephist/litterate) - Generate beautiful literate programming-style description of your code from comment annotations
 - [thesephist/entr](https://github.com/thesephist/entr) - A searchable repository of my personal notes from readings
 - [andywalters47/clearmail](https://github.com/andywalters47/clearmail) - Filter gmail with AI
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [jsvine/notebookjs](https://github.com/jsvine/notebookjs) - Render Jupyter/IPython notebooks on the fly, in the browser. (Or on the command line, if you'd like.)
 - [leonardomso/awesome-fsm](https://github.com/leonardomso/awesome-fsm) - 🤖 A curated list of awesome resources related to finite state machines and statecharts.
@@ -2904,7 +2902,7 @@
 - [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - LLM-based ontological extraction tools, including SPIRES
 - [lchen001/LLMDrift](https://github.com/lchen001/LLMDrift) - 
 - [prophesier/diff-svc](https://github.com/prophesier/diff-svc) - Singing Voice Conversion via diffusion model
-- [metainternal/llama-cookbook](https://github.com/metainternal/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [wbbeyourself/SCM4LLMs](https://github.com/wbbeyourself/SCM4LLMs) - Self-Controlled Memory System for LLMs
 - [tatsu-lab/alpaca_eval](https://github.com/tatsu-lab/alpaca_eval) - An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
@@ -4074,6 +4072,7 @@
 - [pgflow-dev/pgflow](https://github.com/pgflow-dev/pgflow) - Postgres-centric workflow engine with deep integration with Supabase
 - [denishpatel/pg-clone-schema](https://github.com/denishpatel/pg-clone-schema) - Postgres clone schema utility without need of going outside of database. Makes developers life easy by running single function to clone schema with all objects. It is very handy on Postgres RDS. Utili
 - [kouber/pg_auditor](https://github.com/kouber/pg_auditor) - PostgreSQL extension to log each DML statement and flashback transactions
+- [RekGRpth/pg_task](https://github.com/RekGRpth/pg_task) - pg_task - job scheduler for PostgreSQL, Greenplum and Greengage: asynchronous background execution of SQL commands at user-defined time
 - [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL
 - [xocolatl/periods](https://github.com/xocolatl/periods) - PERIODs and SYSTEM VERSIONING for PostgreSQL
 - [cybertec-postgresql/pgfaceting](https://github.com/cybertec-postgresql/pgfaceting) - Faceted query acceleration for PostgreSQL using roaring bitmaps
@@ -4164,7 +4163,7 @@
 - [pickwicksoft/pystreamapi](https://github.com/pickwicksoft/pystreamapi) - The Python Stream API Library offering Streams like you know from Java/Kotlin/Scala in Python with some cool extensions
 - [kamalfarahani/katharos](https://github.com/kamalfarahani/katharos) - A functional programming and concurrency library for Python: algebraic abstractions (Semigroups, Monoids, Functors, Applicatives, Monads), immutable data types, and message-passing concurrency, all de
 - [rapiddweller/datamimic](https://github.com/rapiddweller/datamimic) - Model-driven synthetic test data for CI/CD and analytics - deterministic, privacy-preserving, and domain-aware. Includes Python APIs, XML pipelines, and MCP/IDE integration to orchestrate realistic da
-- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [nathansutton/chad](https://github.com/nathansutton/chad) - chad: a coding agent for your macbook pro
 - [alvinwan/timefhuman](https://github.com/alvinwan/timefhuman) - Extract datetimes and durations from natural language text as Python objects. Supports ranges, lists, and more.
 - [ryanzhou/deepseek-v4-flash-mi300x](https://github.com/ryanzhou/deepseek-v4-flash-mi300x) - 
@@ -4801,7 +4800,7 @@
 - [vec2text/vec2text](https://github.com/vec2text/vec2text) - utilities for decoding deep representations (like sentence embeddings) back to text
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for GPU-accelerated simulation, robotics, and machine learning.
 - [princeton-nlp/SimPO](https://github.com/princeton-nlp/SimPO) - [NeurIPS 2024] SimPO: Simple Preference Optimization with a Reference-Free Reward
-- [astroautomata/PySR](https://github.com/astroautomata/PySR) - High-Performance Symbolic Regression in Python and Julia
+- [astroautomata/PySR](https://github.com/astroautomata/PySR) - Symbolic Learning in Python and Julia
 - [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - A library for mechanistic interpretability of GPT-style language models
 - [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -4820,7 +4819,7 @@
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
-- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi
+- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.8, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM5.3, Gemma4, Llava, Phi4
 - [microsoft/FILM](https://github.com/microsoft/FILM) - Official repo for "Make Your LLM Fully Utilize the Context"
 - [NVIDIA/RULER](https://github.com/NVIDIA/RULER) - This repo contains the source code for RULER: What’s the Real Context Size of Your Long-Context Language Models?
 - [bdambrosio/AllTheWorldAPlay](https://github.com/bdambrosio/AllTheWorldAPlay) - All the world is a play, we are but actors in it.
@@ -7784,7 +7783,7 @@
 - [ChuckHend/pg_vectorize](https://github.com/ChuckHend/pg_vectorize) - Full-text and semantic search on any Postgres
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [rorosen/zeekstd](https://github.com/rorosen/zeekstd) - Rust implementation of the Zstandard Seekable Format
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
@@ -7798,7 +7797,7 @@
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [pksunkara/pgx_ulid](https://github.com/pksunkara/pgx_ulid) - Postgres extension for ulid
 - [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) - Real-time analytics on Postgres tables
-- [rivet-dev/actors](https://github.com/rivet-dev/actors) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [supervc-stack/VectorChord-bm25](https://github.com/supervc-stack/VectorChord-bm25) - Native BM25 Ranking Index in PostgreSQL
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
@@ -8374,6 +8373,7 @@
 ## Svelte 
 
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 
 ## Swift 
@@ -8584,11 +8584,11 @@
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [sauravpanda/BrowserAI](https://github.com/sauravpanda/BrowserAI) - Run local LLMs like llama, deepseek-distill, kokoro and more inside your browser
 - [erikbrinkman/rmapi-js](https://github.com/erikbrinkman/rmapi-js) - JavaScript implementation of the reMarkable api
-- [hafaio/repub](https://github.com/hafaio/repub) - reMarkable ePub generator
+- [hafacc/repub](https://github.com/hafacc/repub) - reMarkable ePub generator
 - [ever-co/ever-teams](https://github.com/ever-co/ever-teams) - Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [val-town/codemirror-codeium](https://github.com/val-town/codemirror-codeium) - Codeium code completion integration for CodeMirror 6
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [ngxson/wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling on-browser LLM inference
