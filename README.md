@@ -1423,7 +1423,7 @@
 - [ckaznocha/protoc-gen-lint](https://github.com/ckaznocha/protoc-gen-lint) - A plug-in for Google's Protocol Buffers (protobufs) compiler to lint .proto files for style violations.
 - [nilslice/protolock](https://github.com/nilslice/protolock) - Protocol Buffer companion tool. Track your .proto files and prevent changes to messages and services which impact API compatibility.
 - [segmentio/chamber](https://github.com/segmentio/chamber) - CLI for managing secrets
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [go-interpreter/wagon](https://github.com/go-interpreter/wagon) - wagon, a WebAssembly-based Go interpreter, for Go.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
@@ -2285,7 +2285,6 @@
 - [aws-actions/aws-codebuild-run-build](https://github.com/aws-actions/aws-codebuild-run-build) - Run an AWS CodeBuild project as a step in a GitHub Actions workflow job.
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [millermedeiros/rocambole](https://github.com/millermedeiros/rocambole) - Recursively walk and transform EcmaScript AST
 - [estools/escodegen](https://github.com/estools/escodegen) - ECMAScript code generator
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
@@ -3918,7 +3917,6 @@
 - [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) - 🦕 A collection of Orpheus (Hack Club's mascot) drawings! Look at them at rawr.hackclub.com :)
 - [ieure/hyperspace-el](https://github.com/ieure/hyperspace-el) - Get there from here
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
-- [ValveSoftware/SteamVR-for-Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) - Issue tracker for the Linux port of SteamVR
 - [kcortis/malta-budget-social-opinion](https://github.com/kcortis/malta-budget-social-opinion) - A gold standard of annotated social opinion for the Malta Government Budget.
 - [brianspiering/awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp) - A curated list of awesome Deep Learning (DL) for Natural Language Processing (NLP) resources
 - [CLARIAH/awesome-humanities-ontologies](https://github.com/CLARIAH/awesome-humanities-ontologies) - A curated list of ontologies for Digital Humanities
@@ -4268,7 +4266,7 @@
 - [teremterem/claude-code-gpt-5-codex](https://github.com/teremterem/claude-code-gpt-5-codex) - Run Anthropic's Claude Code CLI with OpenAI models such as GPT-5-Codex, GPT-5.1, and others via a local LiteLLM proxy.
 - [ivanfioravanti/qwen-image-mps](https://github.com/ivanfioravanti/qwen-image-mps) - Qwen Image models through MPS
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [stepfun-ai/Step-Audio2](https://github.com/stepfun-ai/Step-Audio2) - Step-Audio 2 is an end-to-end multi-modal large language model designed for industry-strength audio understanding and speech conversation.
 - [Tencent-Hunyuan/HunyuanWorld-Voyager](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) - Voyager is an interactive RGBD video generation model conditioned on camera input, and supports real-time 3D reconstruction.
 - [cloudflare/workers-py](https://github.com/cloudflare/workers-py) - Write Cloudflare Workers in 100% Python via Pyodide.
@@ -5823,7 +5821,7 @@
 - [lukasHoel/text2room](https://github.com/lukasHoel/text2room) - Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models (ICCV2023).
 - [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
 - [THUDM/GLM](https://github.com/THUDM/GLM) - GLM (General Language Model)
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [metadsl/python-code-data](https://github.com/metadsl/python-code-data) - Translate Python's bytecode to data and back again...
 - [Martmists-GH/pymixin](https://github.com/Martmists-GH/pymixin) - Python code injection framework
 - [alimsk/goto-python](https://github.com/alimsk/goto-python) - goto statement for python
@@ -6839,6 +6837,7 @@
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [nebula-orchestrator/manager](https://github.com/nebula-orchestrator/manager) - The API endpoint that manages nebula orchestrator clusters
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Edresson/VoiceSplit](https://github.com/Edresson/VoiceSplit) - VoiceSplit: Targeted Voice Separation by Speaker-Conditioned Spectrogram
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [shikharvaish28/mit-ocw-downloader](https://github.com/shikharvaish28/mit-ocw-downloader) - Got hands on a free WiFi and want to make the max use of it? Just run this script with the link of the MIT-OCW page link and it'll do all the hard work for you!
@@ -7783,7 +7782,7 @@
 - [ChuckHend/pg_vectorize](https://github.com/ChuckHend/pg_vectorize) - Full-text and semantic search on any Postgres
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [rorosen/zeekstd](https://github.com/rorosen/zeekstd) - Rust implementation of the Zstandard Seekable Format
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast branchable microVM runtime and library for any workload
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
@@ -8279,6 +8278,7 @@
 - [tmux-plugins/tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play battery percentage and icon indicator for Tmux.
 - [tmux-plugins/tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) - Plugin that counts files on a specific mail directory
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+- [ValveSoftware/SteamVR-for-Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) - Issue tracker for the Linux port of SteamVR
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [chris-rock/vesper](https://github.com/chris-rock/vesper) - 🍸Vesper - HTTP Framework for Bash Shell
 - [chr15m/flk](https://github.com/chr15m/flk) - A LISP that runs wherever Bash is
