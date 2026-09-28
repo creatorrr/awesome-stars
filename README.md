@@ -165,7 +165,6 @@
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [mat-mgm/kb-prolog](https://github.com/mat-mgm/kb-prolog) - A hyper-relational knowledge base with content-addressable storage, built on Prolog, SQLite, and C.
-- [kablorp/blorp](https://github.com/kablorp/blorp) - A safe, readable, and fast programming language
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [DataDog/pg_tracing](https://github.com/DataDog/pg_tracing) - Distributed Tracing for PostgreSQL
@@ -949,13 +948,14 @@
 
 ## Go 
 
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [openai/terraform-provider-openai](https://github.com/openai/terraform-provider-openai) - The official Terraform provider for OpenAI.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [lajosdeme/mole](https://github.com/lajosdeme/mole) - A deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.
 - [ippontech/terraform-provider-anthropic](https://github.com/ippontech/terraform-provider-anthropic) - The Anthropic Provider enables Terraform to manage Anthropic resources.
-- [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - The fastest workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.
+- [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [pgplex/pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative Postgres schema migration. Agent friendly.
 - [stripe/pg-schema-diff](https://github.com/stripe/pg-schema-diff) - Go library for diffing Postgres schemas and generating SQL migrations
@@ -4158,6 +4158,10 @@
 
 ## Python 
 
+- [rokbenko/quackd](https://github.com/rokbenko/quackd) - One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain (Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM) and a decision LLM for mul
+- [mohit67890/imajev](https://github.com/mohit67890/imajev) - Open Jev-style typed-decision model that also takes images: photo + app state + typed questions in, calibrated probabilities out, locally.
+- [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) - JevBench v1 - a benchmark for Jev-class typed decision models: smart, cheap, fast, reliable, open.
+- [XiaomiRobotics/Xiaomi-Robotics-1](https://github.com/XiaomiRobotics/Xiaomi-Robotics-1) - Code for Xiaomi-Robotics-1
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 - [kyle-pena-nlp/jevchat](https://github.com/kyle-pena-nlp/jevchat) - Turns Jev into a chatbot
 - [pickwicksoft/pystreamapi](https://github.com/pickwicksoft/pystreamapi) - The Python Stream API Library offering Streams like you know from Java/Kotlin/Scala in Python with some cool extensions
@@ -4185,6 +4189,7 @@
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [runtm-ai/runtm](https://github.com/runtm-ai/runtm) - Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and other agents code and deploy software.
 - [pat-jj/harness-1](https://github.com/pat-jj/harness-1) - 🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search capability with a 20B model + stateful harness
+- [kablorp/blorp](https://github.com/kablorp/blorp) - A safe, readable, and fast programming language
 - [linchpinhq/linchpin](https://github.com/linchpinhq/linchpin) - Open-source, self-hostable runtime for managed AI agents. Apache-2.0.
 - [cactus-compute/needle](https://github.com/cactus-compute/needle) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
 - [besimple-oss/broccoli](https://github.com/besimple-oss/broccoli) - Broccoli turns Linear tickets into shipped PRs — powered by Claude and Codex, running on your own Google Cloud or Blaxel containers.
@@ -4405,7 +4410,7 @@
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [featureform/enrichmcp](https://github.com/featureform/enrichmcp) - EnrichMCP is a python framework for building data driven MCP servers
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice.
 - [databricks/judges](https://github.com/databricks/judges) - A small library of LLM judges
 - [huggingface/text-clustering](https://github.com/huggingface/text-clustering) - Easily embed, cluster and semantically label text datasets
 - [mbzuai-oryx/Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) - Awesome Reasoning LLM Tutorial/Survey/Guide
@@ -5242,7 +5247,6 @@
 - [jupyter-naas/abi](https://github.com/jupyter-naas/abi) - Open AI Operating System
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 - [PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) - 【EMNLP 2024🔥】Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [ericwtodd/function_vectors](https://github.com/ericwtodd/function_vectors) - Function Vectors in Large Language Models (ICLR 2024)
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python library for anomaly detection across tabular, time series, graph, text, image, and audio data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.
@@ -8144,7 +8148,7 @@
 - [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
 - [miniKanren/miniKanren](https://github.com/miniKanren/miniKanren) - Canonical miniKanren implementation
 - [google/schism](https://github.com/google/schism) - A self-hosting Scheme to WebAssembly compiler
-- [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) - Gerbil Scheme
+- [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) - Gerbil Scheme public release mirror; development happens at https://gerbil.cons.io
 - [opencog/opencog](https://github.com/opencog/opencog) - A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI)
 
 ## Shell 
@@ -8731,6 +8735,7 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [tldraw/make-real-starter](https://github.com/tldraw/make-real-starter) - Make it real
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [thefrontside/effection](https://github.com/thefrontside/effection) - Structured concurrency and effects for JavaScript
 - [mme/beakjs](https://github.com/mme/beakjs) - 🐦 Custom conversational assistants for your React app.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
