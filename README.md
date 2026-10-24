@@ -960,7 +960,7 @@
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [lajosdeme/mole](https://github.com/lajosdeme/mole) - A deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.
 - [ippontech/terraform-provider-anthropic](https://github.com/ippontech/terraform-provider-anthropic) - The Anthropic Provider enables Terraform to manage Anthropic resources.
-- [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.
+- [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI. Discord: discord.gg/ecS88An7pF
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [pgplex/pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative Postgres schema migration. Agent friendly.
 - [stripe/pg-schema-diff](https://github.com/stripe/pg-schema-diff) - Go library for diffing Postgres schemas and generating SQL migrations
@@ -2005,7 +2005,6 @@
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) - Claude Code as one-shot MCP server to have an agent in your agent.
 - [jasonjmcghee/WebMCP](https://github.com/jasonjmcghee/WebMCP) - Early WebMCP proposal / implementation - since evolved and worked on by much more capable folks that develop the web: https://github.com/webmachinelearning/webmcp
 - [samihalawa/awesome-claude-dxt](https://github.com/samihalawa/awesome-claude-dxt) - 🚀 The Ultimate Collection of Claude Desktop Extensions (.dxt) - 500+ extensions, comprehensive categories, featured showcases, and everything you need to supercharge your Claude Desktop experience!
-- [milisp/awesome-claude-dxt](https://github.com/milisp/awesome-claude-dxt) - Awesome Claude Desktop Extensions (dxt) (not only Claude) mcpb
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
@@ -3127,7 +3126,7 @@
 - [unhkd-dee/colab_tpu](https://github.com/unhkd-dee/colab_tpu) - Notebooks for colab that use the TPU
 - [Spandan-Madan/Me_Bot](https://github.com/Spandan-Madan/Me_Bot) - Build a bot that speaks like you!
 - [suragnair/alpha-zero-general](https://github.com/suragnair/alpha-zero-general) - A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more
-- [ale3otik/paraphrases-generator](https://github.com/ale3otik/paraphrases-generator) - Paraphrases generator based on RAVE.
+- [ginininety/paraphrases-generator](https://github.com/ginininety/paraphrases-generator) - Paraphrases generator based on RAVE.
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [tensorflow/adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees.
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
