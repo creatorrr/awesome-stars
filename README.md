@@ -162,6 +162,7 @@
 
 ## C 
 
+- [AprilRobotics/apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
 - [fyzugx/DEsk](https://github.com/fyzugx/DEsk) - 
 - [timescale/pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) - High-performance vector search for PostgreSQL
 - [ahmetomerv/photoc](https://github.com/ahmetomerv/photoc) - Command-line tools for photographers.
@@ -1455,7 +1456,6 @@
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [rtctunnel/rtctunnel](https://github.com/rtctunnel/rtctunnel) - build network tunnels over WebRTC
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
@@ -1858,7 +1858,7 @@
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructur
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [tilde-lab/pyfactxx](https://github.com/tilde-lab/pyfactxx) - Python bindings for upgraded FaCT++ description logic reasoner
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
 - [janishar/mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 - [Netflix/mantis](https://github.com/Netflix/mantis) - A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications
@@ -2049,7 +2049,7 @@
 - [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [tantaman/sqlite-rust-wasm](https://github.com/tantaman/sqlite-rust-wasm) - rust extensions loaded into a sqlite wasm build
 - [sergey-pimenov/awesome-web-animation](https://github.com/sergey-pimenov/awesome-web-animation) - A list of awesome web animation libraries, books, apps etc.
-- [michalochman/react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) - Write PixiJS applications using React declarative style.
+- [KalambaGames/react-pixi-fiber](https://github.com/KalambaGames/react-pixi-fiber) - Write PixiJS applications using React declarative style.
 - [NousResearch/Open-Reasoning-Tasks](https://github.com/NousResearch/Open-Reasoning-Tasks) - A comprehensive repository of reasoning tasks for LLMs (and beyond)
 - [spatialpixel/openai-p5js-template](https://github.com/spatialpixel/openai-p5js-template) - A simple template for using OpenAI with P5.js.
 - [spatialpixel/funkify](https://github.com/spatialpixel/funkify) - Web app to play with function calling in OpenAI
@@ -2346,7 +2346,7 @@
 - [SOHU-Co/kafka-node](https://github.com/SOHU-Co/kafka-node) - Node.js client for Apache Kafka 0.8 and later.
 - [Blizzard/node-rdkafka](https://github.com/Blizzard/node-rdkafka) - Node.js bindings for librdkafka
 - [dimanech/atlas-guide](https://github.com/dimanech/atlas-guide) - Atlas is living styleguide & pattern library static site generator with extensive CSS monitoring and components info that could be used virtually with any scss/css project.
-- [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
+- [ubuntu/dash-to-dock](https://github.com/ubuntu/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 - [yemount/pose-animator](https://github.com/yemount/pose-animator) - 
 - [arfct/itty-bitty](https://github.com/arfct/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [cloudflare/binary-install](https://github.com/cloudflare/binary-install) - Install binary applications via npm
@@ -2705,6 +2705,7 @@
 
 ## Jinja 
 
+- [autobase-tech/autobase](https://github.com/autobase-tech/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [neuroforgede/promswarm](https://github.com/neuroforgede/promswarm) - Modernized swarmprom
 - [GoogleCloudPlatform/deploymentmanager-samples](https://github.com/GoogleCloudPlatform/deploymentmanager-samples) - Deployment Manager samples and templates.
 
@@ -3178,6 +3179,7 @@
 
 ## Lean 
 
+- [mathcommunity/oai-math-revised](https://github.com/mathcommunity/oai-math-revised) - Math is of the people, by the people, and for the people, and we will cite the people.
 - [openai/math](https://github.com/openai/math) - 
 - [anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) - 
 - [longfellow-zk/longfellow-zk](https://github.com/longfellow-zk/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
@@ -4337,7 +4339,6 @@
 - [wemake-services/pytest-modified-env](https://github.com/wemake-services/pytest-modified-env) - Pytest plugin to fail a test if it leaves modified `os.environ` afterwards.
 - [gabrielcnr/pytest-datadir](https://github.com/gabrielcnr/pytest-datadir) - pytest plugin for manipulating test data directories and files
 - [pytest-dev/pyfakefs](https://github.com/pytest-dev/pyfakefs) - Provides a fake file system that mocks the Python file system modules.
-- [pgsql-io/multicorn2](https://github.com/pgsql-io/multicorn2) - An FDW for Python extensions
 - [supabase/pg_net](https://github.com/supabase/pg_net) - A PostgreSQL extension that enables asynchronous (non-blocking) HTTP/HTTPS requests with SQL
 - [aymenfurter/ai-podcast-generator](https://github.com/aymenfurter/ai-podcast-generator) - GPT-4o-Realtime based AI Podcast Generator
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
@@ -5782,7 +5783,7 @@
 - [google/autobound](https://github.com/google/autobound) - AutoBound automatically computes upper and lower bounds on functions.
 - [datapane/datapane](https://github.com/datapane/datapane) - Build and share data reports in 100% Python
 - [agiresearch/OpenAGI](https://github.com/agiresearch/OpenAGI) - OpenAGI: When LLM Meets Domain Experts
-- [fudan-zvg/Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) - Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).
+- [LogosIntelligenceLab/Semantic-Segment-Anything](https://github.com/LogosIntelligenceLab/Semantic-Segment-Anything) - Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).
 - [triton-inference-server/pytriton](https://github.com/triton-inference-server/pytriton) - PyTriton is a Flask/FastAPI-like interface that simplifies Triton's deployment in Python environments.
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [alexmojaki/executing](https://github.com/alexmojaki/executing) - Get information about what a Python frame is currently doing, particularly the AST node being executed
@@ -7407,6 +7408,7 @@
 - [SforAiDl/Neural-Voice-Cloning-With-Few-Samples](https://github.com/SforAiDl/Neural-Voice-Cloning-With-Few-Samples) - This repository has implementation for "Neural Voice Cloning With Few Samples"
 - [gabolsgabs/DALI](https://github.com/gabolsgabs/DALI) - DALI: a large Dataset of synchronised Audio, LyrIcs and vocal notes.
 - [SanjinKurelic/CaseBasedReasoning](https://github.com/SanjinKurelic/CaseBasedReasoning) - Find missing values in data set using Euclid distance, normalization and calculating information value, weight of evidence
+- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [carlthome/python-audio-effects](https://github.com/carlthome/python-audio-effects) - Apply audio effects such as reverb and EQ directly to audio files or NumPy ndarrays.
 - [google-deepmind/graph_nets](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
@@ -8130,7 +8132,7 @@
 - [dapr/docs](https://github.com/dapr/docs) - Dapr user documentation, used to build docs.dapr.io
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [jnsh/arc-theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements (actively maintained fork)
-- [julianolf/jekyll-theme-8bit](https://github.com/julianolf/jekyll-theme-8bit) - 👾 A Jekyll theme inspired by classic 8bit games.
+- [julianolf/jekyll-theme-8bit](https://github.com/julianolf/jekyll-theme-8bit) - A Jekyll theme inspired by classic 8bit games.
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 
 ## Scala 
@@ -8557,7 +8559,6 @@
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pClou
 - [makerkit/makerkit](https://github.com/makerkit/makerkit) - An Open Source Monorepo with libraries and utilities used in the Makerkit kits
-- [autobase-tech/autobase](https://github.com/autobase-tech/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [supabase/postgres-meta](https://github.com/supabase/postgres-meta) - A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 - [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
 - [arshad-yaseen/markdx](https://github.com/arshad-yaseen/markdx) - Simple, fast and flexible AI-powered Markdown editor
